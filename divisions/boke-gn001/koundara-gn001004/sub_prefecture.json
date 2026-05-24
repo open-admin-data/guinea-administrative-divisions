@@ -1,0 +1,380 @@
+[
+  {
+    "id": "GN00100401",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Guinguan",
+      "en": "Guinguan",
+      "slug": "guinguan-gn00100401"
+    },
+    "code": {
+      "id": "GN00100401",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001004",
+      "level": 2,
+      "name": {
+        "local": "Koundara",
+        "en": "Koundara",
+        "slug": "koundara-gn001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001004",
+        "level": 2,
+        "name": {
+          "local": "Koundara",
+          "en": "Koundara",
+          "slug": "koundara-gn001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.27",
+      "lon": "-12.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00100402",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kamabi",
+      "en": "Kamabi",
+      "slug": "kamabi-gn00100402"
+    },
+    "code": {
+      "id": "GN00100402",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001004",
+      "level": 2,
+      "name": {
+        "local": "Koundara",
+        "en": "Koundara",
+        "slug": "koundara-gn001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001004",
+        "level": 2,
+        "name": {
+          "local": "Koundara",
+          "en": "Koundara",
+          "slug": "koundara-gn001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.263",
+      "lon": "-13.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00100403",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koundara Ctre",
+      "en": "Koundara Ctre",
+      "slug": "koundara-ctre-gn00100403"
+    },
+    "code": {
+      "id": "GN00100403",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001004",
+      "level": 2,
+      "name": {
+        "local": "Koundara",
+        "en": "Koundara",
+        "slug": "koundara-gn001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001004",
+        "level": 2,
+        "name": {
+          "local": "Koundara",
+          "en": "Koundara",
+          "slug": "koundara-gn001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.486",
+      "lon": "-13.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00100404",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sambailo",
+      "en": "Sambailo",
+      "slug": "sambailo-gn00100404"
+    },
+    "code": {
+      "id": "GN00100404",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001004",
+      "level": 2,
+      "name": {
+        "local": "Koundara",
+        "en": "Koundara",
+        "slug": "koundara-gn001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001004",
+        "level": 2,
+        "name": {
+          "local": "Koundara",
+          "en": "Koundara",
+          "slug": "koundara-gn001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.555",
+      "lon": "-13.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00100405",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sareboido",
+      "en": "Sareboido",
+      "slug": "sareboido-gn00100405"
+    },
+    "code": {
+      "id": "GN00100405",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001004",
+      "level": 2,
+      "name": {
+        "local": "Koundara",
+        "en": "Koundara",
+        "slug": "koundara-gn001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001004",
+        "level": 2,
+        "name": {
+          "local": "Koundara",
+          "en": "Koundara",
+          "slug": "koundara-gn001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.365",
+      "lon": "-13.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00100406",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Termesse",
+      "en": "Termesse",
+      "slug": "termesse-gn00100406"
+    },
+    "code": {
+      "id": "GN00100406",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001004",
+      "level": 2,
+      "name": {
+        "local": "Koundara",
+        "en": "Koundara",
+        "slug": "koundara-gn001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001004",
+        "level": 2,
+        "name": {
+          "local": "Koundara",
+          "en": "Koundara",
+          "slug": "koundara-gn001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.288",
+      "lon": "-12.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00100407",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Youkounkoun",
+      "en": "Youkounkoun",
+      "slug": "youkounkoun-gn00100407"
+    },
+    "code": {
+      "id": "GN00100407",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001004",
+      "level": 2,
+      "name": {
+        "local": "Koundara",
+        "en": "Koundara",
+        "slug": "koundara-gn001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001004",
+        "level": 2,
+        "name": {
+          "local": "Koundara",
+          "en": "Koundara",
+          "slug": "koundara-gn001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.416",
+      "lon": "-13.105"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "GN00600501",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Fatako",
+      "en": "Fatako",
+      "slug": "fatako-gn00600501"
+    },
+    "code": {
+      "id": "GN00600501",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006005",
+      "level": 2,
+      "name": {
+        "local": "Tougue",
+        "en": "Tougue",
+        "slug": "tougue-gn006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006005",
+        "level": 2,
+        "name": {
+          "local": "Tougue",
+          "en": "Tougue",
+          "slug": "tougue-gn006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.221",
+      "lon": "-11.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600502",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Fello Koundoua",
+      "en": "Fello Koundoua",
+      "slug": "fello-koundoua-gn00600502"
+    },
+    "code": {
+      "id": "GN00600502",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006005",
+      "level": 2,
+      "name": {
+        "local": "Tougue",
+        "en": "Tougue",
+        "slug": "tougue-gn006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006005",
+        "level": 2,
+        "name": {
+          "local": "Tougue",
+          "en": "Tougue",
+          "slug": "tougue-gn006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.879",
+      "lon": "-11.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600503",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kansangui",
+      "en": "Kansangui",
+      "slug": "kansangui-gn00600503"
+    },
+    "code": {
+      "id": "GN00600503",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006005",
+      "level": 2,
+      "name": {
+        "local": "Tougue",
+        "en": "Tougue",
+        "slug": "tougue-gn006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006005",
+        "level": 2,
+        "name": {
+          "local": "Tougue",
+          "en": "Tougue",
+          "slug": "tougue-gn006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.202",
+      "lon": "-11.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600504",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koin",
+      "en": "Koin",
+      "slug": "koin-gn00600504"
+    },
+    "code": {
+      "id": "GN00600504",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006005",
+      "level": 2,
+      "name": {
+        "local": "Tougue",
+        "en": "Tougue",
+        "slug": "tougue-gn006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006005",
+        "level": 2,
+        "name": {
+          "local": "Tougue",
+          "en": "Tougue",
+          "slug": "tougue-gn006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.231",
+      "lon": "-11.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600505",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kolangui",
+      "en": "Kolangui",
+      "slug": "kolangui-gn00600505"
+    },
+    "code": {
+      "id": "GN00600505",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006005",
+      "level": 2,
+      "name": {
+        "local": "Tougue",
+        "en": "Tougue",
+        "slug": "tougue-gn006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006005",
+        "level": 2,
+        "name": {
+          "local": "Tougue",
+          "en": "Tougue",
+          "slug": "tougue-gn006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.092",
+      "lon": "-11.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600506",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kolet",
+      "en": "Kolet",
+      "slug": "kolet-gn00600506"
+    },
+    "code": {
+      "id": "GN00600506",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006005",
+      "level": 2,
+      "name": {
+        "local": "Tougue",
+        "en": "Tougue",
+        "slug": "tougue-gn006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006005",
+        "level": 2,
+        "name": {
+          "local": "Tougue",
+          "en": "Tougue",
+          "slug": "tougue-gn006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.443",
+      "lon": "-11.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600507",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Konah",
+      "en": "Konah",
+      "slug": "konah-gn00600507"
+    },
+    "code": {
+      "id": "GN00600507",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006005",
+      "level": 2,
+      "name": {
+        "local": "Tougue",
+        "en": "Tougue",
+        "slug": "tougue-gn006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006005",
+        "level": 2,
+        "name": {
+          "local": "Tougue",
+          "en": "Tougue",
+          "slug": "tougue-gn006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.513",
+      "lon": "-11.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600508",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kouratongo",
+      "en": "Kouratongo",
+      "slug": "kouratongo-gn00600508"
+    },
+    "code": {
+      "id": "GN00600508",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006005",
+      "level": 2,
+      "name": {
+        "local": "Tougue",
+        "en": "Tougue",
+        "slug": "tougue-gn006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006005",
+        "level": 2,
+        "name": {
+          "local": "Tougue",
+          "en": "Tougue",
+          "slug": "tougue-gn006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.701",
+      "lon": "-11.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600509",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tangali",
+      "en": "Tangali",
+      "slug": "tangali-gn00600509"
+    },
+    "code": {
+      "id": "GN00600509",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006005",
+      "level": 2,
+      "name": {
+        "local": "Tougue",
+        "en": "Tougue",
+        "slug": "tougue-gn006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006005",
+        "level": 2,
+        "name": {
+          "local": "Tougue",
+          "en": "Tougue",
+          "slug": "tougue-gn006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.326",
+      "lon": "-11.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600510",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tougue Ctre",
+      "en": "Tougue Ctre",
+      "slug": "tougue-ctre-gn00600510"
+    },
+    "code": {
+      "id": "GN00600510",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006005",
+      "level": 2,
+      "name": {
+        "local": "Tougue",
+        "en": "Tougue",
+        "slug": "tougue-gn006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006005",
+        "level": 2,
+        "name": {
+          "local": "Tougue",
+          "en": "Tougue",
+          "slug": "tougue-gn006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.457",
+      "lon": "-11.671"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

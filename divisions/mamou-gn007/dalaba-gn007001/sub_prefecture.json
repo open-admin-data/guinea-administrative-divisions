@@ -1,0 +1,542 @@
+[
+  {
+    "id": "GN00700101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bodie",
+      "en": "Bodie",
+      "slug": "bodie-gn00700101"
+    },
+    "code": {
+      "id": "GN00700101",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007001",
+      "level": 2,
+      "name": {
+        "local": "Dalaba",
+        "en": "Dalaba",
+        "slug": "dalaba-gn007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007001",
+        "level": 2,
+        "name": {
+          "local": "Dalaba",
+          "en": "Dalaba",
+          "slug": "dalaba-gn007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.041",
+      "lon": "-12.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00700102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dalaba Ctre",
+      "en": "Dalaba Ctre",
+      "slug": "dalaba-ctre-gn00700102"
+    },
+    "code": {
+      "id": "GN00700102",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007001",
+      "level": 2,
+      "name": {
+        "local": "Dalaba",
+        "en": "Dalaba",
+        "slug": "dalaba-gn007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007001",
+        "level": 2,
+        "name": {
+          "local": "Dalaba",
+          "en": "Dalaba",
+          "slug": "dalaba-gn007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.711",
+      "lon": "-12.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00700103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ditinn",
+      "en": "Ditinn",
+      "slug": "ditinn-gn00700103"
+    },
+    "code": {
+      "id": "GN00700103",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007001",
+      "level": 2,
+      "name": {
+        "local": "Dalaba",
+        "en": "Dalaba",
+        "slug": "dalaba-gn007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007001",
+        "level": 2,
+        "name": {
+          "local": "Dalaba",
+          "en": "Dalaba",
+          "slug": "dalaba-gn007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.885",
+      "lon": "-12.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00700104",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kaala",
+      "en": "Kaala",
+      "slug": "kaala-gn00700104"
+    },
+    "code": {
+      "id": "GN00700104",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007001",
+      "level": 2,
+      "name": {
+        "local": "Dalaba",
+        "en": "Dalaba",
+        "slug": "dalaba-gn007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007001",
+        "level": 2,
+        "name": {
+          "local": "Dalaba",
+          "en": "Dalaba",
+          "slug": "dalaba-gn007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.818",
+      "lon": "-12.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00700105",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kankalabe",
+      "en": "Kankalabe",
+      "slug": "kankalabe-gn00700105"
+    },
+    "code": {
+      "id": "GN00700105",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007001",
+      "level": 2,
+      "name": {
+        "local": "Dalaba",
+        "en": "Dalaba",
+        "slug": "dalaba-gn007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007001",
+        "level": 2,
+        "name": {
+          "local": "Dalaba",
+          "en": "Dalaba",
+          "slug": "dalaba-gn007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.129",
+      "lon": "-12.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00700106",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kebali",
+      "en": "Kebali",
+      "slug": "kebali-gn00700106"
+    },
+    "code": {
+      "id": "GN00700106",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007001",
+      "level": 2,
+      "name": {
+        "local": "Dalaba",
+        "en": "Dalaba",
+        "slug": "dalaba-gn007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007001",
+        "level": 2,
+        "name": {
+          "local": "Dalaba",
+          "en": "Dalaba",
+          "slug": "dalaba-gn007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.001",
+      "lon": "-12.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00700107",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koba",
+      "en": "Koba",
+      "slug": "koba-gn00700107"
+    },
+    "code": {
+      "id": "GN00700107",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007001",
+      "level": 2,
+      "name": {
+        "local": "Dalaba",
+        "en": "Dalaba",
+        "slug": "dalaba-gn007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007001",
+        "level": 2,
+        "name": {
+          "local": "Dalaba",
+          "en": "Dalaba",
+          "slug": "dalaba-gn007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.612",
+      "lon": "-12.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00700108",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mafara",
+      "en": "Mafara",
+      "slug": "mafara-gn00700108"
+    },
+    "code": {
+      "id": "GN00700108",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007001",
+      "level": 2,
+      "name": {
+        "local": "Dalaba",
+        "en": "Dalaba",
+        "slug": "dalaba-gn007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007001",
+        "level": 2,
+        "name": {
+          "local": "Dalaba",
+          "en": "Dalaba",
+          "slug": "dalaba-gn007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.94",
+      "lon": "-11.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00700109",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mitty",
+      "en": "Mitty",
+      "slug": "mitty-gn00700109"
+    },
+    "code": {
+      "id": "GN00700109",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007001",
+      "level": 2,
+      "name": {
+        "local": "Dalaba",
+        "en": "Dalaba",
+        "slug": "dalaba-gn007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007001",
+        "level": 2,
+        "name": {
+          "local": "Dalaba",
+          "en": "Dalaba",
+          "slug": "dalaba-gn007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.84",
+      "lon": "-12.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00700110",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mombeyah",
+      "en": "Mombeyah",
+      "slug": "mombeyah-gn00700110"
+    },
+    "code": {
+      "id": "GN00700110",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007001",
+      "level": 2,
+      "name": {
+        "local": "Dalaba",
+        "en": "Dalaba",
+        "slug": "dalaba-gn007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007001",
+        "level": 2,
+        "name": {
+          "local": "Dalaba",
+          "en": "Dalaba",
+          "slug": "dalaba-gn007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.238",
+      "lon": "-12.059"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,758 @@
+[
+  {
+    "id": "GN00500501",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bourouwal",
+      "en": "Bourouwal",
+      "slug": "bourouwal-gn00500501"
+    },
+    "code": {
+      "id": "GN00500501",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005005",
+      "level": 2,
+      "name": {
+        "local": "Telimele",
+        "en": "Telimele",
+        "slug": "telimele-gn005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005005",
+        "level": 2,
+        "name": {
+          "local": "Telimele",
+          "en": "Telimele",
+          "slug": "telimele-gn005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.094",
+      "lon": "-12.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500502",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Daramagnaky",
+      "en": "Daramagnaky",
+      "slug": "daramagnaky-gn00500502"
+    },
+    "code": {
+      "id": "GN00500502",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005005",
+      "level": 2,
+      "name": {
+        "local": "Telimele",
+        "en": "Telimele",
+        "slug": "telimele-gn005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005005",
+        "level": 2,
+        "name": {
+          "local": "Telimele",
+          "en": "Telimele",
+          "slug": "telimele-gn005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.857",
+      "lon": "-13.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500503",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gougoudje",
+      "en": "Gougoudje",
+      "slug": "gougoudje-gn00500503"
+    },
+    "code": {
+      "id": "GN00500503",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005005",
+      "level": 2,
+      "name": {
+        "local": "Telimele",
+        "en": "Telimele",
+        "slug": "telimele-gn005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005005",
+        "level": 2,
+        "name": {
+          "local": "Telimele",
+          "en": "Telimele",
+          "slug": "telimele-gn005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.872",
+      "lon": "-12.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500504",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koba",
+      "en": "Koba",
+      "slug": "koba-gn00500504"
+    },
+    "code": {
+      "id": "GN00500504",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005005",
+      "level": 2,
+      "name": {
+        "local": "Telimele",
+        "en": "Telimele",
+        "slug": "telimele-gn005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005005",
+        "level": 2,
+        "name": {
+          "local": "Telimele",
+          "en": "Telimele",
+          "slug": "telimele-gn005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.199",
+      "lon": "-13.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500505",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kollet",
+      "en": "Kollet",
+      "slug": "kollet-gn00500505"
+    },
+    "code": {
+      "id": "GN00500505",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005005",
+      "level": 2,
+      "name": {
+        "local": "Telimele",
+        "en": "Telimele",
+        "slug": "telimele-gn005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005005",
+        "level": 2,
+        "name": {
+          "local": "Telimele",
+          "en": "Telimele",
+          "slug": "telimele-gn005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.51",
+      "lon": "-13.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500506",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Konsotami",
+      "en": "Konsotami",
+      "slug": "konsotami-gn00500506"
+    },
+    "code": {
+      "id": "GN00500506",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005005",
+      "level": 2,
+      "name": {
+        "local": "Telimele",
+        "en": "Telimele",
+        "slug": "telimele-gn005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005005",
+        "level": 2,
+        "name": {
+          "local": "Telimele",
+          "en": "Telimele",
+          "slug": "telimele-gn005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.857",
+      "lon": "-13.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500507",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Missira",
+      "en": "Missira",
+      "slug": "missira-gn00500507"
+    },
+    "code": {
+      "id": "GN00500507",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005005",
+      "level": 2,
+      "name": {
+        "local": "Telimele",
+        "en": "Telimele",
+        "slug": "telimele-gn005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005005",
+        "level": 2,
+        "name": {
+          "local": "Telimele",
+          "en": "Telimele",
+          "slug": "telimele-gn005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.181",
+      "lon": "-13.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500508",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Santou",
+      "en": "Santou",
+      "slug": "santou-gn00500508"
+    },
+    "code": {
+      "id": "GN00500508",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005005",
+      "level": 2,
+      "name": {
+        "local": "Telimele",
+        "en": "Telimele",
+        "slug": "telimele-gn005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005005",
+        "level": 2,
+        "name": {
+          "local": "Telimele",
+          "en": "Telimele",
+          "slug": "telimele-gn005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.078",
+      "lon": "-13.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500509",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sarekali",
+      "en": "Sarekali",
+      "slug": "sarekali-gn00500509"
+    },
+    "code": {
+      "id": "GN00500509",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005005",
+      "level": 2,
+      "name": {
+        "local": "Telimele",
+        "en": "Telimele",
+        "slug": "telimele-gn005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005005",
+        "level": 2,
+        "name": {
+          "local": "Telimele",
+          "en": "Telimele",
+          "slug": "telimele-gn005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.994",
+      "lon": "-12.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500510",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sinta",
+      "en": "Sinta",
+      "slug": "sinta-gn00500510"
+    },
+    "code": {
+      "id": "GN00500510",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005005",
+      "level": 2,
+      "name": {
+        "local": "Telimele",
+        "en": "Telimele",
+        "slug": "telimele-gn005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005005",
+        "level": 2,
+        "name": {
+          "local": "Telimele",
+          "en": "Telimele",
+          "slug": "telimele-gn005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.637",
+      "lon": "-13.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500511",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sogolon",
+      "en": "Sogolon",
+      "slug": "sogolon-gn00500511"
+    },
+    "code": {
+      "id": "GN00500511",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005005",
+      "level": 2,
+      "name": {
+        "local": "Telimele",
+        "en": "Telimele",
+        "slug": "telimele-gn005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005005",
+        "level": 2,
+        "name": {
+          "local": "Telimele",
+          "en": "Telimele",
+          "slug": "telimele-gn005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.585",
+      "lon": "-13.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500512",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tarihoye",
+      "en": "Tarihoye",
+      "slug": "tarihoye-gn00500512"
+    },
+    "code": {
+      "id": "GN00500512",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005005",
+      "level": 2,
+      "name": {
+        "local": "Telimele",
+        "en": "Telimele",
+        "slug": "telimele-gn005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005005",
+        "level": 2,
+        "name": {
+          "local": "Telimele",
+          "en": "Telimele",
+          "slug": "telimele-gn005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.002",
+      "lon": "-13.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500513",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Telemele Ctre",
+      "en": "Telemele Ctre",
+      "slug": "telemele-ctre-gn00500513"
+    },
+    "code": {
+      "id": "GN00500513",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005005",
+      "level": 2,
+      "name": {
+        "local": "Telimele",
+        "en": "Telimele",
+        "slug": "telimele-gn005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005005",
+        "level": 2,
+        "name": {
+          "local": "Telimele",
+          "en": "Telimele",
+          "slug": "telimele-gn005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.871",
+      "lon": "-13.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500514",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Thionthian",
+      "en": "Thionthian",
+      "slug": "thionthian-gn00500514"
+    },
+    "code": {
+      "id": "GN00500514",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005005",
+      "level": 2,
+      "name": {
+        "local": "Telimele",
+        "en": "Telimele",
+        "slug": "telimele-gn005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005005",
+        "level": 2,
+        "name": {
+          "local": "Telimele",
+          "en": "Telimele",
+          "slug": "telimele-gn005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.785",
+      "lon": "-13.286"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,237 @@
+[
+  {
+    "id": "GN006001",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Koubia",
+      "en": "Koubia",
+      "slug": "koubia-gn006001"
+    },
+    "code": {
+      "id": "GN006001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006",
+      "level": 1,
+      "name": {
+        "local": "Labe",
+        "en": "Labe",
+        "slug": "labe-gn006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.77",
+      "lon": "-11.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN006002",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Labe",
+      "en": "Labe",
+      "slug": "labe-gn006002"
+    },
+    "code": {
+      "id": "GN006002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006",
+      "level": 1,
+      "name": {
+        "local": "Labe",
+        "en": "Labe",
+        "slug": "labe-gn006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.407",
+      "lon": "-12.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN006003",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Lelouma",
+      "en": "Lelouma",
+      "slug": "lelouma-gn006003"
+    },
+    "code": {
+      "id": "GN006003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006",
+      "level": 1,
+      "name": {
+        "local": "Labe",
+        "en": "Labe",
+        "slug": "labe-gn006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.518",
+      "lon": "-12.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN006004",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Mali",
+      "en": "Mali",
+      "slug": "mali-gn006004"
+    },
+    "code": {
+      "id": "GN006004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006",
+      "level": 1,
+      "name": {
+        "local": "Labe",
+        "en": "Labe",
+        "slug": "labe-gn006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.049",
+      "lon": "-12.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN006005",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Tougue",
+      "en": "Tougue",
+      "slug": "tougue-gn006005"
+    },
+    "code": {
+      "id": "GN006005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006",
+      "level": 1,
+      "name": {
+        "local": "Labe",
+        "en": "Labe",
+        "slug": "labe-gn006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.512",
+      "lon": "-11.494"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

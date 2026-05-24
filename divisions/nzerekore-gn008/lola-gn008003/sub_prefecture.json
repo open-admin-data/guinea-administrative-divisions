@@ -1,0 +1,488 @@
+[
+  {
+    "id": "GN00800301",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bossou",
+      "en": "Bossou",
+      "slug": "bossou-gn00800301"
+    },
+    "code": {
+      "id": "GN00800301",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008003",
+      "level": 2,
+      "name": {
+        "local": "Lola",
+        "en": "Lola",
+        "slug": "lola-gn008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008003",
+        "level": 2,
+        "name": {
+          "local": "Lola",
+          "en": "Lola",
+          "slug": "lola-gn008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.646",
+      "lon": "-8.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800302",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Foumbadou",
+      "en": "Foumbadou",
+      "slug": "foumbadou-gn00800302"
+    },
+    "code": {
+      "id": "GN00800302",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008003",
+      "level": 2,
+      "name": {
+        "local": "Lola",
+        "en": "Lola",
+        "slug": "lola-gn008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008003",
+        "level": 2,
+        "name": {
+          "local": "Lola",
+          "en": "Lola",
+          "slug": "lola-gn008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.291",
+      "lon": "-8.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800303",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gama Berema",
+      "en": "Gama Berema",
+      "slug": "gama-berema-gn00800303"
+    },
+    "code": {
+      "id": "GN00800303",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008003",
+      "level": 2,
+      "name": {
+        "local": "Lola",
+        "en": "Lola",
+        "slug": "lola-gn008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008003",
+        "level": 2,
+        "name": {
+          "local": "Lola",
+          "en": "Lola",
+          "slug": "lola-gn008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.894",
+      "lon": "-8.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800304",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gueasso",
+      "en": "Gueasso",
+      "slug": "gueasso-gn00800304"
+    },
+    "code": {
+      "id": "GN00800304",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008003",
+      "level": 2,
+      "name": {
+        "local": "Lola",
+        "en": "Lola",
+        "slug": "lola-gn008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008003",
+        "level": 2,
+        "name": {
+          "local": "Lola",
+          "en": "Lola",
+          "slug": "lola-gn008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.096",
+      "lon": "-8.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800305",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kokota",
+      "en": "Kokota",
+      "slug": "kokota-gn00800305"
+    },
+    "code": {
+      "id": "GN00800305",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008003",
+      "level": 2,
+      "name": {
+        "local": "Lola",
+        "en": "Lola",
+        "slug": "lola-gn008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008003",
+        "level": 2,
+        "name": {
+          "local": "Lola",
+          "en": "Lola",
+          "slug": "lola-gn008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.914",
+      "lon": "-8.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800306",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Laine",
+      "en": "Laine",
+      "slug": "laine-gn00800306"
+    },
+    "code": {
+      "id": "GN00800306",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008003",
+      "level": 2,
+      "name": {
+        "local": "Lola",
+        "en": "Lola",
+        "slug": "lola-gn008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008003",
+        "level": 2,
+        "name": {
+          "local": "Lola",
+          "en": "Lola",
+          "slug": "lola-gn008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.038",
+      "lon": "-8.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800307",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Lola Ctre",
+      "en": "Lola Ctre",
+      "slug": "lola-ctre-gn00800307"
+    },
+    "code": {
+      "id": "GN00800307",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008003",
+      "level": 2,
+      "name": {
+        "local": "Lola",
+        "en": "Lola",
+        "slug": "lola-gn008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008003",
+        "level": 2,
+        "name": {
+          "local": "Lola",
+          "en": "Lola",
+          "slug": "lola-gn008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.787",
+      "lon": "-8.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800308",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Nzoo",
+      "en": "Nzoo",
+      "slug": "nzoo-gn00800308"
+    },
+    "code": {
+      "id": "GN00800308",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008003",
+      "level": 2,
+      "name": {
+        "local": "Lola",
+        "en": "Lola",
+        "slug": "lola-gn008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008003",
+        "level": 2,
+        "name": {
+          "local": "Lola",
+          "en": "Lola",
+          "slug": "lola-gn008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.658",
+      "lon": "-8.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800309",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tounkarata",
+      "en": "Tounkarata",
+      "slug": "tounkarata-gn00800309"
+    },
+    "code": {
+      "id": "GN00800309",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008003",
+      "level": 2,
+      "name": {
+        "local": "Lola",
+        "en": "Lola",
+        "slug": "lola-gn008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008003",
+        "level": 2,
+        "name": {
+          "local": "Lola",
+          "en": "Lola",
+          "slug": "lola-gn008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.772",
+      "lon": "-8.169"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

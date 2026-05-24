@@ -1,0 +1,47 @@
+{
+  "id": "GN003001",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Dabola",
+    "en": "Dabola",
+    "slug": "dabola-gn003001"
+  },
+  "code": {
+    "id": "GN003001",
+    "iso": null
+  },
+  "parent": {
+    "id": "GN003",
+    "level": 1,
+    "name": {
+      "local": "Faranah",
+      "en": "Faranah",
+      "slug": "faranah-gn003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GN003",
+      "level": 1,
+      "name": {
+        "local": "Faranah",
+        "en": "Faranah",
+        "slug": "faranah-gn003"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.774",
+    "lon": "-11.076"
+  },
+  "metadata": {},
+  "source": {}
+}

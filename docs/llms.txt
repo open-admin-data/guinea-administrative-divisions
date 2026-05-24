@@ -1,0 +1,68 @@
+# Guinea Administrative Divisions
+
+> Open dataset of Guinea's administrative hierarchy:
+> 8 regions, 34 prefectures, 340 sub-prefectures.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total regions: 8
+- Total prefectures: 34
+- Total sub-prefectures: 340
+- Coordinates: included (all levels)
+- Last updated: 2026-05-24
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All regions (JSON)](https://raw.githubusercontent.com/open-admin-data/guinea-administrative-divisions/main/data/all-region.json)
+- [All prefectures (JSON)](https://raw.githubusercontent.com/open-admin-data/guinea-administrative-divisions/main/data/all-prefecture.json)
+- [All sub-prefectures (JSON)](https://raw.githubusercontent.com/open-admin-data/guinea-administrative-divisions/main/data/all-sub_prefecture.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/guinea-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/guinea-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/guinea-administrative-divisions/main/data/schema.json)
+
+## Browse by Region
+
+- [Boke](https://github.com/open-admin-data/guinea-administrative-divisions/tree/main/divisions/boke-gn001/) — 5 prefectures, 37 sub-prefectures
+- [Conakry](https://github.com/open-admin-data/guinea-administrative-divisions/tree/main/divisions/conakry-gn002/) — 1 prefectures, 5 sub-prefectures
+- [Faranah](https://github.com/open-admin-data/guinea-administrative-divisions/tree/main/divisions/faranah-gn003/) — 4 prefectures, 41 sub-prefectures
+- [Kankan](https://github.com/open-admin-data/guinea-administrative-divisions/tree/main/divisions/kankan-gn004/) — 5 prefectures, 57 sub-prefectures
+- [Kindia](https://github.com/open-admin-data/guinea-administrative-divisions/tree/main/divisions/kindia-gn005/) — 5 prefectures, 45 sub-prefectures
+- [Labe](https://github.com/open-admin-data/guinea-administrative-divisions/tree/main/divisions/labe-gn006/) — 5 prefectures, 53 sub-prefectures
+- [Mamou](https://github.com/open-admin-data/guinea-administrative-divisions/tree/main/divisions/mamou-gn007/) — 3 prefectures, 36 sub-prefectures
+- [Nzerekore](https://github.com/open-admin-data/guinea-administrative-divisions/tree/main/divisions/nzerekore-gn008/) — 6 prefectures, 66 sub-prefectures
+
+## Per-Region Full Data
+
+- [Boke](https://raw.githubusercontent.com/open-admin-data/guinea-administrative-divisions/main/docs/llms-full/boke-gn001.txt)
+- [Conakry](https://raw.githubusercontent.com/open-admin-data/guinea-administrative-divisions/main/docs/llms-full/conakry-gn002.txt)
+- [Faranah](https://raw.githubusercontent.com/open-admin-data/guinea-administrative-divisions/main/docs/llms-full/faranah-gn003.txt)
+- [Kankan](https://raw.githubusercontent.com/open-admin-data/guinea-administrative-divisions/main/docs/llms-full/kankan-gn004.txt)
+- [Kindia](https://raw.githubusercontent.com/open-admin-data/guinea-administrative-divisions/main/docs/llms-full/kindia-gn005.txt)
+- [Labe](https://raw.githubusercontent.com/open-admin-data/guinea-administrative-divisions/main/docs/llms-full/labe-gn006.txt)
+- [Mamou](https://raw.githubusercontent.com/open-admin-data/guinea-administrative-divisions/main/docs/llms-full/mamou-gn007.txt)
+- [Nzerekore](https://raw.githubusercontent.com/open-admin-data/guinea-administrative-divisions/main/docs/llms-full/nzerekore-gn008.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (region), 2 (prefecture), 3 (sub-prefecture)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Guinea Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/guinea-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

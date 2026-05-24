@@ -1,0 +1,47 @@
+{
+  "id": "GN006001",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Koubia",
+    "en": "Koubia",
+    "slug": "koubia-gn006001"
+  },
+  "code": {
+    "id": "GN006001",
+    "iso": null
+  },
+  "parent": {
+    "id": "GN006",
+    "level": 1,
+    "name": {
+      "local": "Labe",
+      "en": "Labe",
+      "slug": "labe-gn006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GN006",
+      "level": 1,
+      "name": {
+        "local": "Labe",
+        "en": "Labe",
+        "slug": "labe-gn006"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.77",
+    "lon": "-11.844"
+  },
+  "metadata": {},
+  "source": {}
+}

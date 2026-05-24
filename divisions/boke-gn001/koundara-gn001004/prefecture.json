@@ -1,0 +1,47 @@
+{
+  "id": "GN001004",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Koundara",
+    "en": "Koundara",
+    "slug": "koundara-gn001004"
+  },
+  "code": {
+    "id": "GN001004",
+    "iso": null
+  },
+  "parent": {
+    "id": "GN001",
+    "level": 1,
+    "name": {
+      "local": "Boke",
+      "en": "Boke",
+      "slug": "boke-gn001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GN001",
+      "level": 1,
+      "name": {
+        "local": "Boke",
+        "en": "Boke",
+        "slug": "boke-gn001"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.338",
+    "lon": "-13.136"
+  },
+  "metadata": {},
+  "source": {}
+}

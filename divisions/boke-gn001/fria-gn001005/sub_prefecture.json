@@ -1,0 +1,218 @@
+[
+  {
+    "id": "GN00100501",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Baguinet",
+      "en": "Baguinet",
+      "slug": "baguinet-gn00100501"
+    },
+    "code": {
+      "id": "GN00100501",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001005",
+      "level": 2,
+      "name": {
+        "local": "Fria",
+        "en": "Fria",
+        "slug": "fria-gn001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001005",
+        "level": 2,
+        "name": {
+          "local": "Fria",
+          "en": "Fria",
+          "slug": "fria-gn001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.564",
+      "lon": "-13.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00100502",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Banguigny",
+      "en": "Banguigny",
+      "slug": "banguigny-gn00100502"
+    },
+    "code": {
+      "id": "GN00100502",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001005",
+      "level": 2,
+      "name": {
+        "local": "Fria",
+        "en": "Fria",
+        "slug": "fria-gn001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001005",
+        "level": 2,
+        "name": {
+          "local": "Fria",
+          "en": "Fria",
+          "slug": "fria-gn001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.68",
+      "lon": "-13.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00100503",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Fria Ctre",
+      "en": "Fria Ctre",
+      "slug": "fria-ctre-gn00100503"
+    },
+    "code": {
+      "id": "GN00100503",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001005",
+      "level": 2,
+      "name": {
+        "local": "Fria",
+        "en": "Fria",
+        "slug": "fria-gn001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001005",
+        "level": 2,
+        "name": {
+          "local": "Fria",
+          "en": "Fria",
+          "slug": "fria-gn001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.407",
+      "lon": "-13.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00100504",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tormelin",
+      "en": "Tormelin",
+      "slug": "tormelin-gn00100504"
+    },
+    "code": {
+      "id": "GN00100504",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001005",
+      "level": 2,
+      "name": {
+        "local": "Fria",
+        "en": "Fria",
+        "slug": "fria-gn001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001005",
+        "level": 2,
+        "name": {
+          "local": "Fria",
+          "en": "Fria",
+          "slug": "fria-gn001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.35",
+      "lon": "-13.746"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

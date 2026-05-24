@@ -1,0 +1,542 @@
+[
+  {
+    "id": "GN00500401",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bangouya",
+      "en": "Bangouya",
+      "slug": "bangouya-gn00500401"
+    },
+    "code": {
+      "id": "GN00500401",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005004",
+      "level": 2,
+      "name": {
+        "local": "Kindia",
+        "en": "Kindia",
+        "slug": "kindia-gn005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005004",
+        "level": 2,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.377",
+      "lon": "-12.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500402",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Damakania",
+      "en": "Damakania",
+      "slug": "damakania-gn00500402"
+    },
+    "code": {
+      "id": "GN00500402",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005004",
+      "level": 2,
+      "name": {
+        "local": "Kindia",
+        "en": "Kindia",
+        "slug": "kindia-gn005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005004",
+        "level": 2,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.033",
+      "lon": "-12.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500403",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Friguiagbe",
+      "en": "Friguiagbe",
+      "slug": "friguiagbe-gn00500403"
+    },
+    "code": {
+      "id": "GN00500403",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005004",
+      "level": 2,
+      "name": {
+        "local": "Kindia",
+        "en": "Kindia",
+        "slug": "kindia-gn005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005004",
+        "level": 2,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.836",
+      "lon": "-12.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500404",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kindia Ctre",
+      "en": "Kindia Ctre",
+      "slug": "kindia-ctre-gn00500404"
+    },
+    "code": {
+      "id": "GN00500404",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005004",
+      "level": 2,
+      "name": {
+        "local": "Kindia",
+        "en": "Kindia",
+        "slug": "kindia-gn005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005004",
+        "level": 2,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.989",
+      "lon": "-12.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500405",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kolente",
+      "en": "Kolente",
+      "slug": "kolente-gn00500405"
+    },
+    "code": {
+      "id": "GN00500405",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005004",
+      "level": 2,
+      "name": {
+        "local": "Kindia",
+        "en": "Kindia",
+        "slug": "kindia-gn005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005004",
+        "level": 2,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.149",
+      "lon": "-12.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500406",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Madina Oula",
+      "en": "Madina Oula",
+      "slug": "madina-oula-gn00500406"
+    },
+    "code": {
+      "id": "GN00500406",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005004",
+      "level": 2,
+      "name": {
+        "local": "Kindia",
+        "en": "Kindia",
+        "slug": "kindia-gn005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005004",
+        "level": 2,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.913",
+      "lon": "-12.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500407",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mambia",
+      "en": "Mambia",
+      "slug": "mambia-gn00500407"
+    },
+    "code": {
+      "id": "GN00500407",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005004",
+      "level": 2,
+      "name": {
+        "local": "Kindia",
+        "en": "Kindia",
+        "slug": "kindia-gn005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005004",
+        "level": 2,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.774",
+      "lon": "-13.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500408",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Molota",
+      "en": "Molota",
+      "slug": "molota-gn00500408"
+    },
+    "code": {
+      "id": "GN00500408",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005004",
+      "level": 2,
+      "name": {
+        "local": "Kindia",
+        "en": "Kindia",
+        "slug": "kindia-gn005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005004",
+        "level": 2,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.846",
+      "lon": "-12.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500409",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Samaya",
+      "en": "Samaya",
+      "slug": "samaya-gn00500409"
+    },
+    "code": {
+      "id": "GN00500409",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005004",
+      "level": 2,
+      "name": {
+        "local": "Kindia",
+        "en": "Kindia",
+        "slug": "kindia-gn005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005004",
+        "level": 2,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.118",
+      "lon": "-13.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500410",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sougueta",
+      "en": "Sougueta",
+      "slug": "sougueta-gn00500410"
+    },
+    "code": {
+      "id": "GN00500410",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005004",
+      "level": 2,
+      "name": {
+        "local": "Kindia",
+        "en": "Kindia",
+        "slug": "kindia-gn005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005004",
+        "level": 2,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.294",
+      "lon": "-12.551"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

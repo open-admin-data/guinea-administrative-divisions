@@ -1,0 +1,27 @@
+# Guinea Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-24. License: CC-BY-4.0.
+
+## Per-Region Data Files
+
+- [Boke](https://github.com/open-admin-data/guinea-administrative-divisions/blob/main/docs/llms-full/boke-gn001.txt) — 5 prefectures, 37 sub-prefectures
+- [Conakry](https://github.com/open-admin-data/guinea-administrative-divisions/blob/main/docs/llms-full/conakry-gn002.txt) — 1 prefectures, 5 sub-prefectures
+- [Faranah](https://github.com/open-admin-data/guinea-administrative-divisions/blob/main/docs/llms-full/faranah-gn003.txt) — 4 prefectures, 41 sub-prefectures
+- [Kankan](https://github.com/open-admin-data/guinea-administrative-divisions/blob/main/docs/llms-full/kankan-gn004.txt) — 5 prefectures, 57 sub-prefectures
+- [Kindia](https://github.com/open-admin-data/guinea-administrative-divisions/blob/main/docs/llms-full/kindia-gn005.txt) — 5 prefectures, 45 sub-prefectures
+- [Labe](https://github.com/open-admin-data/guinea-administrative-divisions/blob/main/docs/llms-full/labe-gn006.txt) — 5 prefectures, 53 sub-prefectures
+- [Mamou](https://github.com/open-admin-data/guinea-administrative-divisions/blob/main/docs/llms-full/mamou-gn007.txt) — 3 prefectures, 36 sub-prefectures
+- [Nzerekore](https://github.com/open-admin-data/guinea-administrative-divisions/blob/main/docs/llms-full/nzerekore-gn008.txt) — 6 prefectures, 66 sub-prefectures
+
+## Summary
+
+| Region | Prefectures | Sub-prefectures | 
+|---|---|---|
+| Boke | 5 | 37 | 
+| Conakry | 1 | 5 | 
+| Faranah | 4 | 41 | 
+| Kankan | 5 | 57 | 
+| Kindia | 5 | 45 | 
+| Labe | 5 | 53 | 
+| Mamou | 3 | 36 | 
+| Nzerekore | 6 | 66 | 

@@ -1,0 +1,47 @@
+{
+  "id": "GN008002",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Gueckedou",
+    "en": "Gueckedou",
+    "slug": "gueckedou-gn008002"
+  },
+  "code": {
+    "id": "GN008002",
+    "iso": null
+  },
+  "parent": {
+    "id": "GN008",
+    "level": 1,
+    "name": {
+      "local": "Nzerekore",
+      "en": "Nzerekore",
+      "slug": "nzerekore-gn008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GN008",
+      "level": 1,
+      "name": {
+        "local": "Nzerekore",
+        "en": "Nzerekore",
+        "slug": "nzerekore-gn008"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.696",
+    "lon": "-10.21"
+  },
+  "metadata": {},
+  "source": {}
+}

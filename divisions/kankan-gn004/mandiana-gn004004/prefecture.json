@@ -1,0 +1,47 @@
+{
+  "id": "GN004004",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Mandiana",
+    "en": "Mandiana",
+    "slug": "mandiana-gn004004"
+  },
+  "code": {
+    "id": "GN004004",
+    "iso": null
+  },
+  "parent": {
+    "id": "GN004",
+    "level": 1,
+    "name": {
+      "local": "Kankan",
+      "en": "Kankan",
+      "slug": "kankan-gn004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GN004",
+      "level": 1,
+      "name": {
+        "local": "Kankan",
+        "en": "Kankan",
+        "slug": "kankan-gn004"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.815",
+    "lon": "-8.697"
+  },
+  "metadata": {},
+  "source": {}
+}

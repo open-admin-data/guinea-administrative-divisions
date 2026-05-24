@@ -1,0 +1,6 @@
+id,name.local,name.en,name.slug,code.id,children_count.sub_prefecture,geo.lat,geo.lon
+GN001001,Boffa,Boffa,boffa-gn001001,GN001001,8,10.352,-14.164
+GN001002,Boke,Boke,boke-gn001002,GN001002,10,11.072,-14.357
+GN001005,Fria,Fria,fria-gn001005,GN001005,4,10.535,-13.538
+GN001003,Gaoual,Gaoual,gaoual-gn001003,GN001003,8,11.692,-13.284
+GN001004,Koundara,Koundara,koundara-gn001004,GN001004,7,12.338,-13.136

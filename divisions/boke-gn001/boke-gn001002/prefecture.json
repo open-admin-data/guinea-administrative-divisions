@@ -1,0 +1,47 @@
+{
+  "id": "GN001002",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Boke",
+    "en": "Boke",
+    "slug": "boke-gn001002"
+  },
+  "code": {
+    "id": "GN001002",
+    "iso": null
+  },
+  "parent": {
+    "id": "GN001",
+    "level": 1,
+    "name": {
+      "local": "Boke",
+      "en": "Boke",
+      "slug": "boke-gn001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GN001",
+      "level": 1,
+      "name": {
+        "local": "Boke",
+        "en": "Boke",
+        "slug": "boke-gn001"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.072",
+    "lon": "-14.357"
+  },
+  "metadata": {},
+  "source": {}
+}

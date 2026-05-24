@@ -1,0 +1,262 @@
+# Kankan — Guinea Administrative Divisions
+
+> 5 prefectures, 57 sub-prefectures
+> Code: GN004
+> Coordinates: 10.629, -9.378
+> Last updated: 2026-05-24. License: CC-BY-4.0.
+
+## Prefectures
+
+### Kankan
+
+Code: GN004001, Coordinates: 10.225, -9.223
+Sub-prefectures: 13
+
+#### Balandougou
+
+Code: GN00400101, Coordinates: 10.503, -9.061
+
+#### Bate Nafadji
+
+Code: GN00400102, Coordinates: 10.841, -9.241
+
+#### Boula
+
+Code: GN00400103, Coordinates: 9.805, -8.398
+
+#### Gberedou Baranama
+
+Code: GN00400104, Coordinates: 10.439, -9.541
+
+#### Kankan Ctre
+
+Code: GN00400105, Coordinates: 10.371, -9.268
+
+#### Karifamoriah
+
+Code: GN00400106, Coordinates: 10.529, -9.346
+
+#### Koumban
+
+Code: GN00400107, Coordinates: 10.236, -9.532
+
+#### Mamouroudou
+
+Code: GN00400108, Coordinates: 9.591, -9.359
+
+#### Missamana
+
+Code: GN00400109, Coordinates: 10.225, -8.912
+
+#### Moribayah
+
+Code: GN00400110, Coordinates: 9.912, -9.567
+
+#### Sabadou Baranama
+
+Code: GN00400111, Coordinates: 9.935, -8.779
+
+#### Tinti Oulen
+
+Code: GN00400112, Coordinates: 10.069, -9.218
+
+#### Tokounou
+
+Code: GN00400113, Coordinates: 9.632, -9.732
+
+### Kerouane
+
+Code: GN004002, Coordinates: 9.348, -9.111
+Sub-prefectures: 8
+
+#### Banankoro
+
+Code: GN00400201, Coordinates: 9.192, -9.134
+
+#### Damaro
+
+Code: GN00400202, Coordinates: 9.096, -8.82
+
+#### Kerouane Ctre
+
+Code: GN00400203, Coordinates: 9.361, -9.049
+
+#### Komodou
+
+Code: GN00400204, Coordinates: 9.695, -8.997
+
+#### Konsankoro
+
+Code: GN00400205, Coordinates: 8.952, -8.882
+
+#### Linko
+
+Code: GN00400206, Coordinates: 9.467, -8.748
+
+#### Sibiribaro
+
+Code: GN00400207, Coordinates: 8.923, -9.322
+
+#### Soromaya
+
+Code: GN00400208, Coordinates: 9.161, -9.542
+
+### Kouroussa
+
+Code: GN004003, Coordinates: 10.486, -9.891
+Sub-prefectures: 12
+
+#### Babila
+
+Code: GN00400301, Coordinates: 10.637, -9.72
+
+#### Balato
+
+Code: GN00400302, Coordinates: 10.733, -9.538
+
+#### Banfele
+
+Code: GN00400303, Coordinates: 10.204, -9.949
+
+#### Baro
+
+Code: GN00400304, Coordinates: 10.441, -9.724
+
+#### Cissela
+
+Code: GN00400305, Coordinates: 10.95, -10.663
+
+#### Douako
+
+Code: GN00400306, Coordinates: 9.804, -10.07
+
+#### Doura
+
+Code: GN00400307, Coordinates: 10.873, -9.673
+
+#### Kiniero
+
+Code: GN00400308, Coordinates: 10.43, -9.957
+
+#### Komola Khoura
+
+Code: GN00400309, Coordinates: 11.16, -10.299
+
+#### Koumana
+
+Code: GN00400310, Coordinates: 10.761, -9.741
+
+#### Kouroussa Ctre
+
+Code: GN00400311, Coordinates: 10.661, -9.87
+
+#### Sanguiana
+
+Code: GN00400312, Coordinates: 10.819, -10.201
+
+### Mandiana
+
+Code: GN004004, Coordinates: 10.815, -8.697
+Sub-prefectures: 12
+
+#### Balandougouba
+
+Code: GN00400401, Coordinates: 11.343, -8.573
+
+#### Dialokoro
+
+Code: GN00400402, Coordinates: 11.384, -8.797
+
+#### Faralako
+
+Code: GN00400403, Coordinates: 10.663, -8.508
+
+#### Kantoumanina
+
+Code: GN00400404, Coordinates: 10.413, -8.731
+
+#### Kinieran
+
+Code: GN00400405, Coordinates: 11.128, -8.86
+
+#### Koundian
+
+Code: GN00400406, Coordinates: 10.838, -8.97
+
+#### Koundianakoro
+
+Code: GN00400407, Coordinates: 11.179, -8.671
+
+#### Mandiana Ctre
+
+Code: GN00400408, Coordinates: 10.607, -8.795
+
+#### Morodou
+
+Code: GN00400409, Coordinates: 10.913, -8.732
+
+#### Niantanina
+
+Code: GN00400410, Coordinates: 10.929, -8.439
+
+#### Saladou
+
+Code: GN00400411, Coordinates: 10.304, -8.276
+
+#### Sansando
+
+Code: GN00400412, Coordinates: 11.025, -9.061
+
+### Siguiri
+
+Code: GN004005, Coordinates: 11.677, -9.55
+Sub-prefectures: 12
+
+#### Bankon
+
+Code: GN00400501, Coordinates: 11.546, -8.872
+
+#### Doko
+
+Code: GN00400502, Coordinates: 11.767, -8.976
+
+#### Franwalia
+
+Code: GN00400503, Coordinates: 11.795, -9.443
+
+#### Kiniebakoura
+
+Code: GN00400504, Coordinates: 11.236, -9.187
+
+#### Kintinian
+
+Code: GN00400505, Coordinates: 11.546, -9.603
+
+#### Malea
+
+Code: GN00400506, Coordinates: 11.666, -9.768
+
+#### Naboun
+
+Code: GN00400507, Coordinates: 12.049, -9.502
+
+#### Niagassola
+
+Code: GN00400508, Coordinates: 12.104, -9.092
+
+#### Niandankoro
+
+Code: GN00400509, Coordinates: 11.204, -9.34
+
+#### Norassoba
+
+Code: GN00400510, Coordinates: 11.16, -9.64
+
+#### Siguiri Ctre
+
+Code: GN00400511, Coordinates: 11.409, -9.184
+
+#### Siguirini
+
+Code: GN00400512, Coordinates: 11.836, -10.044
+

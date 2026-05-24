@@ -1,0 +1,650 @@
+[
+  {
+    "id": "GN00400501",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bankon",
+      "en": "Bankon",
+      "slug": "bankon-gn00400501"
+    },
+    "code": {
+      "id": "GN00400501",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004005",
+      "level": 2,
+      "name": {
+        "local": "Siguiri",
+        "en": "Siguiri",
+        "slug": "siguiri-gn004005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004005",
+        "level": 2,
+        "name": {
+          "local": "Siguiri",
+          "en": "Siguiri",
+          "slug": "siguiri-gn004005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.546",
+      "lon": "-8.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400502",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Doko",
+      "en": "Doko",
+      "slug": "doko-gn00400502"
+    },
+    "code": {
+      "id": "GN00400502",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004005",
+      "level": 2,
+      "name": {
+        "local": "Siguiri",
+        "en": "Siguiri",
+        "slug": "siguiri-gn004005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004005",
+        "level": 2,
+        "name": {
+          "local": "Siguiri",
+          "en": "Siguiri",
+          "slug": "siguiri-gn004005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.767",
+      "lon": "-8.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400503",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Franwalia",
+      "en": "Franwalia",
+      "slug": "franwalia-gn00400503"
+    },
+    "code": {
+      "id": "GN00400503",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004005",
+      "level": 2,
+      "name": {
+        "local": "Siguiri",
+        "en": "Siguiri",
+        "slug": "siguiri-gn004005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004005",
+        "level": 2,
+        "name": {
+          "local": "Siguiri",
+          "en": "Siguiri",
+          "slug": "siguiri-gn004005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.795",
+      "lon": "-9.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400504",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kiniebakoura",
+      "en": "Kiniebakoura",
+      "slug": "kiniebakoura-gn00400504"
+    },
+    "code": {
+      "id": "GN00400504",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004005",
+      "level": 2,
+      "name": {
+        "local": "Siguiri",
+        "en": "Siguiri",
+        "slug": "siguiri-gn004005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004005",
+        "level": 2,
+        "name": {
+          "local": "Siguiri",
+          "en": "Siguiri",
+          "slug": "siguiri-gn004005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.236",
+      "lon": "-9.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400505",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kintinian",
+      "en": "Kintinian",
+      "slug": "kintinian-gn00400505"
+    },
+    "code": {
+      "id": "GN00400505",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004005",
+      "level": 2,
+      "name": {
+        "local": "Siguiri",
+        "en": "Siguiri",
+        "slug": "siguiri-gn004005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004005",
+        "level": 2,
+        "name": {
+          "local": "Siguiri",
+          "en": "Siguiri",
+          "slug": "siguiri-gn004005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.546",
+      "lon": "-9.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400506",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Malea",
+      "en": "Malea",
+      "slug": "malea-gn00400506"
+    },
+    "code": {
+      "id": "GN00400506",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004005",
+      "level": 2,
+      "name": {
+        "local": "Siguiri",
+        "en": "Siguiri",
+        "slug": "siguiri-gn004005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004005",
+        "level": 2,
+        "name": {
+          "local": "Siguiri",
+          "en": "Siguiri",
+          "slug": "siguiri-gn004005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.666",
+      "lon": "-9.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400507",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Naboun",
+      "en": "Naboun",
+      "slug": "naboun-gn00400507"
+    },
+    "code": {
+      "id": "GN00400507",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004005",
+      "level": 2,
+      "name": {
+        "local": "Siguiri",
+        "en": "Siguiri",
+        "slug": "siguiri-gn004005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004005",
+        "level": 2,
+        "name": {
+          "local": "Siguiri",
+          "en": "Siguiri",
+          "slug": "siguiri-gn004005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.049",
+      "lon": "-9.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400508",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Niagassola",
+      "en": "Niagassola",
+      "slug": "niagassola-gn00400508"
+    },
+    "code": {
+      "id": "GN00400508",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004005",
+      "level": 2,
+      "name": {
+        "local": "Siguiri",
+        "en": "Siguiri",
+        "slug": "siguiri-gn004005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004005",
+        "level": 2,
+        "name": {
+          "local": "Siguiri",
+          "en": "Siguiri",
+          "slug": "siguiri-gn004005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.104",
+      "lon": "-9.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400509",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Niandankoro",
+      "en": "Niandankoro",
+      "slug": "niandankoro-gn00400509"
+    },
+    "code": {
+      "id": "GN00400509",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004005",
+      "level": 2,
+      "name": {
+        "local": "Siguiri",
+        "en": "Siguiri",
+        "slug": "siguiri-gn004005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004005",
+        "level": 2,
+        "name": {
+          "local": "Siguiri",
+          "en": "Siguiri",
+          "slug": "siguiri-gn004005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.204",
+      "lon": "-9.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400510",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Norassoba",
+      "en": "Norassoba",
+      "slug": "norassoba-gn00400510"
+    },
+    "code": {
+      "id": "GN00400510",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004005",
+      "level": 2,
+      "name": {
+        "local": "Siguiri",
+        "en": "Siguiri",
+        "slug": "siguiri-gn004005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004005",
+        "level": 2,
+        "name": {
+          "local": "Siguiri",
+          "en": "Siguiri",
+          "slug": "siguiri-gn004005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.16",
+      "lon": "-9.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400511",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Siguiri Ctre",
+      "en": "Siguiri Ctre",
+      "slug": "siguiri-ctre-gn00400511"
+    },
+    "code": {
+      "id": "GN00400511",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004005",
+      "level": 2,
+      "name": {
+        "local": "Siguiri",
+        "en": "Siguiri",
+        "slug": "siguiri-gn004005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004005",
+        "level": 2,
+        "name": {
+          "local": "Siguiri",
+          "en": "Siguiri",
+          "slug": "siguiri-gn004005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.409",
+      "lon": "-9.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400512",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Siguirini",
+      "en": "Siguirini",
+      "slug": "siguirini-gn00400512"
+    },
+    "code": {
+      "id": "GN00400512",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004005",
+      "level": 2,
+      "name": {
+        "local": "Siguiri",
+        "en": "Siguiri",
+        "slug": "siguiri-gn004005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004005",
+        "level": 2,
+        "name": {
+          "local": "Siguiri",
+          "en": "Siguiri",
+          "slug": "siguiri-gn004005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.836",
+      "lon": "-10.044"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

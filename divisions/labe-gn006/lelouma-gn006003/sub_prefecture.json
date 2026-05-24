@@ -1,0 +1,596 @@
+[
+  {
+    "id": "GN00600301",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Balaya",
+      "en": "Balaya",
+      "slug": "balaya-gn00600301"
+    },
+    "code": {
+      "id": "GN00600301",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006003",
+      "level": 2,
+      "name": {
+        "local": "Lelouma",
+        "en": "Lelouma",
+        "slug": "lelouma-gn006003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006003",
+        "level": 2,
+        "name": {
+          "local": "Lelouma",
+          "en": "Lelouma",
+          "slug": "lelouma-gn006003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.442",
+      "lon": "-12.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600302",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Diontou",
+      "en": "Diontou",
+      "slug": "diontou-gn00600302"
+    },
+    "code": {
+      "id": "GN00600302",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006003",
+      "level": 2,
+      "name": {
+        "local": "Lelouma",
+        "en": "Lelouma",
+        "slug": "lelouma-gn006003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006003",
+        "level": 2,
+        "name": {
+          "local": "Lelouma",
+          "en": "Lelouma",
+          "slug": "lelouma-gn006003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.495",
+      "lon": "-12.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600303",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Herico",
+      "en": "Herico",
+      "slug": "herico-gn00600303"
+    },
+    "code": {
+      "id": "GN00600303",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006003",
+      "level": 2,
+      "name": {
+        "local": "Lelouma",
+        "en": "Lelouma",
+        "slug": "lelouma-gn006003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006003",
+        "level": 2,
+        "name": {
+          "local": "Lelouma",
+          "en": "Lelouma",
+          "slug": "lelouma-gn006003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.193",
+      "lon": "-12.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600304",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Korbe",
+      "en": "Korbe",
+      "slug": "korbe-gn00600304"
+    },
+    "code": {
+      "id": "GN00600304",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006003",
+      "level": 2,
+      "name": {
+        "local": "Lelouma",
+        "en": "Lelouma",
+        "slug": "lelouma-gn006003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006003",
+        "level": 2,
+        "name": {
+          "local": "Lelouma",
+          "en": "Lelouma",
+          "slug": "lelouma-gn006003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.492",
+      "lon": "-12.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600305",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Lafou",
+      "en": "Lafou",
+      "slug": "lafou-gn00600305"
+    },
+    "code": {
+      "id": "GN00600305",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006003",
+      "level": 2,
+      "name": {
+        "local": "Lelouma",
+        "en": "Lelouma",
+        "slug": "lelouma-gn006003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006003",
+        "level": 2,
+        "name": {
+          "local": "Lelouma",
+          "en": "Lelouma",
+          "slug": "lelouma-gn006003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.619",
+      "lon": "-12.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600306",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Lelouma Ctre",
+      "en": "Lelouma Ctre",
+      "slug": "lelouma-ctre-gn00600306"
+    },
+    "code": {
+      "id": "GN00600306",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006003",
+      "level": 2,
+      "name": {
+        "local": "Lelouma",
+        "en": "Lelouma",
+        "slug": "lelouma-gn006003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006003",
+        "level": 2,
+        "name": {
+          "local": "Lelouma",
+          "en": "Lelouma",
+          "slug": "lelouma-gn006003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.454",
+      "lon": "-12.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600307",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Linsan Saran",
+      "en": "Linsan Saran",
+      "slug": "linsan-saran-gn00600307"
+    },
+    "code": {
+      "id": "GN00600307",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006003",
+      "level": 2,
+      "name": {
+        "local": "Lelouma",
+        "en": "Lelouma",
+        "slug": "lelouma-gn006003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006003",
+        "level": 2,
+        "name": {
+          "local": "Lelouma",
+          "en": "Lelouma",
+          "slug": "lelouma-gn006003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.79",
+      "lon": "-12.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600308",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Manda",
+      "en": "Manda",
+      "slug": "manda-gn00600308"
+    },
+    "code": {
+      "id": "GN00600308",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006003",
+      "level": 2,
+      "name": {
+        "local": "Lelouma",
+        "en": "Lelouma",
+        "slug": "lelouma-gn006003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006003",
+        "level": 2,
+        "name": {
+          "local": "Lelouma",
+          "en": "Lelouma",
+          "slug": "lelouma-gn006003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.675",
+      "lon": "-12.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600309",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Parawol",
+      "en": "Parawol",
+      "slug": "parawol-gn00600309"
+    },
+    "code": {
+      "id": "GN00600309",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006003",
+      "level": 2,
+      "name": {
+        "local": "Lelouma",
+        "en": "Lelouma",
+        "slug": "lelouma-gn006003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006003",
+        "level": 2,
+        "name": {
+          "local": "Lelouma",
+          "en": "Lelouma",
+          "slug": "lelouma-gn006003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.339",
+      "lon": "-12.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600310",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sagale",
+      "en": "Sagale",
+      "slug": "sagale-gn00600310"
+    },
+    "code": {
+      "id": "GN00600310",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006003",
+      "level": 2,
+      "name": {
+        "local": "Lelouma",
+        "en": "Lelouma",
+        "slug": "lelouma-gn006003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006003",
+        "level": 2,
+        "name": {
+          "local": "Lelouma",
+          "en": "Lelouma",
+          "slug": "lelouma-gn006003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.326",
+      "lon": "-12.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600311",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tianguel Bori",
+      "en": "Tianguel Bori",
+      "slug": "tianguel-bori-gn00600311"
+    },
+    "code": {
+      "id": "GN00600311",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006003",
+      "level": 2,
+      "name": {
+        "local": "Lelouma",
+        "en": "Lelouma",
+        "slug": "lelouma-gn006003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006003",
+        "level": 2,
+        "name": {
+          "local": "Lelouma",
+          "en": "Lelouma",
+          "slug": "lelouma-gn006003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.639",
+      "lon": "-12.612"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

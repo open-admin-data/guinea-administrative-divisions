@@ -1,0 +1,30 @@
+{
+  "id": "GN005",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Kindia",
+    "en": "Kindia",
+    "slug": "kindia-gn005"
+  },
+  "code": {
+    "id": "GN005",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "prefecture": 5,
+    "sub_prefecture": 45
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.214",
+    "lon": "-13.017"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,758 @@
+[
+  {
+    "id": "GN00800101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Beyla Ctre",
+      "en": "Beyla Ctre",
+      "slug": "beyla-ctre-gn00800101"
+    },
+    "code": {
+      "id": "GN00800101",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008001",
+      "level": 2,
+      "name": {
+        "local": "Beyla",
+        "en": "Beyla",
+        "slug": "beyla-gn008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008001",
+        "level": 2,
+        "name": {
+          "local": "Beyla",
+          "en": "Beyla",
+          "slug": "beyla-gn008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.684",
+      "lon": "-8.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Boola",
+      "en": "Boola",
+      "slug": "boola-gn00800102"
+    },
+    "code": {
+      "id": "GN00800102",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008001",
+      "level": 2,
+      "name": {
+        "local": "Beyla",
+        "en": "Beyla",
+        "slug": "beyla-gn008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008001",
+        "level": 2,
+        "name": {
+          "local": "Beyla",
+          "en": "Beyla",
+          "slug": "beyla-gn008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.405",
+      "lon": "-8.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Diaraguerela",
+      "en": "Diaraguerela",
+      "slug": "diaraguerela-gn00800103"
+    },
+    "code": {
+      "id": "GN00800103",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008001",
+      "level": 2,
+      "name": {
+        "local": "Beyla",
+        "en": "Beyla",
+        "slug": "beyla-gn008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008001",
+        "level": 2,
+        "name": {
+          "local": "Beyla",
+          "en": "Beyla",
+          "slug": "beyla-gn008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.569",
+      "lon": "-8.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800104",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Diassodou",
+      "en": "Diassodou",
+      "slug": "diassodou-gn00800104"
+    },
+    "code": {
+      "id": "GN00800104",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008001",
+      "level": 2,
+      "name": {
+        "local": "Beyla",
+        "en": "Beyla",
+        "slug": "beyla-gn008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008001",
+        "level": 2,
+        "name": {
+          "local": "Beyla",
+          "en": "Beyla",
+          "slug": "beyla-gn008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.15",
+      "lon": "-8.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800105",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Fouala",
+      "en": "Fouala",
+      "slug": "fouala-gn00800105"
+    },
+    "code": {
+      "id": "GN00800105",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008001",
+      "level": 2,
+      "name": {
+        "local": "Beyla",
+        "en": "Beyla",
+        "slug": "beyla-gn008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008001",
+        "level": 2,
+        "name": {
+          "local": "Beyla",
+          "en": "Beyla",
+          "slug": "beyla-gn008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.974",
+      "lon": "-8.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800106",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gbakedou",
+      "en": "Gbakedou",
+      "slug": "gbakedou-gn00800106"
+    },
+    "code": {
+      "id": "GN00800106",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008001",
+      "level": 2,
+      "name": {
+        "local": "Beyla",
+        "en": "Beyla",
+        "slug": "beyla-gn008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008001",
+        "level": 2,
+        "name": {
+          "local": "Beyla",
+          "en": "Beyla",
+          "slug": "beyla-gn008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.731",
+      "lon": "-8.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800107",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gbessoba",
+      "en": "Gbessoba",
+      "slug": "gbessoba-gn00800107"
+    },
+    "code": {
+      "id": "GN00800107",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008001",
+      "level": 2,
+      "name": {
+        "local": "Beyla",
+        "en": "Beyla",
+        "slug": "beyla-gn008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008001",
+        "level": 2,
+        "name": {
+          "local": "Beyla",
+          "en": "Beyla",
+          "slug": "beyla-gn008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.686",
+      "lon": "-7.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800108",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Karala",
+      "en": "Karala",
+      "slug": "karala-gn00800108"
+    },
+    "code": {
+      "id": "GN00800108",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008001",
+      "level": 2,
+      "name": {
+        "local": "Beyla",
+        "en": "Beyla",
+        "slug": "beyla-gn008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008001",
+        "level": 2,
+        "name": {
+          "local": "Beyla",
+          "en": "Beyla",
+          "slug": "beyla-gn008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.409",
+      "lon": "-8.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800109",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koumandou",
+      "en": "Koumandou",
+      "slug": "koumandou-gn00800109"
+    },
+    "code": {
+      "id": "GN00800109",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008001",
+      "level": 2,
+      "name": {
+        "local": "Beyla",
+        "en": "Beyla",
+        "slug": "beyla-gn008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008001",
+        "level": 2,
+        "name": {
+          "local": "Beyla",
+          "en": "Beyla",
+          "slug": "beyla-gn008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.209",
+      "lon": "-7.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800110",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Moussadou",
+      "en": "Moussadou",
+      "slug": "moussadou-gn00800110"
+    },
+    "code": {
+      "id": "GN00800110",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008001",
+      "level": 2,
+      "name": {
+        "local": "Beyla",
+        "en": "Beyla",
+        "slug": "beyla-gn008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008001",
+        "level": 2,
+        "name": {
+          "local": "Beyla",
+          "en": "Beyla",
+          "slug": "beyla-gn008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.857",
+      "lon": "-8.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800111",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Nionsomoridou",
+      "en": "Nionsomoridou",
+      "slug": "nionsomoridou-gn00800111"
+    },
+    "code": {
+      "id": "GN00800111",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008001",
+      "level": 2,
+      "name": {
+        "local": "Beyla",
+        "en": "Beyla",
+        "slug": "beyla-gn008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008001",
+        "level": 2,
+        "name": {
+          "local": "Beyla",
+          "en": "Beyla",
+          "slug": "beyla-gn008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.705",
+      "lon": "-8.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800112",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sakourala",
+      "en": "Sakourala",
+      "slug": "sakourala-gn00800112"
+    },
+    "code": {
+      "id": "GN00800112",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008001",
+      "level": 2,
+      "name": {
+        "local": "Beyla",
+        "en": "Beyla",
+        "slug": "beyla-gn008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008001",
+        "level": 2,
+        "name": {
+          "local": "Beyla",
+          "en": "Beyla",
+          "slug": "beyla-gn008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.289",
+      "lon": "-8.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800113",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Samana",
+      "en": "Samana",
+      "slug": "samana-gn00800113"
+    },
+    "code": {
+      "id": "GN00800113",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008001",
+      "level": 2,
+      "name": {
+        "local": "Beyla",
+        "en": "Beyla",
+        "slug": "beyla-gn008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008001",
+        "level": 2,
+        "name": {
+          "local": "Beyla",
+          "en": "Beyla",
+          "slug": "beyla-gn008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.143",
+      "lon": "-8.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800114",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sinko",
+      "en": "Sinko",
+      "slug": "sinko-gn00800114"
+    },
+    "code": {
+      "id": "GN00800114",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008001",
+      "level": 2,
+      "name": {
+        "local": "Beyla",
+        "en": "Beyla",
+        "slug": "beyla-gn008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008001",
+        "level": 2,
+        "name": {
+          "local": "Beyla",
+          "en": "Beyla",
+          "slug": "beyla-gn008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.907",
+      "lon": "-8.191"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

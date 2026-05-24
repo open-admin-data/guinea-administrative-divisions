@@ -1,0 +1,47 @@
+{
+  "id": "GN006004",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Mali",
+    "en": "Mali",
+    "slug": "mali-gn006004"
+  },
+  "code": {
+    "id": "GN006004",
+    "iso": null
+  },
+  "parent": {
+    "id": "GN006",
+    "level": 1,
+    "name": {
+      "local": "Labe",
+      "en": "Labe",
+      "slug": "labe-gn006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GN006",
+      "level": 1,
+      "name": {
+        "local": "Labe",
+        "en": "Labe",
+        "slug": "labe-gn006"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.049",
+    "lon": "-12.257"
+  },
+  "metadata": {},
+  "source": {}
+}

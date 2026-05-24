@@ -1,0 +1,6 @@
+id,name.local,name.en,name.slug,code.id,children_count.sub_prefecture,geo.lat,geo.lon
+GN004001,Kankan,Kankan,kankan-gn004001,GN004001,13,10.225,-9.223
+GN004002,Kerouane,Kerouane,kerouane-gn004002,GN004002,8,9.348,-9.111
+GN004003,Kouroussa,Kouroussa,kouroussa-gn004003,GN004003,12,10.486,-9.891
+GN004004,Mandiana,Mandiana,mandiana-gn004004,GN004004,12,10.815,-8.697
+GN004005,Siguiri,Siguiri,siguiri-gn004005,GN004005,12,11.677,-9.55

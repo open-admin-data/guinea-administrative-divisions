@@ -1,0 +1,326 @@
+[
+  {
+    "id": "GN00600101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Fafaya",
+      "en": "Fafaya",
+      "slug": "fafaya-gn00600101"
+    },
+    "code": {
+      "id": "GN00600101",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006001",
+      "level": 2,
+      "name": {
+        "local": "Koubia",
+        "en": "Koubia",
+        "slug": "koubia-gn006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006001",
+        "level": 2,
+        "name": {
+          "local": "Koubia",
+          "en": "Koubia",
+          "slug": "koubia-gn006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.787",
+      "lon": "-11.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gadha Woundou",
+      "en": "Gadha Woundou",
+      "slug": "gadha-woundou-gn00600102"
+    },
+    "code": {
+      "id": "GN00600102",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006001",
+      "level": 2,
+      "name": {
+        "local": "Koubia",
+        "en": "Koubia",
+        "slug": "koubia-gn006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006001",
+        "level": 2,
+        "name": {
+          "local": "Koubia",
+          "en": "Koubia",
+          "slug": "koubia-gn006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.998",
+      "lon": "-11.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koubia Ctre",
+      "en": "Koubia Ctre",
+      "slug": "koubia-ctre-gn00600103"
+    },
+    "code": {
+      "id": "GN00600103",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006001",
+      "level": 2,
+      "name": {
+        "local": "Koubia",
+        "en": "Koubia",
+        "slug": "koubia-gn006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006001",
+        "level": 2,
+        "name": {
+          "local": "Koubia",
+          "en": "Koubia",
+          "slug": "koubia-gn006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.649",
+      "lon": "-11.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600104",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Matakaou",
+      "en": "Matakaou",
+      "slug": "matakaou-gn00600104"
+    },
+    "code": {
+      "id": "GN00600104",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006001",
+      "level": 2,
+      "name": {
+        "local": "Koubia",
+        "en": "Koubia",
+        "slug": "koubia-gn006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006001",
+        "level": 2,
+        "name": {
+          "local": "Koubia",
+          "en": "Koubia",
+          "slug": "koubia-gn006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.752",
+      "lon": "-11.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600105",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Missira",
+      "en": "Missira",
+      "slug": "missira-gn00600105"
+    },
+    "code": {
+      "id": "GN00600105",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006001",
+      "level": 2,
+      "name": {
+        "local": "Koubia",
+        "en": "Koubia",
+        "slug": "koubia-gn006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006001",
+        "level": 2,
+        "name": {
+          "local": "Koubia",
+          "en": "Koubia",
+          "slug": "koubia-gn006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.459",
+      "lon": "-11.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600106",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Pilimini",
+      "en": "Pilimini",
+      "slug": "pilimini-gn00600106"
+    },
+    "code": {
+      "id": "GN00600106",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006001",
+      "level": 2,
+      "name": {
+        "local": "Koubia",
+        "en": "Koubia",
+        "slug": "koubia-gn006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006001",
+        "level": 2,
+        "name": {
+          "local": "Koubia",
+          "en": "Koubia",
+          "slug": "koubia-gn006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.591",
+      "lon": "-12.098"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

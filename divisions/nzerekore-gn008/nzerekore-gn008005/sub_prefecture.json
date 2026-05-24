@@ -1,0 +1,596 @@
+[
+  {
+    "id": "GN00800501",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bounouma",
+      "en": "Bounouma",
+      "slug": "bounouma-gn00800501"
+    },
+    "code": {
+      "id": "GN00800501",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008005",
+      "level": 2,
+      "name": {
+        "local": "Nzerekore",
+        "en": "Nzerekore",
+        "slug": "nzerekore-gn008005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008005",
+        "level": 2,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.562",
+      "lon": "-8.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800502",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gouecke",
+      "en": "Gouecke",
+      "slug": "gouecke-gn00800502"
+    },
+    "code": {
+      "id": "GN00800502",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008005",
+      "level": 2,
+      "name": {
+        "local": "Nzerekore",
+        "en": "Nzerekore",
+        "slug": "nzerekore-gn008005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008005",
+        "level": 2,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.987",
+      "lon": "-8.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800503",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kobela",
+      "en": "Kobela",
+      "slug": "kobela-gn00800503"
+    },
+    "code": {
+      "id": "GN00800503",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008005",
+      "level": 2,
+      "name": {
+        "local": "Nzerekore",
+        "en": "Nzerekore",
+        "slug": "nzerekore-gn008005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008005",
+        "level": 2,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.914",
+      "lon": "-9.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800504",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koropara",
+      "en": "Koropara",
+      "slug": "koropara-gn00800504"
+    },
+    "code": {
+      "id": "GN00800504",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008005",
+      "level": 2,
+      "name": {
+        "local": "Nzerekore",
+        "en": "Nzerekore",
+        "slug": "nzerekore-gn008005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008005",
+        "level": 2,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.245",
+      "lon": "-8.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800505",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koule",
+      "en": "Koule",
+      "slug": "koule-gn00800505"
+    },
+    "code": {
+      "id": "GN00800505",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008005",
+      "level": 2,
+      "name": {
+        "local": "Nzerekore",
+        "en": "Nzerekore",
+        "slug": "nzerekore-gn008005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008005",
+        "level": 2,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.039",
+      "lon": "-9.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800506",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Nzerekore Ctre",
+      "en": "Nzerekore Ctre",
+      "slug": "nzerekore-ctre-gn00800506"
+    },
+    "code": {
+      "id": "GN00800506",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008005",
+      "level": 2,
+      "name": {
+        "local": "Nzerekore",
+        "en": "Nzerekore",
+        "slug": "nzerekore-gn008005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008005",
+        "level": 2,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.739",
+      "lon": "-8.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800507",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Pale",
+      "en": "Pale",
+      "slug": "pale-gn00800507"
+    },
+    "code": {
+      "id": "GN00800507",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008005",
+      "level": 2,
+      "name": {
+        "local": "Nzerekore",
+        "en": "Nzerekore",
+        "slug": "nzerekore-gn008005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008005",
+        "level": 2,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.027",
+      "lon": "-8.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800508",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Samoe",
+      "en": "Samoe",
+      "slug": "samoe-gn00800508"
+    },
+    "code": {
+      "id": "GN00800508",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008005",
+      "level": 2,
+      "name": {
+        "local": "Nzerekore",
+        "en": "Nzerekore",
+        "slug": "nzerekore-gn008005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008005",
+        "level": 2,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.851",
+      "lon": "-8.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800509",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Soulouta",
+      "en": "Soulouta",
+      "slug": "soulouta-gn00800509"
+    },
+    "code": {
+      "id": "GN00800509",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008005",
+      "level": 2,
+      "name": {
+        "local": "Nzerekore",
+        "en": "Nzerekore",
+        "slug": "nzerekore-gn008005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008005",
+        "level": 2,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.964",
+      "lon": "-8.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800510",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Womey",
+      "en": "Womey",
+      "slug": "womey-gn00800510"
+    },
+    "code": {
+      "id": "GN00800510",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008005",
+      "level": 2,
+      "name": {
+        "local": "Nzerekore",
+        "en": "Nzerekore",
+        "slug": "nzerekore-gn008005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008005",
+        "level": 2,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.154",
+      "lon": "-8.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800511",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Yalenzou",
+      "en": "Yalenzou",
+      "slug": "yalenzou-gn00800511"
+    },
+    "code": {
+      "id": "GN00800511",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008005",
+      "level": 2,
+      "name": {
+        "local": "Nzerekore",
+        "en": "Nzerekore",
+        "slug": "nzerekore-gn008005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008005",
+        "level": 2,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.765",
+      "lon": "-8.669"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

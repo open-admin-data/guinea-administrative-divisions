@@ -1,0 +1,542 @@
+[
+  {
+    "id": "GN00800201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bolodou",
+      "en": "Bolodou",
+      "slug": "bolodou-gn00800201"
+    },
+    "code": {
+      "id": "GN00800201",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008002",
+      "level": 2,
+      "name": {
+        "local": "Gueckedou",
+        "en": "Gueckedou",
+        "slug": "gueckedou-gn008002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008002",
+        "level": 2,
+        "name": {
+          "local": "Gueckedou",
+          "en": "Gueckedou",
+          "slug": "gueckedou-gn008002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.821",
+      "lon": "-10.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Fangamadou",
+      "en": "Fangamadou",
+      "slug": "fangamadou-gn00800202"
+    },
+    "code": {
+      "id": "GN00800202",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008002",
+      "level": 2,
+      "name": {
+        "local": "Gueckedou",
+        "en": "Gueckedou",
+        "slug": "gueckedou-gn008002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008002",
+        "level": 2,
+        "name": {
+          "local": "Gueckedou",
+          "en": "Gueckedou",
+          "slug": "gueckedou-gn008002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.443",
+      "lon": "-10.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800203",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gueckedou Ctre",
+      "en": "Gueckedou Ctre",
+      "slug": "gueckedou-ctre-gn00800203"
+    },
+    "code": {
+      "id": "GN00800203",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008002",
+      "level": 2,
+      "name": {
+        "local": "Gueckedou",
+        "en": "Gueckedou",
+        "slug": "gueckedou-gn008002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008002",
+        "level": 2,
+        "name": {
+          "local": "Gueckedou",
+          "en": "Gueckedou",
+          "slug": "gueckedou-gn008002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.582",
+      "lon": "-10.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800204",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Guendembou",
+      "en": "Guendembou",
+      "slug": "guendembou-gn00800204"
+    },
+    "code": {
+      "id": "GN00800204",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008002",
+      "level": 2,
+      "name": {
+        "local": "Gueckedou",
+        "en": "Gueckedou",
+        "slug": "gueckedou-gn008002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008002",
+        "level": 2,
+        "name": {
+          "local": "Gueckedou",
+          "en": "Gueckedou",
+          "slug": "gueckedou-gn008002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.794",
+      "lon": "-10.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800205",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kassadou",
+      "en": "Kassadou",
+      "slug": "kassadou-gn00800205"
+    },
+    "code": {
+      "id": "GN00800205",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008002",
+      "level": 2,
+      "name": {
+        "local": "Gueckedou",
+        "en": "Gueckedou",
+        "slug": "gueckedou-gn008002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008002",
+        "level": 2,
+        "name": {
+          "local": "Gueckedou",
+          "en": "Gueckedou",
+          "slug": "gueckedou-gn008002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.929",
+      "lon": "-10.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800206",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koundou",
+      "en": "Koundou",
+      "slug": "koundou-gn00800206"
+    },
+    "code": {
+      "id": "GN00800206",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008002",
+      "level": 2,
+      "name": {
+        "local": "Gueckedou",
+        "en": "Gueckedou",
+        "slug": "gueckedou-gn008002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008002",
+        "level": 2,
+        "name": {
+          "local": "Gueckedou",
+          "en": "Gueckedou",
+          "slug": "gueckedou-gn008002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.633",
+      "lon": "-10.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800207",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Nongoa",
+      "en": "Nongoa",
+      "slug": "nongoa-gn00800207"
+    },
+    "code": {
+      "id": "GN00800207",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008002",
+      "level": 2,
+      "name": {
+        "local": "Gueckedou",
+        "en": "Gueckedou",
+        "slug": "gueckedou-gn008002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008002",
+        "level": 2,
+        "name": {
+          "local": "Gueckedou",
+          "en": "Gueckedou",
+          "slug": "gueckedou-gn008002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.52",
+      "lon": "-10.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800208",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ouende Kenema",
+      "en": "Ouende Kenema",
+      "slug": "ouende-kenema-gn00800208"
+    },
+    "code": {
+      "id": "GN00800208",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008002",
+      "level": 2,
+      "name": {
+        "local": "Gueckedou",
+        "en": "Gueckedou",
+        "slug": "gueckedou-gn008002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008002",
+        "level": 2,
+        "name": {
+          "local": "Gueckedou",
+          "en": "Gueckedou",
+          "slug": "gueckedou-gn008002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.409",
+      "lon": "-10.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800209",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tekoulo",
+      "en": "Tekoulo",
+      "slug": "tekoulo-gn00800209"
+    },
+    "code": {
+      "id": "GN00800209",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008002",
+      "level": 2,
+      "name": {
+        "local": "Gueckedou",
+        "en": "Gueckedou",
+        "slug": "gueckedou-gn008002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008002",
+        "level": 2,
+        "name": {
+          "local": "Gueckedou",
+          "en": "Gueckedou",
+          "slug": "gueckedou-gn008002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.544",
+      "lon": "-9.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800210",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Termassadou",
+      "en": "Termassadou",
+      "slug": "termassadou-gn00800210"
+    },
+    "code": {
+      "id": "GN00800210",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008002",
+      "level": 2,
+      "name": {
+        "local": "Gueckedou",
+        "en": "Gueckedou",
+        "slug": "gueckedou-gn008002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008002",
+        "level": 2,
+        "name": {
+          "local": "Gueckedou",
+          "en": "Gueckedou",
+          "slug": "gueckedou-gn008002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.647",
+      "lon": "-10.236"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

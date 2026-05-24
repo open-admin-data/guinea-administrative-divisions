@@ -1,0 +1,4 @@
+id,name.local,name.en,name.slug,code.id,children_count.sub_prefecture,geo.lat,geo.lon
+GN007001,Dalaba,Dalaba,dalaba-gn007001,GN007001,10,10.892,-12.064
+GN007002,Mamou,Mamou,mamou-gn007002,GN007002,14,10.569,-11.904
+GN007003,Pita,Pita,pita-gn007003,GN007003,12,10.905,-12.662

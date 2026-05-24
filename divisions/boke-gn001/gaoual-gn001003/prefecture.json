@@ -1,0 +1,47 @@
+{
+  "id": "GN001003",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Gaoual",
+    "en": "Gaoual",
+    "slug": "gaoual-gn001003"
+  },
+  "code": {
+    "id": "GN001003",
+    "iso": null
+  },
+  "parent": {
+    "id": "GN001",
+    "level": 1,
+    "name": {
+      "local": "Boke",
+      "en": "Boke",
+      "slug": "boke-gn001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GN001",
+      "level": 1,
+      "name": {
+        "local": "Boke",
+        "en": "Boke",
+        "slug": "boke-gn001"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.692",
+    "lon": "-13.284"
+  },
+  "metadata": {},
+  "source": {}
+}

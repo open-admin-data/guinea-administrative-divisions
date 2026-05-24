@@ -1,0 +1,49 @@
+[
+  {
+    "id": "GN002001",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Conakry",
+      "en": "Conakry",
+      "slug": "conakry-gn002001"
+    },
+    "code": {
+      "id": "GN002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN002",
+      "level": 1,
+      "name": {
+        "local": "Conakry",
+        "en": "Conakry",
+        "slug": "conakry-gn002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN002",
+        "level": 1,
+        "name": {
+          "local": "Conakry",
+          "en": "Conakry",
+          "slug": "conakry-gn002"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.626",
+      "lon": "-13.551"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

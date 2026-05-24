@@ -1,0 +1,47 @@
+{
+  "id": "GN003003",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Faranah",
+    "en": "Faranah",
+    "slug": "faranah-gn003003"
+  },
+  "code": {
+    "id": "GN003003",
+    "iso": null
+  },
+  "parent": {
+    "id": "GN003",
+    "level": 1,
+    "name": {
+      "local": "Faranah",
+      "en": "Faranah",
+      "slug": "faranah-gn003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GN003",
+      "level": 1,
+      "name": {
+        "local": "Faranah",
+        "en": "Faranah",
+        "slug": "faranah-gn003"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.823",
+    "lon": "-10.719"
+  },
+  "metadata": {},
+  "source": {}
+}

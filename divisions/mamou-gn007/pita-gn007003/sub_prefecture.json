@@ -1,0 +1,650 @@
+[
+  {
+    "id": "GN00700301",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bantignel",
+      "en": "Bantignel",
+      "slug": "bantignel-gn00700301"
+    },
+    "code": {
+      "id": "GN00700301",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007003",
+      "level": 2,
+      "name": {
+        "local": "Pita",
+        "en": "Pita",
+        "slug": "pita-gn007003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007003",
+        "level": 2,
+        "name": {
+          "local": "Pita",
+          "en": "Pita",
+          "slug": "pita-gn007003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.096",
+      "lon": "-12.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00700302",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Brouwal Tape",
+      "en": "Brouwal Tape",
+      "slug": "brouwal-tape-gn00700302"
+    },
+    "code": {
+      "id": "GN00700302",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007003",
+      "level": 2,
+      "name": {
+        "local": "Pita",
+        "en": "Pita",
+        "slug": "pita-gn007003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007003",
+        "level": 2,
+        "name": {
+          "local": "Pita",
+          "en": "Pita",
+          "slug": "pita-gn007003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.992",
+      "lon": "-12.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00700303",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Donghol Touma",
+      "en": "Donghol Touma",
+      "slug": "donghol-touma-gn00700303"
+    },
+    "code": {
+      "id": "GN00700303",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007003",
+      "level": 2,
+      "name": {
+        "local": "Pita",
+        "en": "Pita",
+        "slug": "pita-gn007003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007003",
+        "level": 2,
+        "name": {
+          "local": "Pita",
+          "en": "Pita",
+          "slug": "pita-gn007003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.97",
+      "lon": "-12.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00700304",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gongoret",
+      "en": "Gongoret",
+      "slug": "gongoret-gn00700304"
+    },
+    "code": {
+      "id": "GN00700304",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007003",
+      "level": 2,
+      "name": {
+        "local": "Pita",
+        "en": "Pita",
+        "slug": "pita-gn007003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007003",
+        "level": 2,
+        "name": {
+          "local": "Pita",
+          "en": "Pita",
+          "slug": "pita-gn007003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.73",
+      "lon": "-12.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00700305",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ley Miro",
+      "en": "Ley Miro",
+      "slug": "ley-miro-gn00700305"
+    },
+    "code": {
+      "id": "GN00700305",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007003",
+      "level": 2,
+      "name": {
+        "local": "Pita",
+        "en": "Pita",
+        "slug": "pita-gn007003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007003",
+        "level": 2,
+        "name": {
+          "local": "Pita",
+          "en": "Pita",
+          "slug": "pita-gn007003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.918",
+      "lon": "-12.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00700306",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Maci",
+      "en": "Maci",
+      "slug": "maci-gn00700306"
+    },
+    "code": {
+      "id": "GN00700306",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007003",
+      "level": 2,
+      "name": {
+        "local": "Pita",
+        "en": "Pita",
+        "slug": "pita-gn007003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007003",
+        "level": 2,
+        "name": {
+          "local": "Pita",
+          "en": "Pita",
+          "slug": "pita-gn007003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.845",
+      "lon": "-12.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00700307",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ninguelande",
+      "en": "Ninguelande",
+      "slug": "ninguelande-gn00700307"
+    },
+    "code": {
+      "id": "GN00700307",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007003",
+      "level": 2,
+      "name": {
+        "local": "Pita",
+        "en": "Pita",
+        "slug": "pita-gn007003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007003",
+        "level": 2,
+        "name": {
+          "local": "Pita",
+          "en": "Pita",
+          "slug": "pita-gn007003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.157",
+      "lon": "-12.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00700308",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Pita Ctre",
+      "en": "Pita Ctre",
+      "slug": "pita-ctre-gn00700308"
+    },
+    "code": {
+      "id": "GN00700308",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007003",
+      "level": 2,
+      "name": {
+        "local": "Pita",
+        "en": "Pita",
+        "slug": "pita-gn007003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007003",
+        "level": 2,
+        "name": {
+          "local": "Pita",
+          "en": "Pita",
+          "slug": "pita-gn007003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.065",
+      "lon": "-12.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00700309",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sangareah",
+      "en": "Sangareah",
+      "slug": "sangareah-gn00700309"
+    },
+    "code": {
+      "id": "GN00700309",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007003",
+      "level": 2,
+      "name": {
+        "local": "Pita",
+        "en": "Pita",
+        "slug": "pita-gn007003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007003",
+        "level": 2,
+        "name": {
+          "local": "Pita",
+          "en": "Pita",
+          "slug": "pita-gn007003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.694",
+      "lon": "-12.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00700310",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sintali",
+      "en": "Sintali",
+      "slug": "sintali-gn00700310"
+    },
+    "code": {
+      "id": "GN00700310",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007003",
+      "level": 2,
+      "name": {
+        "local": "Pita",
+        "en": "Pita",
+        "slug": "pita-gn007003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007003",
+        "level": 2,
+        "name": {
+          "local": "Pita",
+          "en": "Pita",
+          "slug": "pita-gn007003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.104",
+      "lon": "-12.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00700311",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Timbi Madina",
+      "en": "Timbi Madina",
+      "slug": "timbi-madina-gn00700311"
+    },
+    "code": {
+      "id": "GN00700311",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007003",
+      "level": 2,
+      "name": {
+        "local": "Pita",
+        "en": "Pita",
+        "slug": "pita-gn007003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007003",
+        "level": 2,
+        "name": {
+          "local": "Pita",
+          "en": "Pita",
+          "slug": "pita-gn007003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.204",
+      "lon": "-12.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00700312",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Timbi Touni",
+      "en": "Timbi Touni",
+      "slug": "timbi-touni-gn00700312"
+    },
+    "code": {
+      "id": "GN00700312",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007003",
+      "level": 2,
+      "name": {
+        "local": "Pita",
+        "en": "Pita",
+        "slug": "pita-gn007003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007003",
+        "level": 2,
+        "name": {
+          "local": "Pita",
+          "en": "Pita",
+          "slug": "pita-gn007003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.057",
+      "lon": "-12.562"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

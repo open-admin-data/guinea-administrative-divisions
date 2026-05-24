@@ -1,0 +1,47 @@
+{
+  "id": "GN006002",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Labe",
+    "en": "Labe",
+    "slug": "labe-gn006002"
+  },
+  "code": {
+    "id": "GN006002",
+    "iso": null
+  },
+  "parent": {
+    "id": "GN006",
+    "level": 1,
+    "name": {
+      "local": "Labe",
+      "en": "Labe",
+      "slug": "labe-gn006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GN006",
+      "level": 1,
+      "name": {
+        "local": "Labe",
+        "en": "Labe",
+        "slug": "labe-gn006"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.407",
+    "lon": "-12.298"
+  },
+  "metadata": {},
+  "source": {}
+}

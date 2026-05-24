@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,children_count.sub_prefecture,geo.lat,geo.lon
+GN003001,Dabola,Dabola,dabola-gn003001,GN003001,9,10.774,-11.076
+GN003002,Dinguiraye,Dinguiraye,dinguiraye-gn003002,GN003002,8,11.568,-10.725
+GN003003,Faranah,Faranah,faranah-gn003003,GN003003,11,9.823,-10.719
+GN003004,Kissidougou,Kissidougou,kissidougou-gn003004,GN003004,13,9.255,-10.036

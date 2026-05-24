@@ -1,0 +1,6 @@
+id,name.local,name.en,name.slug,code.id,children_count.sub_prefecture,geo.lat,geo.lon
+GN005001,Coyah,Coyah,coyah-gn005001,GN005001,4,9.754,-13.309
+GN005002,Dubreka,Dubreka,dubreka-gn005002,GN005002,7,10.127,-13.539
+GN005003,Forecariah,Forecariah,forecariah-gn005003,GN005003,10,9.383,-13.092
+GN005004,Kindia,Kindia,kindia-gn005004,GN005004,10,10.109,-12.669
+GN005005,Telimele,Telimele,telimele-gn005005,GN005005,14,10.888,-13.408

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "GN00300301",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Banian",
+      "en": "Banian",
+      "slug": "banian-gn00300301"
+    },
+    "code": {
+      "id": "GN00300301",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003003",
+      "level": 2,
+      "name": {
+        "local": "Faranah",
+        "en": "Faranah",
+        "slug": "faranah-gn003003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003003",
+        "level": 2,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.467",
+      "lon": "-10.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300302",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Beindou",
+      "en": "Beindou",
+      "slug": "beindou-gn00300302"
+    },
+    "code": {
+      "id": "GN00300302",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003003",
+      "level": 2,
+      "name": {
+        "local": "Faranah",
+        "en": "Faranah",
+        "slug": "faranah-gn003003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003003",
+        "level": 2,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.312",
+      "lon": "-10.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300303",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Faranah Ctre",
+      "en": "Faranah Ctre",
+      "slug": "faranah-ctre-gn00300303"
+    },
+    "code": {
+      "id": "GN00300303",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003003",
+      "level": 2,
+      "name": {
+        "local": "Faranah",
+        "en": "Faranah",
+        "slug": "faranah-gn003003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003003",
+        "level": 2,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.057",
+      "lon": "-10.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300304",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gnaleah",
+      "en": "Gnaleah",
+      "slug": "gnaleah-gn00300304"
+    },
+    "code": {
+      "id": "GN00300304",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003003",
+      "level": 2,
+      "name": {
+        "local": "Faranah",
+        "en": "Faranah",
+        "slug": "faranah-gn003003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003003",
+        "level": 2,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.952",
+      "lon": "-10.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300305",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Heremakono",
+      "en": "Heremakono",
+      "slug": "heremakono-gn00300305"
+    },
+    "code": {
+      "id": "GN00300305",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003003",
+      "level": 2,
+      "name": {
+        "local": "Faranah",
+        "en": "Faranah",
+        "slug": "faranah-gn003003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003003",
+        "level": 2,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.925",
+      "lon": "-10.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300306",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kobikoro",
+      "en": "Kobikoro",
+      "slug": "kobikoro-gn00300306"
+    },
+    "code": {
+      "id": "GN00300306",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003003",
+      "level": 2,
+      "name": {
+        "local": "Faranah",
+        "en": "Faranah",
+        "slug": "faranah-gn003003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003003",
+        "level": 2,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.169",
+      "lon": "-10.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300307",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Marella",
+      "en": "Marella",
+      "slug": "marella-gn00300307"
+    },
+    "code": {
+      "id": "GN00300307",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003003",
+      "level": 2,
+      "name": {
+        "local": "Faranah",
+        "en": "Faranah",
+        "slug": "faranah-gn003003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003003",
+        "level": 2,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.202",
+      "lon": "-11.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300308",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Passaya",
+      "en": "Passaya",
+      "slug": "passaya-gn00300308"
+    },
+    "code": {
+      "id": "GN00300308",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003003",
+      "level": 2,
+      "name": {
+        "local": "Faranah",
+        "en": "Faranah",
+        "slug": "faranah-gn003003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003003",
+        "level": 2,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.37",
+      "lon": "-10.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300309",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sandenia",
+      "en": "Sandenia",
+      "slug": "sandenia-gn00300309"
+    },
+    "code": {
+      "id": "GN00300309",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003003",
+      "level": 2,
+      "name": {
+        "local": "Faranah",
+        "en": "Faranah",
+        "slug": "faranah-gn003003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003003",
+        "level": 2,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.117",
+      "lon": "-11.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300310",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Songoyah",
+      "en": "Songoyah",
+      "slug": "songoyah-gn00300310"
+    },
+    "code": {
+      "id": "GN00300310",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003003",
+      "level": 2,
+      "name": {
+        "local": "Faranah",
+        "en": "Faranah",
+        "slug": "faranah-gn003003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003003",
+        "level": 2,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.707",
+      "lon": "-10.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300311",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tiro",
+      "en": "Tiro",
+      "slug": "tiro-gn00300311"
+    },
+    "code": {
+      "id": "GN00300311",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003003",
+      "level": 2,
+      "name": {
+        "local": "Faranah",
+        "en": "Faranah",
+        "slug": "faranah-gn003003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003003",
+        "level": 2,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.761",
+      "lon": "-10.56"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

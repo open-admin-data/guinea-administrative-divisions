@@ -1,0 +1,30 @@
+{
+  "id": "GN006",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Labe",
+    "en": "Labe",
+    "slug": "labe-gn006"
+  },
+  "code": {
+    "id": "GN006",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "prefecture": 5,
+    "sub_prefecture": 53
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.716",
+    "lon": "-11.942"
+  },
+  "metadata": {},
+  "source": {}
+}

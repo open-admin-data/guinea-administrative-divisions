@@ -1,0 +1,650 @@
+[
+  {
+    "id": "GN00400301",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Babila",
+      "en": "Babila",
+      "slug": "babila-gn00400301"
+    },
+    "code": {
+      "id": "GN00400301",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004003",
+      "level": 2,
+      "name": {
+        "local": "Kouroussa",
+        "en": "Kouroussa",
+        "slug": "kouroussa-gn004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004003",
+        "level": 2,
+        "name": {
+          "local": "Kouroussa",
+          "en": "Kouroussa",
+          "slug": "kouroussa-gn004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.637",
+      "lon": "-9.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400302",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Balato",
+      "en": "Balato",
+      "slug": "balato-gn00400302"
+    },
+    "code": {
+      "id": "GN00400302",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004003",
+      "level": 2,
+      "name": {
+        "local": "Kouroussa",
+        "en": "Kouroussa",
+        "slug": "kouroussa-gn004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004003",
+        "level": 2,
+        "name": {
+          "local": "Kouroussa",
+          "en": "Kouroussa",
+          "slug": "kouroussa-gn004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.733",
+      "lon": "-9.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400303",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Banfele",
+      "en": "Banfele",
+      "slug": "banfele-gn00400303"
+    },
+    "code": {
+      "id": "GN00400303",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004003",
+      "level": 2,
+      "name": {
+        "local": "Kouroussa",
+        "en": "Kouroussa",
+        "slug": "kouroussa-gn004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004003",
+        "level": 2,
+        "name": {
+          "local": "Kouroussa",
+          "en": "Kouroussa",
+          "slug": "kouroussa-gn004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.204",
+      "lon": "-9.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400304",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Baro",
+      "en": "Baro",
+      "slug": "baro-gn00400304"
+    },
+    "code": {
+      "id": "GN00400304",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004003",
+      "level": 2,
+      "name": {
+        "local": "Kouroussa",
+        "en": "Kouroussa",
+        "slug": "kouroussa-gn004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004003",
+        "level": 2,
+        "name": {
+          "local": "Kouroussa",
+          "en": "Kouroussa",
+          "slug": "kouroussa-gn004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.441",
+      "lon": "-9.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400305",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Cissela",
+      "en": "Cissela",
+      "slug": "cissela-gn00400305"
+    },
+    "code": {
+      "id": "GN00400305",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004003",
+      "level": 2,
+      "name": {
+        "local": "Kouroussa",
+        "en": "Kouroussa",
+        "slug": "kouroussa-gn004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004003",
+        "level": 2,
+        "name": {
+          "local": "Kouroussa",
+          "en": "Kouroussa",
+          "slug": "kouroussa-gn004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.95",
+      "lon": "-10.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400306",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Douako",
+      "en": "Douako",
+      "slug": "douako-gn00400306"
+    },
+    "code": {
+      "id": "GN00400306",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004003",
+      "level": 2,
+      "name": {
+        "local": "Kouroussa",
+        "en": "Kouroussa",
+        "slug": "kouroussa-gn004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004003",
+        "level": 2,
+        "name": {
+          "local": "Kouroussa",
+          "en": "Kouroussa",
+          "slug": "kouroussa-gn004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.804",
+      "lon": "-10.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400307",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Doura",
+      "en": "Doura",
+      "slug": "doura-gn00400307"
+    },
+    "code": {
+      "id": "GN00400307",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004003",
+      "level": 2,
+      "name": {
+        "local": "Kouroussa",
+        "en": "Kouroussa",
+        "slug": "kouroussa-gn004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004003",
+        "level": 2,
+        "name": {
+          "local": "Kouroussa",
+          "en": "Kouroussa",
+          "slug": "kouroussa-gn004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.873",
+      "lon": "-9.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400308",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kiniero",
+      "en": "Kiniero",
+      "slug": "kiniero-gn00400308"
+    },
+    "code": {
+      "id": "GN00400308",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004003",
+      "level": 2,
+      "name": {
+        "local": "Kouroussa",
+        "en": "Kouroussa",
+        "slug": "kouroussa-gn004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004003",
+        "level": 2,
+        "name": {
+          "local": "Kouroussa",
+          "en": "Kouroussa",
+          "slug": "kouroussa-gn004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.43",
+      "lon": "-9.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400309",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Komola Khoura",
+      "en": "Komola Khoura",
+      "slug": "komola-khoura-gn00400309"
+    },
+    "code": {
+      "id": "GN00400309",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004003",
+      "level": 2,
+      "name": {
+        "local": "Kouroussa",
+        "en": "Kouroussa",
+        "slug": "kouroussa-gn004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004003",
+        "level": 2,
+        "name": {
+          "local": "Kouroussa",
+          "en": "Kouroussa",
+          "slug": "kouroussa-gn004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.16",
+      "lon": "-10.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400310",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koumana",
+      "en": "Koumana",
+      "slug": "koumana-gn00400310"
+    },
+    "code": {
+      "id": "GN00400310",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004003",
+      "level": 2,
+      "name": {
+        "local": "Kouroussa",
+        "en": "Kouroussa",
+        "slug": "kouroussa-gn004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004003",
+        "level": 2,
+        "name": {
+          "local": "Kouroussa",
+          "en": "Kouroussa",
+          "slug": "kouroussa-gn004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.761",
+      "lon": "-9.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400311",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kouroussa Ctre",
+      "en": "Kouroussa Ctre",
+      "slug": "kouroussa-ctre-gn00400311"
+    },
+    "code": {
+      "id": "GN00400311",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004003",
+      "level": 2,
+      "name": {
+        "local": "Kouroussa",
+        "en": "Kouroussa",
+        "slug": "kouroussa-gn004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004003",
+        "level": 2,
+        "name": {
+          "local": "Kouroussa",
+          "en": "Kouroussa",
+          "slug": "kouroussa-gn004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.661",
+      "lon": "-9.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400312",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sanguiana",
+      "en": "Sanguiana",
+      "slug": "sanguiana-gn00400312"
+    },
+    "code": {
+      "id": "GN00400312",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004003",
+      "level": 2,
+      "name": {
+        "local": "Kouroussa",
+        "en": "Kouroussa",
+        "slug": "kouroussa-gn004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004003",
+        "level": 2,
+        "name": {
+          "local": "Kouroussa",
+          "en": "Kouroussa",
+          "slug": "kouroussa-gn004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.819",
+      "lon": "-10.201"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

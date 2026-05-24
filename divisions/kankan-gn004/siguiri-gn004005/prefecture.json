@@ -1,0 +1,47 @@
+{
+  "id": "GN004005",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Siguiri",
+    "en": "Siguiri",
+    "slug": "siguiri-gn004005"
+  },
+  "code": {
+    "id": "GN004005",
+    "iso": null
+  },
+  "parent": {
+    "id": "GN004",
+    "level": 1,
+    "name": {
+      "local": "Kankan",
+      "en": "Kankan",
+      "slug": "kankan-gn004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GN004",
+      "level": 1,
+      "name": {
+        "local": "Kankan",
+        "en": "Kankan",
+        "slug": "kankan-gn004"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.677",
+    "lon": "-9.55"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,704 @@
+[
+  {
+    "id": "GN00600401",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Balaki",
+      "en": "Balaki",
+      "slug": "balaki-gn00600401"
+    },
+    "code": {
+      "id": "GN00600401",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006004",
+      "level": 2,
+      "name": {
+        "local": "Mali",
+        "en": "Mali",
+        "slug": "mali-gn006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006004",
+        "level": 2,
+        "name": {
+          "local": "Mali",
+          "en": "Mali",
+          "slug": "mali-gn006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.2",
+      "lon": "-11.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600402",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Donghol Sigon",
+      "en": "Donghol Sigon",
+      "slug": "donghol-sigon-gn00600402"
+    },
+    "code": {
+      "id": "GN00600402",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006004",
+      "level": 2,
+      "name": {
+        "local": "Mali",
+        "en": "Mali",
+        "slug": "mali-gn006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006004",
+        "level": 2,
+        "name": {
+          "local": "Mali",
+          "en": "Mali",
+          "slug": "mali-gn006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.79",
+      "lon": "-12.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600403",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dougountouny",
+      "en": "Dougountouny",
+      "slug": "dougountouny-gn00600403"
+    },
+    "code": {
+      "id": "GN00600403",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006004",
+      "level": 2,
+      "name": {
+        "local": "Mali",
+        "en": "Mali",
+        "slug": "mali-gn006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006004",
+        "level": 2,
+        "name": {
+          "local": "Mali",
+          "en": "Mali",
+          "slug": "mali-gn006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.85",
+      "lon": "-12.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600404",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Fougou",
+      "en": "Fougou",
+      "slug": "fougou-gn00600404"
+    },
+    "code": {
+      "id": "GN00600404",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006004",
+      "level": 2,
+      "name": {
+        "local": "Mali",
+        "en": "Mali",
+        "slug": "mali-gn006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006004",
+        "level": 2,
+        "name": {
+          "local": "Mali",
+          "en": "Mali",
+          "slug": "mali-gn006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.896",
+      "lon": "-12.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600405",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gayah",
+      "en": "Gayah",
+      "slug": "gayah-gn00600405"
+    },
+    "code": {
+      "id": "GN00600405",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006004",
+      "level": 2,
+      "name": {
+        "local": "Mali",
+        "en": "Mali",
+        "slug": "mali-gn006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006004",
+        "level": 2,
+        "name": {
+          "local": "Mali",
+          "en": "Mali",
+          "slug": "mali-gn006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.968",
+      "lon": "-12.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600406",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Hidayatou",
+      "en": "Hidayatou",
+      "slug": "hidayatou-gn00600406"
+    },
+    "code": {
+      "id": "GN00600406",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006004",
+      "level": 2,
+      "name": {
+        "local": "Mali",
+        "en": "Mali",
+        "slug": "mali-gn006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006004",
+        "level": 2,
+        "name": {
+          "local": "Mali",
+          "en": "Mali",
+          "slug": "mali-gn006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.998",
+      "lon": "-12.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600407",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Lebekeren",
+      "en": "Lebekeren",
+      "slug": "lebekeren-gn00600407"
+    },
+    "code": {
+      "id": "GN00600407",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006004",
+      "level": 2,
+      "name": {
+        "local": "Mali",
+        "en": "Mali",
+        "slug": "mali-gn006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006004",
+        "level": 2,
+        "name": {
+          "local": "Mali",
+          "en": "Mali",
+          "slug": "mali-gn006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.227",
+      "lon": "-12.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600408",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Madina Wora",
+      "en": "Madina Wora",
+      "slug": "madina-wora-gn00600408"
+    },
+    "code": {
+      "id": "GN00600408",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006004",
+      "level": 2,
+      "name": {
+        "local": "Mali",
+        "en": "Mali",
+        "slug": "mali-gn006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006004",
+        "level": 2,
+        "name": {
+          "local": "Mali",
+          "en": "Mali",
+          "slug": "mali-gn006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.026",
+      "lon": "-12.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600409",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mali Ctre",
+      "en": "Mali Ctre",
+      "slug": "mali-ctre-gn00600409"
+    },
+    "code": {
+      "id": "GN00600409",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006004",
+      "level": 2,
+      "name": {
+        "local": "Mali",
+        "en": "Mali",
+        "slug": "mali-gn006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006004",
+        "level": 2,
+        "name": {
+          "local": "Mali",
+          "en": "Mali",
+          "slug": "mali-gn006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.063",
+      "lon": "-12.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600410",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Salambande",
+      "en": "Salambande",
+      "slug": "salambande-gn00600410"
+    },
+    "code": {
+      "id": "GN00600410",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006004",
+      "level": 2,
+      "name": {
+        "local": "Mali",
+        "en": "Mali",
+        "slug": "mali-gn006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006004",
+        "level": 2,
+        "name": {
+          "local": "Mali",
+          "en": "Mali",
+          "slug": "mali-gn006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.949",
+      "lon": "-11.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600411",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Telire",
+      "en": "Telire",
+      "slug": "telire-gn00600411"
+    },
+    "code": {
+      "id": "GN00600411",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006004",
+      "level": 2,
+      "name": {
+        "local": "Mali",
+        "en": "Mali",
+        "slug": "mali-gn006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006004",
+        "level": 2,
+        "name": {
+          "local": "Mali",
+          "en": "Mali",
+          "slug": "mali-gn006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.869",
+      "lon": "-12.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600412",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Touba",
+      "en": "Touba",
+      "slug": "touba-gn00600412"
+    },
+    "code": {
+      "id": "GN00600412",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006004",
+      "level": 2,
+      "name": {
+        "local": "Mali",
+        "en": "Mali",
+        "slug": "mali-gn006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006004",
+        "level": 2,
+        "name": {
+          "local": "Mali",
+          "en": "Mali",
+          "slug": "mali-gn006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.187",
+      "lon": "-12.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600413",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Yimbering",
+      "en": "Yimbering",
+      "slug": "yimbering-gn00600413"
+    },
+    "code": {
+      "id": "GN00600413",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006004",
+      "level": 2,
+      "name": {
+        "local": "Mali",
+        "en": "Mali",
+        "slug": "mali-gn006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006004",
+        "level": 2,
+        "name": {
+          "local": "Mali",
+          "en": "Mali",
+          "slug": "mali-gn006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.775",
+      "lon": "-12.37"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

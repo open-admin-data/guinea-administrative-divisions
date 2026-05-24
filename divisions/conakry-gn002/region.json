@@ -1,0 +1,30 @@
+{
+  "id": "GN002",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Conakry",
+    "en": "Conakry",
+    "slug": "conakry-gn002"
+  },
+  "code": {
+    "id": "GN002",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "prefecture": 1,
+    "sub_prefecture": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.626",
+    "lon": "-13.551"
+  },
+  "metadata": {},
+  "source": {}
+}

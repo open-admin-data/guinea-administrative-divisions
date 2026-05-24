@@ -1,0 +1,542 @@
+[
+  {
+    "id": "GN00100201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bintimodia",
+      "en": "Bintimodia",
+      "slug": "bintimodia-gn00100201"
+    },
+    "code": {
+      "id": "GN00100201",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001002",
+      "level": 2,
+      "name": {
+        "local": "Boke",
+        "en": "Boke",
+        "slug": "boke-gn001002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001002",
+        "level": 2,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.615",
+      "lon": "-14.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00100202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Boke Ctre",
+      "en": "Boke Ctre",
+      "slug": "boke-ctre-gn00100202"
+    },
+    "code": {
+      "id": "GN00100202",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001002",
+      "level": 2,
+      "name": {
+        "local": "Boke",
+        "en": "Boke",
+        "slug": "boke-gn001002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001002",
+        "level": 2,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.9",
+      "lon": "-14.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00100203",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dabiss",
+      "en": "Dabiss",
+      "slug": "dabiss-gn00100203"
+    },
+    "code": {
+      "id": "GN00100203",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001002",
+      "level": 2,
+      "name": {
+        "local": "Boke",
+        "en": "Boke",
+        "slug": "boke-gn001002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001002",
+        "level": 2,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.341",
+      "lon": "-14.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00100204",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kamsar",
+      "en": "Kamsar",
+      "slug": "kamsar-gn00100204"
+    },
+    "code": {
+      "id": "GN00100204",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001002",
+      "level": 2,
+      "name": {
+        "local": "Boke",
+        "en": "Boke",
+        "slug": "boke-gn001002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001002",
+        "level": 2,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.634",
+      "lon": "-14.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00100205",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kanfarande",
+      "en": "Kanfarande",
+      "slug": "kanfarande-gn00100205"
+    },
+    "code": {
+      "id": "GN00100205",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001002",
+      "level": 2,
+      "name": {
+        "local": "Boke",
+        "en": "Boke",
+        "slug": "boke-gn001002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001002",
+        "level": 2,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.902",
+      "lon": "-14.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00100206",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kolaboui",
+      "en": "Kolaboui",
+      "slug": "kolaboui-gn00100206"
+    },
+    "code": {
+      "id": "GN00100206",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001002",
+      "level": 2,
+      "name": {
+        "local": "Boke",
+        "en": "Boke",
+        "slug": "boke-gn001002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001002",
+        "level": 2,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.793",
+      "lon": "-14.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00100207",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Malapouya",
+      "en": "Malapouya",
+      "slug": "malapouya-gn00100207"
+    },
+    "code": {
+      "id": "GN00100207",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001002",
+      "level": 2,
+      "name": {
+        "local": "Boke",
+        "en": "Boke",
+        "slug": "boke-gn001002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001002",
+        "level": 2,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.707",
+      "lon": "-14.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00100208",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sangaredi",
+      "en": "Sangaredi",
+      "slug": "sangaredi-gn00100208"
+    },
+    "code": {
+      "id": "GN00100208",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001002",
+      "level": 2,
+      "name": {
+        "local": "Boke",
+        "en": "Boke",
+        "slug": "boke-gn001002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001002",
+        "level": 2,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.107",
+      "lon": "-13.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00100209",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sansale",
+      "en": "Sansale",
+      "slug": "sansale-gn00100209"
+    },
+    "code": {
+      "id": "GN00100209",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001002",
+      "level": 2,
+      "name": {
+        "local": "Boke",
+        "en": "Boke",
+        "slug": "boke-gn001002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001002",
+        "level": 2,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.319",
+      "lon": "-14.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00100210",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tanene",
+      "en": "Tanene",
+      "slug": "tanene-gn00100210"
+    },
+    "code": {
+      "id": "GN00100210",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001002",
+      "level": 2,
+      "name": {
+        "local": "Boke",
+        "en": "Boke",
+        "slug": "boke-gn001002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001002",
+        "level": 2,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.056",
+      "lon": "-14.245"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

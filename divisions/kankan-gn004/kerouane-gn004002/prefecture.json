@@ -1,0 +1,47 @@
+{
+  "id": "GN004002",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Kerouane",
+    "en": "Kerouane",
+    "slug": "kerouane-gn004002"
+  },
+  "code": {
+    "id": "GN004002",
+    "iso": null
+  },
+  "parent": {
+    "id": "GN004",
+    "level": 1,
+    "name": {
+      "local": "Kankan",
+      "en": "Kankan",
+      "slug": "kankan-gn004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GN004",
+      "level": 1,
+      "name": {
+        "local": "Kankan",
+        "en": "Kankan",
+        "slug": "kankan-gn004"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.348",
+    "lon": "-9.111"
+  },
+  "metadata": {},
+  "source": {}
+}

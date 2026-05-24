@@ -1,0 +1,237 @@
+[
+  {
+    "id": "GN005001",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Coyah",
+      "en": "Coyah",
+      "slug": "coyah-gn005001"
+    },
+    "code": {
+      "id": "GN005001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005",
+      "level": 1,
+      "name": {
+        "local": "Kindia",
+        "en": "Kindia",
+        "slug": "kindia-gn005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.754",
+      "lon": "-13.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN005002",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Dubreka",
+      "en": "Dubreka",
+      "slug": "dubreka-gn005002"
+    },
+    "code": {
+      "id": "GN005002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005",
+      "level": 1,
+      "name": {
+        "local": "Kindia",
+        "en": "Kindia",
+        "slug": "kindia-gn005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.127",
+      "lon": "-13.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN005003",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Forecariah",
+      "en": "Forecariah",
+      "slug": "forecariah-gn005003"
+    },
+    "code": {
+      "id": "GN005003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005",
+      "level": 1,
+      "name": {
+        "local": "Kindia",
+        "en": "Kindia",
+        "slug": "kindia-gn005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.383",
+      "lon": "-13.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN005004",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Kindia",
+      "en": "Kindia",
+      "slug": "kindia-gn005004"
+    },
+    "code": {
+      "id": "GN005004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005",
+      "level": 1,
+      "name": {
+        "local": "Kindia",
+        "en": "Kindia",
+        "slug": "kindia-gn005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.109",
+      "lon": "-12.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN005005",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Telimele",
+      "en": "Telimele",
+      "slug": "telimele-gn005005"
+    },
+    "code": {
+      "id": "GN005005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005",
+      "level": 1,
+      "name": {
+        "local": "Kindia",
+        "en": "Kindia",
+        "slug": "kindia-gn005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.888",
+      "lon": "-13.408"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

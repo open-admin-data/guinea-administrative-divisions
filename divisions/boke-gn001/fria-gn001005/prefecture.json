@@ -1,0 +1,47 @@
+{
+  "id": "GN001005",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Fria",
+    "en": "Fria",
+    "slug": "fria-gn001005"
+  },
+  "code": {
+    "id": "GN001005",
+    "iso": null
+  },
+  "parent": {
+    "id": "GN001",
+    "level": 1,
+    "name": {
+      "local": "Boke",
+      "en": "Boke",
+      "slug": "boke-gn001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GN001",
+      "level": 1,
+      "name": {
+        "local": "Boke",
+        "en": "Boke",
+        "slug": "boke-gn001"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.535",
+    "lon": "-13.538"
+  },
+  "metadata": {},
+  "source": {}
+}

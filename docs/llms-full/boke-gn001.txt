@@ -1,0 +1,182 @@
+# Boke — Guinea Administrative Divisions
+
+> 5 prefectures, 37 sub-prefectures
+> Code: GN001
+> Coordinates: 11.255, -14.312
+> Last updated: 2026-05-24. License: CC-BY-4.0.
+
+## Prefectures
+
+### Boffa
+
+Code: GN001001, Coordinates: 10.352, -14.164
+Sub-prefectures: 8
+
+#### Boffa Ctre
+
+Code: GN00100101, Coordinates: 10.194, -14.129
+
+#### Douprou
+
+Code: GN00100102, Coordinates: 10.236, -14.366
+
+#### Koba Tatema
+
+Code: GN00100103, Coordinates: 9.973, -13.85
+
+#### Kolia
+
+Code: GN00100104, Coordinates: 10.584, -14.031
+
+#### Lisso
+
+Code: GN00100105, Coordinates: 10.437, -13.85
+
+#### Mankountan
+
+Code: GN00100106, Coordinates: 10.508, -14.434
+
+#### Tamita
+
+Code: GN00100107, Coordinates: 10.182, -13.925
+
+#### Tougnifily
+
+Code: GN00100108, Coordinates: 10.379, -14.368
+
+### Boke
+
+Code: GN001002, Coordinates: 11.072, -14.357
+Sub-prefectures: 10
+
+#### Bintimodia
+
+Code: GN00100201, Coordinates: 10.615, -14.383
+
+#### Boke Ctre
+
+Code: GN00100202, Coordinates: 10.9, -14.272
+
+#### Dabiss
+
+Code: GN00100203, Coordinates: 11.341, -14.281
+
+#### Kamsar
+
+Code: GN00100204, Coordinates: 10.634, -14.545
+
+#### Kanfarande
+
+Code: GN00100205, Coordinates: 10.902, -14.65
+
+#### Kolaboui
+
+Code: GN00100206, Coordinates: 10.793, -14.399
+
+#### Malapouya
+
+Code: GN00100207, Coordinates: 10.707, -14.211
+
+#### Sangaredi
+
+Code: GN00100208, Coordinates: 11.107, -13.916
+
+#### Sansale
+
+Code: GN00100209, Coordinates: 11.319, -14.72
+
+#### Tanene
+
+Code: GN00100210, Coordinates: 11.056, -14.245
+
+### Fria
+
+Code: GN001005, Coordinates: 10.535, -13.538
+Sub-prefectures: 4
+
+#### Baguinet
+
+Code: GN00100501, Coordinates: 10.564, -13.47
+
+#### Banguigny
+
+Code: GN00100502, Coordinates: 10.68, -13.542
+
+#### Fria Ctre
+
+Code: GN00100503, Coordinates: 10.407, -13.584
+
+#### Tormelin
+
+Code: GN00100504, Coordinates: 10.35, -13.746
+
+### Gaoual
+
+Code: GN001003, Coordinates: 11.692, -13.284
+Sub-prefectures: 8
+
+#### Foulamory
+
+Code: GN00100301, Coordinates: 12.147, -13.648
+
+#### Gaoual Ctre
+
+Code: GN00100302, Coordinates: 11.753, -13.217
+
+#### Kakony
+
+Code: GN00100303, Coordinates: 11.379, -13.117
+
+#### Koumbia
+
+Code: GN00100304, Coordinates: 11.707, -13.47
+
+#### Kounsitel
+
+Code: GN00100305, Coordinates: 11.884, -12.972
+
+#### Malanta
+
+Code: GN00100306, Coordinates: 11.577, -12.794
+
+#### Touba
+
+Code: GN00100307, Coordinates: 11.583, -12.996
+
+#### Wendou Mbour
+
+Code: GN00100308, Coordinates: 11.522, -13.801
+
+### Koundara
+
+Code: GN001004, Coordinates: 12.338, -13.136
+Sub-prefectures: 7
+
+#### Guinguan
+
+Code: GN00100401, Coordinates: 12.27, -12.978
+
+#### Kamabi
+
+Code: GN00100402, Coordinates: 12.263, -13.273
+
+#### Koundara Ctre
+
+Code: GN00100403, Coordinates: 12.486, -13.27
+
+#### Sambailo
+
+Code: GN00100404, Coordinates: 12.555, -13.482
+
+#### Sareboido
+
+Code: GN00100405, Coordinates: 12.365, -13.558
+
+#### Termesse
+
+Code: GN00100406, Coordinates: 12.288, -12.786
+
+#### Youkounkoun
+
+Code: GN00100407, Coordinates: 12.416, -13.105
+

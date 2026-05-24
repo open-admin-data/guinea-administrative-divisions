@@ -1,0 +1,30 @@
+{
+  "id": "GN004",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Kankan",
+    "en": "Kankan",
+    "slug": "kankan-gn004"
+  },
+  "code": {
+    "id": "GN004",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "prefecture": 5,
+    "sub_prefecture": 57
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.629",
+    "lon": "-9.378"
+  },
+  "metadata": {},
+  "source": {}
+}

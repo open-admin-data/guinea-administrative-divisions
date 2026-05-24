@@ -1,0 +1,47 @@
+{
+  "id": "GN005005",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Telimele",
+    "en": "Telimele",
+    "slug": "telimele-gn005005"
+  },
+  "code": {
+    "id": "GN005005",
+    "iso": null
+  },
+  "parent": {
+    "id": "GN005",
+    "level": 1,
+    "name": {
+      "local": "Kindia",
+      "en": "Kindia",
+      "slug": "kindia-gn005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GN005",
+      "level": 1,
+      "name": {
+        "local": "Kindia",
+        "en": "Kindia",
+        "slug": "kindia-gn005"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.888",
+    "lon": "-13.408"
+  },
+  "metadata": {},
+  "source": {}
+}

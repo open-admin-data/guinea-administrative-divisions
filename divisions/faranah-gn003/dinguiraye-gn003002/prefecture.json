@@ -1,0 +1,47 @@
+{
+  "id": "GN003002",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Dinguiraye",
+    "en": "Dinguiraye",
+    "slug": "dinguiraye-gn003002"
+  },
+  "code": {
+    "id": "GN003002",
+    "iso": null
+  },
+  "parent": {
+    "id": "GN003",
+    "level": 1,
+    "name": {
+      "local": "Faranah",
+      "en": "Faranah",
+      "slug": "faranah-gn003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GN003",
+      "level": 1,
+      "name": {
+        "local": "Faranah",
+        "en": "Faranah",
+        "slug": "faranah-gn003"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.568",
+    "lon": "-10.725"
+  },
+  "metadata": {},
+  "source": {}
+}

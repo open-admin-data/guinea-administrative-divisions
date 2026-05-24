@@ -1,0 +1,47 @@
+{
+  "id": "GN007003",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Pita",
+    "en": "Pita",
+    "slug": "pita-gn007003"
+  },
+  "code": {
+    "id": "GN007003",
+    "iso": null
+  },
+  "parent": {
+    "id": "GN007",
+    "level": 1,
+    "name": {
+      "local": "Mamou",
+      "en": "Mamou",
+      "slug": "mamou-gn007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GN007",
+      "level": 1,
+      "name": {
+        "local": "Mamou",
+        "en": "Mamou",
+        "slug": "mamou-gn007"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.905",
+    "lon": "-12.662"
+  },
+  "metadata": {},
+  "source": {}
+}

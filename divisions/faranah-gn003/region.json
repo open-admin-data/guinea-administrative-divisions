@@ -1,0 +1,30 @@
+{
+  "id": "GN003",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Faranah",
+    "en": "Faranah",
+    "slug": "faranah-gn003"
+  },
+  "code": {
+    "id": "GN003",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "prefecture": 4,
+    "sub_prefecture": 41
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.517",
+    "lon": "-10.98"
+  },
+  "metadata": {},
+  "source": {}
+}

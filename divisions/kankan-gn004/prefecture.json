@@ -1,0 +1,237 @@
+[
+  {
+    "id": "GN004001",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Kankan",
+      "en": "Kankan",
+      "slug": "kankan-gn004001"
+    },
+    "code": {
+      "id": "GN004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004",
+      "level": 1,
+      "name": {
+        "local": "Kankan",
+        "en": "Kankan",
+        "slug": "kankan-gn004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.225",
+      "lon": "-9.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN004002",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Kerouane",
+      "en": "Kerouane",
+      "slug": "kerouane-gn004002"
+    },
+    "code": {
+      "id": "GN004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004",
+      "level": 1,
+      "name": {
+        "local": "Kankan",
+        "en": "Kankan",
+        "slug": "kankan-gn004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.348",
+      "lon": "-9.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN004003",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Kouroussa",
+      "en": "Kouroussa",
+      "slug": "kouroussa-gn004003"
+    },
+    "code": {
+      "id": "GN004003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004",
+      "level": 1,
+      "name": {
+        "local": "Kankan",
+        "en": "Kankan",
+        "slug": "kankan-gn004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.486",
+      "lon": "-9.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN004004",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Mandiana",
+      "en": "Mandiana",
+      "slug": "mandiana-gn004004"
+    },
+    "code": {
+      "id": "GN004004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004",
+      "level": 1,
+      "name": {
+        "local": "Kankan",
+        "en": "Kankan",
+        "slug": "kankan-gn004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.815",
+      "lon": "-8.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN004005",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Siguiri",
+      "en": "Siguiri",
+      "slug": "siguiri-gn004005"
+    },
+    "code": {
+      "id": "GN004005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004",
+      "level": 1,
+      "name": {
+        "local": "Kankan",
+        "en": "Kankan",
+        "slug": "kankan-gn004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.677",
+      "lon": "-9.55"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

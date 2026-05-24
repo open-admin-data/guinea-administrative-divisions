@@ -1,0 +1,434 @@
+[
+  {
+    "id": "GN00300201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Banora",
+      "en": "Banora",
+      "slug": "banora-gn00300201"
+    },
+    "code": {
+      "id": "GN00300201",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003002",
+      "level": 2,
+      "name": {
+        "local": "Dinguiraye",
+        "en": "Dinguiraye",
+        "slug": "dinguiraye-gn003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003002",
+        "level": 2,
+        "name": {
+          "local": "Dinguiraye",
+          "en": "Dinguiraye",
+          "slug": "dinguiraye-gn003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.782",
+      "lon": "-10.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dialakoro",
+      "en": "Dialakoro",
+      "slug": "dialakoro-gn00300202"
+    },
+    "code": {
+      "id": "GN00300202",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003002",
+      "level": 2,
+      "name": {
+        "local": "Dinguiraye",
+        "en": "Dinguiraye",
+        "slug": "dinguiraye-gn003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003002",
+        "level": 2,
+        "name": {
+          "local": "Dinguiraye",
+          "en": "Dinguiraye",
+          "slug": "dinguiraye-gn003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.015",
+      "lon": "-11.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300203",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Diatifere",
+      "en": "Diatifere",
+      "slug": "diatifere-gn00300203"
+    },
+    "code": {
+      "id": "GN00300203",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003002",
+      "level": 2,
+      "name": {
+        "local": "Dinguiraye",
+        "en": "Dinguiraye",
+        "slug": "dinguiraye-gn003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003002",
+        "level": 2,
+        "name": {
+          "local": "Dinguiraye",
+          "en": "Dinguiraye",
+          "slug": "dinguiraye-gn003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.794",
+      "lon": "-10.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300204",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dinguiraye Ctre",
+      "en": "Dinguiraye Ctre",
+      "slug": "dinguiraye-ctre-gn00300204"
+    },
+    "code": {
+      "id": "GN00300204",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003002",
+      "level": 2,
+      "name": {
+        "local": "Dinguiraye",
+        "en": "Dinguiraye",
+        "slug": "dinguiraye-gn003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003002",
+        "level": 2,
+        "name": {
+          "local": "Dinguiraye",
+          "en": "Dinguiraye",
+          "slug": "dinguiraye-gn003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.362",
+      "lon": "-10.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300205",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gagnakaly",
+      "en": "Gagnakaly",
+      "slug": "gagnakaly-gn00300205"
+    },
+    "code": {
+      "id": "GN00300205",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003002",
+      "level": 2,
+      "name": {
+        "local": "Dinguiraye",
+        "en": "Dinguiraye",
+        "slug": "dinguiraye-gn003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003002",
+        "level": 2,
+        "name": {
+          "local": "Dinguiraye",
+          "en": "Dinguiraye",
+          "slug": "dinguiraye-gn003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.796",
+      "lon": "-10.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300206",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kalinko",
+      "en": "Kalinko",
+      "slug": "kalinko-gn00300206"
+    },
+    "code": {
+      "id": "GN00300206",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003002",
+      "level": 2,
+      "name": {
+        "local": "Dinguiraye",
+        "en": "Dinguiraye",
+        "slug": "dinguiraye-gn003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003002",
+        "level": 2,
+        "name": {
+          "local": "Dinguiraye",
+          "en": "Dinguiraye",
+          "slug": "dinguiraye-gn003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.251",
+      "lon": "-11.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300207",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Lansanaya",
+      "en": "Lansanaya",
+      "slug": "lansanaya-gn00300207"
+    },
+    "code": {
+      "id": "GN00300207",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003002",
+      "level": 2,
+      "name": {
+        "local": "Dinguiraye",
+        "en": "Dinguiraye",
+        "slug": "dinguiraye-gn003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003002",
+        "level": 2,
+        "name": {
+          "local": "Dinguiraye",
+          "en": "Dinguiraye",
+          "slug": "dinguiraye-gn003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.387",
+      "lon": "-10.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300208",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Selouma",
+      "en": "Selouma",
+      "slug": "selouma-gn00300208"
+    },
+    "code": {
+      "id": "GN00300208",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003002",
+      "level": 2,
+      "name": {
+        "local": "Dinguiraye",
+        "en": "Dinguiraye",
+        "slug": "dinguiraye-gn003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003002",
+        "level": 2,
+        "name": {
+          "local": "Dinguiraye",
+          "en": "Dinguiraye",
+          "slug": "dinguiraye-gn003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.173",
+      "lon": "-10.965"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "GN004003",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Kouroussa",
+    "en": "Kouroussa",
+    "slug": "kouroussa-gn004003"
+  },
+  "code": {
+    "id": "GN004003",
+    "iso": null
+  },
+  "parent": {
+    "id": "GN004",
+    "level": 1,
+    "name": {
+      "local": "Kankan",
+      "en": "Kankan",
+      "slug": "kankan-gn004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GN004",
+      "level": 1,
+      "name": {
+        "local": "Kankan",
+        "en": "Kankan",
+        "slug": "kankan-gn004"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.486",
+    "lon": "-9.891"
+  },
+  "metadata": {},
+  "source": {}
+}

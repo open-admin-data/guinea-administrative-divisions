@@ -1,0 +1,380 @@
+[
+  {
+    "id": "GN00500201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Badi",
+      "en": "Badi",
+      "slug": "badi-gn00500201"
+    },
+    "code": {
+      "id": "GN00500201",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005002",
+      "level": 2,
+      "name": {
+        "local": "Dubreka",
+        "en": "Dubreka",
+        "slug": "dubreka-gn005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005002",
+        "level": 2,
+        "name": {
+          "local": "Dubreka",
+          "en": "Dubreka",
+          "slug": "dubreka-gn005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.277",
+      "lon": "-13.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dubreka Ctre",
+      "en": "Dubreka Ctre",
+      "slug": "dubreka-ctre-gn00500202"
+    },
+    "code": {
+      "id": "GN00500202",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005002",
+      "level": 2,
+      "name": {
+        "local": "Dubreka",
+        "en": "Dubreka",
+        "slug": "dubreka-gn005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005002",
+        "level": 2,
+        "name": {
+          "local": "Dubreka",
+          "en": "Dubreka",
+          "slug": "dubreka-gn005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.814",
+      "lon": "-13.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500203",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Falessade",
+      "en": "Falessade",
+      "slug": "falessade-gn00500203"
+    },
+    "code": {
+      "id": "GN00500203",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005002",
+      "level": 2,
+      "name": {
+        "local": "Dubreka",
+        "en": "Dubreka",
+        "slug": "dubreka-gn005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005002",
+        "level": 2,
+        "name": {
+          "local": "Dubreka",
+          "en": "Dubreka",
+          "slug": "dubreka-gn005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.101",
+      "lon": "-13.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500204",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Khorira",
+      "en": "Khorira",
+      "slug": "khorira-gn00500204"
+    },
+    "code": {
+      "id": "GN00500204",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005002",
+      "level": 2,
+      "name": {
+        "local": "Dubreka",
+        "en": "Dubreka",
+        "slug": "dubreka-gn005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005002",
+        "level": 2,
+        "name": {
+          "local": "Dubreka",
+          "en": "Dubreka",
+          "slug": "dubreka-gn005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.958",
+      "lon": "-13.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500205",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ouassou",
+      "en": "Ouassou",
+      "slug": "ouassou-gn00500205"
+    },
+    "code": {
+      "id": "GN00500205",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005002",
+      "level": 2,
+      "name": {
+        "local": "Dubreka",
+        "en": "Dubreka",
+        "slug": "dubreka-gn005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005002",
+        "level": 2,
+        "name": {
+          "local": "Dubreka",
+          "en": "Dubreka",
+          "slug": "dubreka-gn005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.127",
+      "lon": "-13.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500208",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tanene",
+      "en": "Tanene",
+      "slug": "tanene-gn00500208"
+    },
+    "code": {
+      "id": "GN00500208",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005002",
+      "level": 2,
+      "name": {
+        "local": "Dubreka",
+        "en": "Dubreka",
+        "slug": "dubreka-gn005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005002",
+        "level": 2,
+        "name": {
+          "local": "Dubreka",
+          "en": "Dubreka",
+          "slug": "dubreka-gn005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.12",
+      "lon": "-13.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500207",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tondon",
+      "en": "Tondon",
+      "slug": "tondon-gn00500207"
+    },
+    "code": {
+      "id": "GN00500207",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005002",
+      "level": 2,
+      "name": {
+        "local": "Dubreka",
+        "en": "Dubreka",
+        "slug": "dubreka-gn005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005002",
+        "level": 2,
+        "name": {
+          "local": "Dubreka",
+          "en": "Dubreka",
+          "slug": "dubreka-gn005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.348",
+      "lon": "-13.321"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

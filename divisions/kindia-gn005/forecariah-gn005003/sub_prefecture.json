@@ -1,0 +1,542 @@
+[
+  {
+    "id": "GN00500301",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Allassoyah",
+      "en": "Allassoyah",
+      "slug": "allassoyah-gn00500301"
+    },
+    "code": {
+      "id": "GN00500301",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005003",
+      "level": 2,
+      "name": {
+        "local": "Forecariah",
+        "en": "Forecariah",
+        "slug": "forecariah-gn005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005003",
+        "level": 2,
+        "name": {
+          "local": "Forecariah",
+          "en": "Forecariah",
+          "slug": "forecariah-gn005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.498",
+      "lon": "-13.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500302",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Benty",
+      "en": "Benty",
+      "slug": "benty-gn00500302"
+    },
+    "code": {
+      "id": "GN00500302",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005003",
+      "level": 2,
+      "name": {
+        "local": "Forecariah",
+        "en": "Forecariah",
+        "slug": "forecariah-gn005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005003",
+        "level": 2,
+        "name": {
+          "local": "Forecariah",
+          "en": "Forecariah",
+          "slug": "forecariah-gn005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.122",
+      "lon": "-13.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500303",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Farmoriah",
+      "en": "Farmoriah",
+      "slug": "farmoriah-gn00500303"
+    },
+    "code": {
+      "id": "GN00500303",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005003",
+      "level": 2,
+      "name": {
+        "local": "Forecariah",
+        "en": "Forecariah",
+        "slug": "forecariah-gn005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005003",
+        "level": 2,
+        "name": {
+          "local": "Forecariah",
+          "en": "Forecariah",
+          "slug": "forecariah-gn005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.261",
+      "lon": "-13.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500304",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Forecariah Ctre",
+      "en": "Forecariah Ctre",
+      "slug": "forecariah-ctre-gn00500304"
+    },
+    "code": {
+      "id": "GN00500304",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005003",
+      "level": 2,
+      "name": {
+        "local": "Forecariah",
+        "en": "Forecariah",
+        "slug": "forecariah-gn005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005003",
+        "level": 2,
+        "name": {
+          "local": "Forecariah",
+          "en": "Forecariah",
+          "slug": "forecariah-gn005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.425",
+      "lon": "-13.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500305",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kaback",
+      "en": "Kaback",
+      "slug": "kaback-gn00500305"
+    },
+    "code": {
+      "id": "GN00500305",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005003",
+      "level": 2,
+      "name": {
+        "local": "Forecariah",
+        "en": "Forecariah",
+        "slug": "forecariah-gn005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005003",
+        "level": 2,
+        "name": {
+          "local": "Forecariah",
+          "en": "Forecariah",
+          "slug": "forecariah-gn005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.343",
+      "lon": "-13.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500306",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kakossa",
+      "en": "Kakossa",
+      "slug": "kakossa-gn00500306"
+    },
+    "code": {
+      "id": "GN00500306",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005003",
+      "level": 2,
+      "name": {
+        "local": "Forecariah",
+        "en": "Forecariah",
+        "slug": "forecariah-gn005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005003",
+        "level": 2,
+        "name": {
+          "local": "Forecariah",
+          "en": "Forecariah",
+          "slug": "forecariah-gn005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.487",
+      "lon": "-13.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500307",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kaliah",
+      "en": "Kaliah",
+      "slug": "kaliah-gn00500307"
+    },
+    "code": {
+      "id": "GN00500307",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005003",
+      "level": 2,
+      "name": {
+        "local": "Forecariah",
+        "en": "Forecariah",
+        "slug": "forecariah-gn005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005003",
+        "level": 2,
+        "name": {
+          "local": "Forecariah",
+          "en": "Forecariah",
+          "slug": "forecariah-gn005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.313",
+      "lon": "-13.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500308",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Maferinya",
+      "en": "Maferinya",
+      "slug": "maferinya-gn00500308"
+    },
+    "code": {
+      "id": "GN00500308",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005003",
+      "level": 2,
+      "name": {
+        "local": "Forecariah",
+        "en": "Forecariah",
+        "slug": "forecariah-gn005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005003",
+        "level": 2,
+        "name": {
+          "local": "Forecariah",
+          "en": "Forecariah",
+          "slug": "forecariah-gn005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.458",
+      "lon": "-13.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500309",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Moussayah",
+      "en": "Moussayah",
+      "slug": "moussayah-gn00500309"
+    },
+    "code": {
+      "id": "GN00500309",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005003",
+      "level": 2,
+      "name": {
+        "local": "Forecariah",
+        "en": "Forecariah",
+        "slug": "forecariah-gn005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005003",
+        "level": 2,
+        "name": {
+          "local": "Forecariah",
+          "en": "Forecariah",
+          "slug": "forecariah-gn005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.491",
+      "lon": "-12.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500310",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sikhourou",
+      "en": "Sikhourou",
+      "slug": "sikhourou-gn00500310"
+    },
+    "code": {
+      "id": "GN00500310",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005003",
+      "level": 2,
+      "name": {
+        "local": "Forecariah",
+        "en": "Forecariah",
+        "slug": "forecariah-gn005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005003",
+        "level": 2,
+        "name": {
+          "local": "Forecariah",
+          "en": "Forecariah",
+          "slug": "forecariah-gn005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.621",
+      "lon": "-12.744"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

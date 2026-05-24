@@ -1,0 +1,434 @@
+[
+  {
+    "id": "GN00100101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Boffa Ctre",
+      "en": "Boffa Ctre",
+      "slug": "boffa-ctre-gn00100101"
+    },
+    "code": {
+      "id": "GN00100101",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001001",
+      "level": 2,
+      "name": {
+        "local": "Boffa",
+        "en": "Boffa",
+        "slug": "boffa-gn001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001001",
+        "level": 2,
+        "name": {
+          "local": "Boffa",
+          "en": "Boffa",
+          "slug": "boffa-gn001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.194",
+      "lon": "-14.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00100102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Douprou",
+      "en": "Douprou",
+      "slug": "douprou-gn00100102"
+    },
+    "code": {
+      "id": "GN00100102",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001001",
+      "level": 2,
+      "name": {
+        "local": "Boffa",
+        "en": "Boffa",
+        "slug": "boffa-gn001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001001",
+        "level": 2,
+        "name": {
+          "local": "Boffa",
+          "en": "Boffa",
+          "slug": "boffa-gn001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.236",
+      "lon": "-14.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00100103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koba Tatema",
+      "en": "Koba Tatema",
+      "slug": "koba-tatema-gn00100103"
+    },
+    "code": {
+      "id": "GN00100103",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001001",
+      "level": 2,
+      "name": {
+        "local": "Boffa",
+        "en": "Boffa",
+        "slug": "boffa-gn001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001001",
+        "level": 2,
+        "name": {
+          "local": "Boffa",
+          "en": "Boffa",
+          "slug": "boffa-gn001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.973",
+      "lon": "-13.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00100104",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kolia",
+      "en": "Kolia",
+      "slug": "kolia-gn00100104"
+    },
+    "code": {
+      "id": "GN00100104",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001001",
+      "level": 2,
+      "name": {
+        "local": "Boffa",
+        "en": "Boffa",
+        "slug": "boffa-gn001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001001",
+        "level": 2,
+        "name": {
+          "local": "Boffa",
+          "en": "Boffa",
+          "slug": "boffa-gn001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.584",
+      "lon": "-14.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00100105",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Lisso",
+      "en": "Lisso",
+      "slug": "lisso-gn00100105"
+    },
+    "code": {
+      "id": "GN00100105",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001001",
+      "level": 2,
+      "name": {
+        "local": "Boffa",
+        "en": "Boffa",
+        "slug": "boffa-gn001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001001",
+        "level": 2,
+        "name": {
+          "local": "Boffa",
+          "en": "Boffa",
+          "slug": "boffa-gn001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.437",
+      "lon": "-13.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00100106",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mankountan",
+      "en": "Mankountan",
+      "slug": "mankountan-gn00100106"
+    },
+    "code": {
+      "id": "GN00100106",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001001",
+      "level": 2,
+      "name": {
+        "local": "Boffa",
+        "en": "Boffa",
+        "slug": "boffa-gn001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001001",
+        "level": 2,
+        "name": {
+          "local": "Boffa",
+          "en": "Boffa",
+          "slug": "boffa-gn001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.508",
+      "lon": "-14.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00100107",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tamita",
+      "en": "Tamita",
+      "slug": "tamita-gn00100107"
+    },
+    "code": {
+      "id": "GN00100107",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001001",
+      "level": 2,
+      "name": {
+        "local": "Boffa",
+        "en": "Boffa",
+        "slug": "boffa-gn001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001001",
+        "level": 2,
+        "name": {
+          "local": "Boffa",
+          "en": "Boffa",
+          "slug": "boffa-gn001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.182",
+      "lon": "-13.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00100108",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tougnifily",
+      "en": "Tougnifily",
+      "slug": "tougnifily-gn00100108"
+    },
+    "code": {
+      "id": "GN00100108",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001001",
+      "level": 2,
+      "name": {
+        "local": "Boffa",
+        "en": "Boffa",
+        "slug": "boffa-gn001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001001",
+        "level": 2,
+        "name": {
+          "local": "Boffa",
+          "en": "Boffa",
+          "slug": "boffa-gn001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.379",
+      "lon": "-14.368"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

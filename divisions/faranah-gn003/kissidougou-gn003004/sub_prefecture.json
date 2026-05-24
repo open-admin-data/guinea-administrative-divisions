@@ -1,0 +1,704 @@
+[
+  {
+    "id": "GN00300401",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Albadariah",
+      "en": "Albadariah",
+      "slug": "albadariah-gn00300401"
+    },
+    "code": {
+      "id": "GN00300401",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003004",
+      "level": 2,
+      "name": {
+        "local": "Kissidougou",
+        "en": "Kissidougou",
+        "slug": "kissidougou-gn003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003004",
+        "level": 2,
+        "name": {
+          "local": "Kissidougou",
+          "en": "Kissidougou",
+          "slug": "kissidougou-gn003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.554",
+      "lon": "-10.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300402",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Banama",
+      "en": "Banama",
+      "slug": "banama-gn00300402"
+    },
+    "code": {
+      "id": "GN00300402",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003004",
+      "level": 2,
+      "name": {
+        "local": "Kissidougou",
+        "en": "Kissidougou",
+        "slug": "kissidougou-gn003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003004",
+        "level": 2,
+        "name": {
+          "local": "Kissidougou",
+          "en": "Kissidougou",
+          "slug": "kissidougou-gn003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.048",
+      "lon": "-9.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300403",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bardou",
+      "en": "Bardou",
+      "slug": "bardou-gn00300403"
+    },
+    "code": {
+      "id": "GN00300403",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003004",
+      "level": 2,
+      "name": {
+        "local": "Kissidougou",
+        "en": "Kissidougou",
+        "slug": "kissidougou-gn003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003004",
+        "level": 2,
+        "name": {
+          "local": "Kissidougou",
+          "en": "Kissidougou",
+          "slug": "kissidougou-gn003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.035",
+      "lon": "-9.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300404",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Beindou",
+      "en": "Beindou",
+      "slug": "beindou-gn00300404"
+    },
+    "code": {
+      "id": "GN00300404",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003004",
+      "level": 2,
+      "name": {
+        "local": "Kissidougou",
+        "en": "Kissidougou",
+        "slug": "kissidougou-gn003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003004",
+        "level": 2,
+        "name": {
+          "local": "Kissidougou",
+          "en": "Kissidougou",
+          "slug": "kissidougou-gn003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.09",
+      "lon": "-10.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300405",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Fermessadou",
+      "en": "Fermessadou",
+      "slug": "fermessadou-gn00300405"
+    },
+    "code": {
+      "id": "GN00300405",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003004",
+      "level": 2,
+      "name": {
+        "local": "Kissidougou",
+        "en": "Kissidougou",
+        "slug": "kissidougou-gn003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003004",
+        "level": 2,
+        "name": {
+          "local": "Kissidougou",
+          "en": "Kissidougou",
+          "slug": "kissidougou-gn003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.141",
+      "lon": "-10.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300406",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Firawa",
+      "en": "Firawa",
+      "slug": "firawa-gn00300406"
+    },
+    "code": {
+      "id": "GN00300406",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003004",
+      "level": 2,
+      "name": {
+        "local": "Kissidougou",
+        "en": "Kissidougou",
+        "slug": "kissidougou-gn003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003004",
+        "level": 2,
+        "name": {
+          "local": "Kissidougou",
+          "en": "Kissidougou",
+          "slug": "kissidougou-gn003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.24",
+      "lon": "-9.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300407",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gbangbadou",
+      "en": "Gbangbadou",
+      "slug": "gbangbadou-gn00300407"
+    },
+    "code": {
+      "id": "GN00300407",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003004",
+      "level": 2,
+      "name": {
+        "local": "Kissidougou",
+        "en": "Kissidougou",
+        "slug": "kissidougou-gn003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003004",
+        "level": 2,
+        "name": {
+          "local": "Kissidougou",
+          "en": "Kissidougou",
+          "slug": "kissidougou-gn003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.303",
+      "lon": "-9.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300408",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kissidougou Ctre",
+      "en": "Kissidougou Ctre",
+      "slug": "kissidougou-ctre-gn00300408"
+    },
+    "code": {
+      "id": "GN00300408",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003004",
+      "level": 2,
+      "name": {
+        "local": "Kissidougou",
+        "en": "Kissidougou",
+        "slug": "kissidougou-gn003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003004",
+        "level": 2,
+        "name": {
+          "local": "Kissidougou",
+          "en": "Kissidougou",
+          "slug": "kissidougou-gn003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.245",
+      "lon": "-10.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300409",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kondiadou",
+      "en": "Kondiadou",
+      "slug": "kondiadou-gn00300409"
+    },
+    "code": {
+      "id": "GN00300409",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003004",
+      "level": 2,
+      "name": {
+        "local": "Kissidougou",
+        "en": "Kissidougou",
+        "slug": "kissidougou-gn003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003004",
+        "level": 2,
+        "name": {
+          "local": "Kissidougou",
+          "en": "Kissidougou",
+          "slug": "kissidougou-gn003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.903",
+      "lon": "-9.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300410",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Manfran",
+      "en": "Manfran",
+      "slug": "manfran-gn00300410"
+    },
+    "code": {
+      "id": "GN00300410",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003004",
+      "level": 2,
+      "name": {
+        "local": "Kissidougou",
+        "en": "Kissidougou",
+        "slug": "kissidougou-gn003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003004",
+        "level": 2,
+        "name": {
+          "local": "Kissidougou",
+          "en": "Kissidougou",
+          "slug": "kissidougou-gn003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.406",
+      "lon": "-9.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300411",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sangardo",
+      "en": "Sangardo",
+      "slug": "sangardo-gn00300411"
+    },
+    "code": {
+      "id": "GN00300411",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003004",
+      "level": 2,
+      "name": {
+        "local": "Kissidougou",
+        "en": "Kissidougou",
+        "slug": "kissidougou-gn003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003004",
+        "level": 2,
+        "name": {
+          "local": "Kissidougou",
+          "en": "Kissidougou",
+          "slug": "kissidougou-gn003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.411",
+      "lon": "-10.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300412",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Yende Millimou",
+      "en": "Yende Millimou",
+      "slug": "yende-millimou-gn00300412"
+    },
+    "code": {
+      "id": "GN00300412",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003004",
+      "level": 2,
+      "name": {
+        "local": "Kissidougou",
+        "en": "Kissidougou",
+        "slug": "kissidougou-gn003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003004",
+        "level": 2,
+        "name": {
+          "local": "Kissidougou",
+          "en": "Kissidougou",
+          "slug": "kissidougou-gn003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.966",
+      "lon": "-10.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300413",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Yombiro",
+      "en": "Yombiro",
+      "slug": "yombiro-gn00300413"
+    },
+    "code": {
+      "id": "GN00300413",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003004",
+      "level": 2,
+      "name": {
+        "local": "Kissidougou",
+        "en": "Kissidougou",
+        "slug": "kissidougou-gn003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003004",
+        "level": 2,
+        "name": {
+          "local": "Kissidougou",
+          "en": "Kissidougou",
+          "slug": "kissidougou-gn003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.096",
+      "lon": "-10.355"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "GN00200101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dixinn",
+      "en": "Dixinn",
+      "slug": "dixinn-gn00200101"
+    },
+    "code": {
+      "id": "GN00200101",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN002001",
+      "level": 2,
+      "name": {
+        "local": "Conakry",
+        "en": "Conakry",
+        "slug": "conakry-gn002001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN002",
+        "level": 1,
+        "name": {
+          "local": "Conakry",
+          "en": "Conakry",
+          "slug": "conakry-gn002"
+        }
+      },
+      {
+        "id": "GN002001",
+        "level": 2,
+        "name": {
+          "local": "Conakry",
+          "en": "Conakry",
+          "slug": "conakry-gn002001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.548",
+      "lon": "-13.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00200102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kaloum",
+      "en": "Kaloum",
+      "slug": "kaloum-gn00200102"
+    },
+    "code": {
+      "id": "GN00200102",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN002001",
+      "level": 2,
+      "name": {
+        "local": "Conakry",
+        "en": "Conakry",
+        "slug": "conakry-gn002001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN002",
+        "level": 1,
+        "name": {
+          "local": "Conakry",
+          "en": "Conakry",
+          "slug": "conakry-gn002"
+        }
+      },
+      {
+        "id": "GN002001",
+        "level": 2,
+        "name": {
+          "local": "Conakry",
+          "en": "Conakry",
+          "slug": "conakry-gn002001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.515",
+      "lon": "-13.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00200103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Matam",
+      "en": "Matam",
+      "slug": "matam-gn00200103"
+    },
+    "code": {
+      "id": "GN00200103",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN002001",
+      "level": 2,
+      "name": {
+        "local": "Conakry",
+        "en": "Conakry",
+        "slug": "conakry-gn002001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN002",
+        "level": 1,
+        "name": {
+          "local": "Conakry",
+          "en": "Conakry",
+          "slug": "conakry-gn002"
+        }
+      },
+      {
+        "id": "GN002001",
+        "level": 2,
+        "name": {
+          "local": "Conakry",
+          "en": "Conakry",
+          "slug": "conakry-gn002001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.543",
+      "lon": "-13.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00200104",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Matoto",
+      "en": "Matoto",
+      "slug": "matoto-gn00200104"
+    },
+    "code": {
+      "id": "GN00200104",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN002001",
+      "level": 2,
+      "name": {
+        "local": "Conakry",
+        "en": "Conakry",
+        "slug": "conakry-gn002001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN002",
+        "level": 1,
+        "name": {
+          "local": "Conakry",
+          "en": "Conakry",
+          "slug": "conakry-gn002"
+        }
+      },
+      {
+        "id": "GN002001",
+        "level": 2,
+        "name": {
+          "local": "Conakry",
+          "en": "Conakry",
+          "slug": "conakry-gn002001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.593",
+      "lon": "-13.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00200105",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ratoma",
+      "en": "Ratoma",
+      "slug": "ratoma-gn00200105"
+    },
+    "code": {
+      "id": "GN00200105",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN002001",
+      "level": 2,
+      "name": {
+        "local": "Conakry",
+        "en": "Conakry",
+        "slug": "conakry-gn002001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN002",
+        "level": 1,
+        "name": {
+          "local": "Conakry",
+          "en": "Conakry",
+          "slug": "conakry-gn002"
+        }
+      },
+      {
+        "id": "GN002001",
+        "level": 2,
+        "name": {
+          "local": "Conakry",
+          "en": "Conakry",
+          "slug": "conakry-gn002001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.66",
+      "lon": "-13.592"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

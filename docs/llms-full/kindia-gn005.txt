@@ -1,0 +1,214 @@
+# Kindia — Guinea Administrative Divisions
+
+> 5 prefectures, 45 sub-prefectures
+> Code: GN005
+> Coordinates: 10.214, -13.017
+> Last updated: 2026-05-24. License: CC-BY-4.0.
+
+## Prefectures
+
+### Coyah
+
+Code: GN005001, Coordinates: 9.754, -13.309
+Sub-prefectures: 4
+
+#### Coyah Ctre
+
+Code: GN00500101, Coordinates: 9.734, -13.385
+
+#### Kouria
+
+Code: GN00500102, Coordinates: 9.842, -13.328
+
+#### Maneah
+
+Code: GN00500103, Coordinates: 9.707, -13.449
+
+#### Wonkifong
+
+Code: GN00500104, Coordinates: 9.663, -13.316
+
+### Dubreka
+
+Code: GN005002, Coordinates: 10.127, -13.539
+Sub-prefectures: 7
+
+#### Badi
+
+Code: GN00500201, Coordinates: 10.277, -13.491
+
+#### Dubreka Ctre
+
+Code: GN00500202, Coordinates: 9.814, -13.475
+
+#### Falessade
+
+Code: GN00500203, Coordinates: 10.101, -13.29
+
+#### Khorira
+
+Code: GN00500204, Coordinates: 9.958, -13.496
+
+#### Ouassou
+
+Code: GN00500205, Coordinates: 10.127, -13.583
+
+#### Tanene
+
+Code: GN00500208, Coordinates: 10.12, -13.795
+
+#### Tondon
+
+Code: GN00500207, Coordinates: 10.348, -13.321
+
+### Forecariah
+
+Code: GN005003, Coordinates: 9.383, -13.092
+Sub-prefectures: 10
+
+#### Allassoyah
+
+Code: GN00500301, Coordinates: 9.498, -13.085
+
+#### Benty
+
+Code: GN00500302, Coordinates: 9.122, -13.158
+
+#### Farmoriah
+
+Code: GN00500303, Coordinates: 9.261, -13.094
+
+#### Forecariah Ctre
+
+Code: GN00500304, Coordinates: 9.425, -13.091
+
+#### Kaback
+
+Code: GN00500305, Coordinates: 9.343, -13.368
+
+#### Kakossa
+
+Code: GN00500306, Coordinates: 9.487, -13.462
+
+#### Kaliah
+
+Code: GN00500307, Coordinates: 9.313, -13.193
+
+#### Maferinya
+
+Code: GN00500308, Coordinates: 9.458, -13.308
+
+#### Moussayah
+
+Code: GN00500309, Coordinates: 9.491, -12.818
+
+#### Sikhourou
+
+Code: GN00500310, Coordinates: 9.621, -12.744
+
+### Kindia
+
+Code: GN005004, Coordinates: 10.109, -12.669
+Sub-prefectures: 10
+
+#### Bangouya
+
+Code: GN00500401, Coordinates: 10.377, -12.945
+
+#### Damakania
+
+Code: GN00500402, Coordinates: 10.033, -12.959
+
+#### Friguiagbe
+
+Code: GN00500403, Coordinates: 9.836, -12.961
+
+#### Kindia Ctre
+
+Code: GN00500404, Coordinates: 9.989, -12.767
+
+#### Kolente
+
+Code: GN00500405, Coordinates: 10.149, -12.709
+
+#### Madina Oula
+
+Code: GN00500406, Coordinates: 9.913, -12.476
+
+#### Mambia
+
+Code: GN00500407, Coordinates: 9.774, -13.109
+
+#### Molota
+
+Code: GN00500408, Coordinates: 9.846, -12.79
+
+#### Samaya
+
+Code: GN00500409, Coordinates: 10.118, -13.071
+
+#### Sougueta
+
+Code: GN00500410, Coordinates: 10.294, -12.551
+
+### Telimele
+
+Code: GN005005, Coordinates: 10.888, -13.408
+Sub-prefectures: 14
+
+#### Bourouwal
+
+Code: GN00500501, Coordinates: 11.094, -12.902
+
+#### Daramagnaky
+
+Code: GN00500502, Coordinates: 10.857, -13.78
+
+#### Gougoudje
+
+Code: GN00500503, Coordinates: 10.872, -12.97
+
+#### Koba
+
+Code: GN00500504, Coordinates: 11.199, -13.359
+
+#### Kollet
+
+Code: GN00500505, Coordinates: 10.51, -13.092
+
+#### Konsotami
+
+Code: GN00500506, Coordinates: 10.857, -13.523
+
+#### Missira
+
+Code: GN00500507, Coordinates: 11.181, -13.601
+
+#### Santou
+
+Code: GN00500508, Coordinates: 11.078, -13.111
+
+#### Sarekali
+
+Code: GN00500509, Coordinates: 10.994, -12.994
+
+#### Sinta
+
+Code: GN00500510, Coordinates: 10.637, -13.02
+
+#### Sogolon
+
+Code: GN00500511, Coordinates: 10.585, -13.292
+
+#### Tarihoye
+
+Code: GN00500512, Coordinates: 11.002, -13.243
+
+#### Telemele Ctre
+
+Code: GN00500513, Coordinates: 10.871, -13.086
+
+#### Thionthian
+
+Code: GN00500514, Coordinates: 10.785, -13.286
+

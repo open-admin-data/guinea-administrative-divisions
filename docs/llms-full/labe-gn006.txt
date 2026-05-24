@@ -1,0 +1,246 @@
+# Labe — Guinea Administrative Divisions
+
+> 5 prefectures, 53 sub-prefectures
+> Code: GN006
+> Coordinates: 11.716, -11.942
+> Last updated: 2026-05-24. License: CC-BY-4.0.
+
+## Prefectures
+
+### Koubia
+
+Code: GN006001, Coordinates: 11.77, -11.844
+Sub-prefectures: 6
+
+#### Fafaya
+
+Code: GN00600101, Coordinates: 11.787, -11.731
+
+#### Gadha Woundou
+
+Code: GN00600102, Coordinates: 11.998, -11.519
+
+#### Koubia Ctre
+
+Code: GN00600103, Coordinates: 11.649, -11.86
+
+#### Matakaou
+
+Code: GN00600104, Coordinates: 11.752, -11.988
+
+#### Missira
+
+Code: GN00600105, Coordinates: 11.459, -11.969
+
+#### Pilimini
+
+Code: GN00600106, Coordinates: 11.591, -12.098
+
+### Labe
+
+Code: GN006002, Coordinates: 11.407, -12.298
+Sub-prefectures: 13
+
+#### Dalein
+
+Code: GN00600201, Coordinates: 11.555, -12.288
+
+#### Daralabe
+
+Code: GN00600202, Coordinates: 11.232, -12.326
+
+#### Diari
+
+Code: GN00600203, Coordinates: 11.369, -12.523
+
+#### Dionfo
+
+Code: GN00600204, Coordinates: 11.335, -12.073
+
+#### Garambe
+
+Code: GN00600205, Coordinates: 11.286, -12.344
+
+#### Hafia
+
+Code: GN00600206, Coordinates: 11.217, -12.433
+
+#### Kaalan
+
+Code: GN00600207, Coordinates: 11.323, -12.167
+
+#### Kouramangui
+
+Code: GN00600208, Coordinates: 11.573, -12.376
+
+#### Labe Ctre
+
+Code: GN00600209, Coordinates: 11.319, -12.298
+
+#### Noussy
+
+Code: GN00600210, Coordinates: 11.228, -12.215
+
+#### Popodara
+
+Code: GN00600211, Coordinates: 11.375, -12.405
+
+#### Sannou
+
+Code: GN00600212, Coordinates: 11.433, -12.144
+
+#### Tountourou
+
+Code: GN00600213, Coordinates: 11.427, -12.289
+
+### Lelouma
+
+Code: GN006003, Coordinates: 11.518, -12.611
+Sub-prefectures: 11
+
+#### Balaya
+
+Code: GN00600301, Coordinates: 11.442, -12.789
+
+#### Diontou
+
+Code: GN00600302, Coordinates: 11.495, -12.516
+
+#### Herico
+
+Code: GN00600303, Coordinates: 11.193, -12.874
+
+#### Korbe
+
+Code: GN00600304, Coordinates: 11.492, -12.612
+
+#### Lafou
+
+Code: GN00600305, Coordinates: 11.619, -12.444
+
+#### Lelouma Ctre
+
+Code: GN00600306, Coordinates: 11.454, -12.681
+
+#### Linsan Saran
+
+Code: GN00600307, Coordinates: 11.79, -12.69
+
+#### Manda
+
+Code: GN00600308, Coordinates: 11.675, -12.627
+
+#### Parawol
+
+Code: GN00600309, Coordinates: 11.339, -12.67
+
+#### Sagale
+
+Code: GN00600310, Coordinates: 11.326, -12.862
+
+#### Tianguel Bori
+
+Code: GN00600311, Coordinates: 11.639, -12.612
+
+### Mali
+
+Code: GN006004, Coordinates: 12.049, -12.257
+Sub-prefectures: 13
+
+#### Balaki
+
+Code: GN00600401, Coordinates: 12.2, -11.79
+
+#### Donghol Sigon
+
+Code: GN00600402, Coordinates: 11.79, -12.18
+
+#### Dougountouny
+
+Code: GN00600403, Coordinates: 11.85, -12.545
+
+#### Fougou
+
+Code: GN00600404, Coordinates: 11.896, -12.336
+
+#### Gayah
+
+Code: GN00600405, Coordinates: 11.968, -12.413
+
+#### Hidayatou
+
+Code: GN00600406, Coordinates: 11.998, -12.126
+
+#### Lebekeren
+
+Code: GN00600407, Coordinates: 12.227, -12.34
+
+#### Madina Wora
+
+Code: GN00600408, Coordinates: 12.026, -12.588
+
+#### Mali Ctre
+
+Code: GN00600409, Coordinates: 12.063, -12.232
+
+#### Salambande
+
+Code: GN00600410, Coordinates: 11.949, -11.903
+
+#### Telire
+
+Code: GN00600411, Coordinates: 11.869, -12.059
+
+#### Touba
+
+Code: GN00600412, Coordinates: 12.187, -12.678
+
+#### Yimbering
+
+Code: GN00600413, Coordinates: 11.775, -12.37
+
+### Tougue
+
+Code: GN006005, Coordinates: 11.512, -11.494
+Sub-prefectures: 10
+
+#### Fatako
+
+Code: GN00600501, Coordinates: 11.221, -11.884
+
+#### Fello Koundoua
+
+Code: GN00600502, Coordinates: 11.879, -11.261
+
+#### Kansangui
+
+Code: GN00600503, Coordinates: 11.202, -11.579
+
+#### Koin
+
+Code: GN00600504, Coordinates: 11.231, -11.71
+
+#### Kolangui
+
+Code: GN00600505, Coordinates: 11.092, -11.769
+
+#### Kolet
+
+Code: GN00600506, Coordinates: 11.443, -11.378
+
+#### Konah
+
+Code: GN00600507, Coordinates: 11.513, -11.799
+
+#### Kouratongo
+
+Code: GN00600508, Coordinates: 11.701, -11.374
+
+#### Tangali
+
+Code: GN00600509, Coordinates: 11.326, -11.878
+
+#### Tougue Ctre
+
+Code: GN00600510, Coordinates: 11.457, -11.671
+

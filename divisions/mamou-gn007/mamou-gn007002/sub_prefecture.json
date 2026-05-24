@@ -1,0 +1,758 @@
+[
+  {
+    "id": "GN00700201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bouliwel",
+      "en": "Bouliwel",
+      "slug": "bouliwel-gn00700201"
+    },
+    "code": {
+      "id": "GN00700201",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007002",
+      "level": 2,
+      "name": {
+        "local": "Mamou",
+        "en": "Mamou",
+        "slug": "mamou-gn007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007002",
+        "level": 2,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.612",
+      "lon": "-12.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00700202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dounet",
+      "en": "Dounet",
+      "slug": "dounet-gn00700202"
+    },
+    "code": {
+      "id": "GN00700202",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007002",
+      "level": 2,
+      "name": {
+        "local": "Mamou",
+        "en": "Mamou",
+        "slug": "mamou-gn007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007002",
+        "level": 2,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.514",
+      "lon": "-11.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00700203",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gongoret",
+      "en": "Gongoret",
+      "slug": "gongoret-gn00700203"
+    },
+    "code": {
+      "id": "GN00700203",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007002",
+      "level": 2,
+      "name": {
+        "local": "Mamou",
+        "en": "Mamou",
+        "slug": "mamou-gn007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007002",
+        "level": 2,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.771",
+      "lon": "-11.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00700204",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kegneko",
+      "en": "Kegneko",
+      "slug": "kegneko-gn00700204"
+    },
+    "code": {
+      "id": "GN00700204",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007002",
+      "level": 2,
+      "name": {
+        "local": "Mamou",
+        "en": "Mamou",
+        "slug": "mamou-gn007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007002",
+        "level": 2,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.409",
+      "lon": "-11.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00700205",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kounkoure",
+      "en": "Kounkoure",
+      "slug": "kounkoure-gn00700205"
+    },
+    "code": {
+      "id": "GN00700205",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007002",
+      "level": 2,
+      "name": {
+        "local": "Mamou",
+        "en": "Mamou",
+        "slug": "mamou-gn007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007002",
+        "level": 2,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.378",
+      "lon": "-12.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00700206",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mamou Ctre",
+      "en": "Mamou Ctre",
+      "slug": "mamou-ctre-gn00700206"
+    },
+    "code": {
+      "id": "GN00700206",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007002",
+      "level": 2,
+      "name": {
+        "local": "Mamou",
+        "en": "Mamou",
+        "slug": "mamou-gn007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007002",
+        "level": 2,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.392",
+      "lon": "-12.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00700207",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Nyagara",
+      "en": "Nyagara",
+      "slug": "nyagara-gn00700207"
+    },
+    "code": {
+      "id": "GN00700207",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007002",
+      "level": 2,
+      "name": {
+        "local": "Mamou",
+        "en": "Mamou",
+        "slug": "mamou-gn007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007002",
+        "level": 2,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.799",
+      "lon": "-11.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00700208",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Oure Kaba",
+      "en": "Oure Kaba",
+      "slug": "oure-kaba-gn00700208"
+    },
+    "code": {
+      "id": "GN00700208",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007002",
+      "level": 2,
+      "name": {
+        "local": "Mamou",
+        "en": "Mamou",
+        "slug": "mamou-gn007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007002",
+        "level": 2,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.217",
+      "lon": "-11.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00700209",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Poredaka",
+      "en": "Poredaka",
+      "slug": "poredaka-gn00700209"
+    },
+    "code": {
+      "id": "GN00700209",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007002",
+      "level": 2,
+      "name": {
+        "local": "Mamou",
+        "en": "Mamou",
+        "slug": "mamou-gn007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007002",
+        "level": 2,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.708",
+      "lon": "-12.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00700210",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Saramoussaya",
+      "en": "Saramoussaya",
+      "slug": "saramoussaya-gn00700210"
+    },
+    "code": {
+      "id": "GN00700210",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007002",
+      "level": 2,
+      "name": {
+        "local": "Mamou",
+        "en": "Mamou",
+        "slug": "mamou-gn007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007002",
+        "level": 2,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.728",
+      "lon": "-11.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00700211",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Soyah",
+      "en": "Soyah",
+      "slug": "soyah-gn00700211"
+    },
+    "code": {
+      "id": "GN00700211",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007002",
+      "level": 2,
+      "name": {
+        "local": "Mamou",
+        "en": "Mamou",
+        "slug": "mamou-gn007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007002",
+        "level": 2,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.182",
+      "lon": "-12.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00700212",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Teguereyah",
+      "en": "Teguereyah",
+      "slug": "teguereyah-gn00700212"
+    },
+    "code": {
+      "id": "GN00700212",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007002",
+      "level": 2,
+      "name": {
+        "local": "Mamou",
+        "en": "Mamou",
+        "slug": "mamou-gn007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007002",
+        "level": 2,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.07",
+      "lon": "-11.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00700213",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Timbo",
+      "en": "Timbo",
+      "slug": "timbo-gn00700213"
+    },
+    "code": {
+      "id": "GN00700213",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007002",
+      "level": 2,
+      "name": {
+        "local": "Mamou",
+        "en": "Mamou",
+        "slug": "mamou-gn007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007002",
+        "level": 2,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.63",
+      "lon": "-11.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00700214",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tolo",
+      "en": "Tolo",
+      "slug": "tolo-gn00700214"
+    },
+    "code": {
+      "id": "GN00700214",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007002",
+      "level": 2,
+      "name": {
+        "local": "Mamou",
+        "en": "Mamou",
+        "slug": "mamou-gn007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      },
+      {
+        "id": "GN007002",
+        "level": 2,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.527",
+      "lon": "-12.098"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

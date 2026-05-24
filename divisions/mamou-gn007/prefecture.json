@@ -1,0 +1,143 @@
+[
+  {
+    "id": "GN007001",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Dalaba",
+      "en": "Dalaba",
+      "slug": "dalaba-gn007001"
+    },
+    "code": {
+      "id": "GN007001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007",
+      "level": 1,
+      "name": {
+        "local": "Mamou",
+        "en": "Mamou",
+        "slug": "mamou-gn007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.892",
+      "lon": "-12.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN007002",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Mamou",
+      "en": "Mamou",
+      "slug": "mamou-gn007002"
+    },
+    "code": {
+      "id": "GN007002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007",
+      "level": 1,
+      "name": {
+        "local": "Mamou",
+        "en": "Mamou",
+        "slug": "mamou-gn007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.569",
+      "lon": "-11.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN007003",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Pita",
+      "en": "Pita",
+      "slug": "pita-gn007003"
+    },
+    "code": {
+      "id": "GN007003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN007",
+      "level": 1,
+      "name": {
+        "local": "Mamou",
+        "en": "Mamou",
+        "slug": "mamou-gn007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN007",
+        "level": 1,
+        "name": {
+          "local": "Mamou",
+          "en": "Mamou",
+          "slug": "mamou-gn007"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.905",
+      "lon": "-12.662"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

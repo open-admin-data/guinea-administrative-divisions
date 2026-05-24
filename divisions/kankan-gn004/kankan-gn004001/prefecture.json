@@ -1,0 +1,47 @@
+{
+  "id": "GN004001",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Kankan",
+    "en": "Kankan",
+    "slug": "kankan-gn004001"
+  },
+  "code": {
+    "id": "GN004001",
+    "iso": null
+  },
+  "parent": {
+    "id": "GN004",
+    "level": 1,
+    "name": {
+      "local": "Kankan",
+      "en": "Kankan",
+      "slug": "kankan-gn004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GN004",
+      "level": 1,
+      "name": {
+        "local": "Kankan",
+        "en": "Kankan",
+        "slug": "kankan-gn004"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.225",
+    "lon": "-9.223"
+  },
+  "metadata": {},
+  "source": {}
+}

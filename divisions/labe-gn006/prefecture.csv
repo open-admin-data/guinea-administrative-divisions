@@ -1,0 +1,6 @@
+id,name.local,name.en,name.slug,code.id,children_count.sub_prefecture,geo.lat,geo.lon
+GN006001,Koubia,Koubia,koubia-gn006001,GN006001,6,11.77,-11.844
+GN006002,Labe,Labe,labe-gn006002,GN006002,13,11.407,-12.298
+GN006003,Lelouma,Lelouma,lelouma-gn006003,GN006003,11,11.518,-12.611
+GN006004,Mali,Mali,mali-gn006004,GN006004,13,12.049,-12.257
+GN006005,Tougue,Tougue,tougue-gn006005,GN006005,10,11.512,-11.494

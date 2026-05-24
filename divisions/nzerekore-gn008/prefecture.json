@@ -1,0 +1,284 @@
+[
+  {
+    "id": "GN008001",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Beyla",
+      "en": "Beyla",
+      "slug": "beyla-gn008001"
+    },
+    "code": {
+      "id": "GN008001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008",
+      "level": 1,
+      "name": {
+        "local": "Nzerekore",
+        "en": "Nzerekore",
+        "slug": "nzerekore-gn008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.906",
+      "lon": "-8.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN008002",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Gueckedou",
+      "en": "Gueckedou",
+      "slug": "gueckedou-gn008002"
+    },
+    "code": {
+      "id": "GN008002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008",
+      "level": 1,
+      "name": {
+        "local": "Nzerekore",
+        "en": "Nzerekore",
+        "slug": "nzerekore-gn008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.696",
+      "lon": "-10.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN008003",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Lola",
+      "en": "Lola",
+      "slug": "lola-gn008003"
+    },
+    "code": {
+      "id": "GN008003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008",
+      "level": 1,
+      "name": {
+        "local": "Nzerekore",
+        "en": "Nzerekore",
+        "slug": "nzerekore-gn008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.015",
+      "lon": "-8.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN008004",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Macenta",
+      "en": "Macenta",
+      "slug": "macenta-gn008004"
+    },
+    "code": {
+      "id": "GN008004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008",
+      "level": 1,
+      "name": {
+        "local": "Nzerekore",
+        "en": "Nzerekore",
+        "slug": "nzerekore-gn008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.319",
+      "lon": "-9.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN008005",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Nzerekore",
+      "en": "Nzerekore",
+      "slug": "nzerekore-gn008005"
+    },
+    "code": {
+      "id": "GN008005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008",
+      "level": 1,
+      "name": {
+        "local": "Nzerekore",
+        "en": "Nzerekore",
+        "slug": "nzerekore-gn008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.891",
+      "lon": "-8.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN008006",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Yomou",
+      "en": "Yomou",
+      "slug": "yomou-gn008006"
+    },
+    "code": {
+      "id": "GN008006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008",
+      "level": 1,
+      "name": {
+        "local": "Nzerekore",
+        "en": "Nzerekore",
+        "slug": "nzerekore-gn008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.537",
+      "lon": "-9.121"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

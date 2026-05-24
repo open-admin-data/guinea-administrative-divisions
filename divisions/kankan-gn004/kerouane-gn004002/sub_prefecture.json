@@ -1,0 +1,434 @@
+[
+  {
+    "id": "GN00400201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Banankoro",
+      "en": "Banankoro",
+      "slug": "banankoro-gn00400201"
+    },
+    "code": {
+      "id": "GN00400201",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004002",
+      "level": 2,
+      "name": {
+        "local": "Kerouane",
+        "en": "Kerouane",
+        "slug": "kerouane-gn004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004002",
+        "level": 2,
+        "name": {
+          "local": "Kerouane",
+          "en": "Kerouane",
+          "slug": "kerouane-gn004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.192",
+      "lon": "-9.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Damaro",
+      "en": "Damaro",
+      "slug": "damaro-gn00400202"
+    },
+    "code": {
+      "id": "GN00400202",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004002",
+      "level": 2,
+      "name": {
+        "local": "Kerouane",
+        "en": "Kerouane",
+        "slug": "kerouane-gn004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004002",
+        "level": 2,
+        "name": {
+          "local": "Kerouane",
+          "en": "Kerouane",
+          "slug": "kerouane-gn004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.096",
+      "lon": "-8.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400203",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kerouane Ctre",
+      "en": "Kerouane Ctre",
+      "slug": "kerouane-ctre-gn00400203"
+    },
+    "code": {
+      "id": "GN00400203",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004002",
+      "level": 2,
+      "name": {
+        "local": "Kerouane",
+        "en": "Kerouane",
+        "slug": "kerouane-gn004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004002",
+        "level": 2,
+        "name": {
+          "local": "Kerouane",
+          "en": "Kerouane",
+          "slug": "kerouane-gn004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.361",
+      "lon": "-9.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400204",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Komodou",
+      "en": "Komodou",
+      "slug": "komodou-gn00400204"
+    },
+    "code": {
+      "id": "GN00400204",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004002",
+      "level": 2,
+      "name": {
+        "local": "Kerouane",
+        "en": "Kerouane",
+        "slug": "kerouane-gn004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004002",
+        "level": 2,
+        "name": {
+          "local": "Kerouane",
+          "en": "Kerouane",
+          "slug": "kerouane-gn004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.695",
+      "lon": "-8.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400205",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Konsankoro",
+      "en": "Konsankoro",
+      "slug": "konsankoro-gn00400205"
+    },
+    "code": {
+      "id": "GN00400205",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004002",
+      "level": 2,
+      "name": {
+        "local": "Kerouane",
+        "en": "Kerouane",
+        "slug": "kerouane-gn004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004002",
+        "level": 2,
+        "name": {
+          "local": "Kerouane",
+          "en": "Kerouane",
+          "slug": "kerouane-gn004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.952",
+      "lon": "-8.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400206",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Linko",
+      "en": "Linko",
+      "slug": "linko-gn00400206"
+    },
+    "code": {
+      "id": "GN00400206",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004002",
+      "level": 2,
+      "name": {
+        "local": "Kerouane",
+        "en": "Kerouane",
+        "slug": "kerouane-gn004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004002",
+        "level": 2,
+        "name": {
+          "local": "Kerouane",
+          "en": "Kerouane",
+          "slug": "kerouane-gn004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.467",
+      "lon": "-8.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400207",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sibiribaro",
+      "en": "Sibiribaro",
+      "slug": "sibiribaro-gn00400207"
+    },
+    "code": {
+      "id": "GN00400207",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004002",
+      "level": 2,
+      "name": {
+        "local": "Kerouane",
+        "en": "Kerouane",
+        "slug": "kerouane-gn004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004002",
+        "level": 2,
+        "name": {
+          "local": "Kerouane",
+          "en": "Kerouane",
+          "slug": "kerouane-gn004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.923",
+      "lon": "-9.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400208",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Soromaya",
+      "en": "Soromaya",
+      "slug": "soromaya-gn00400208"
+    },
+    "code": {
+      "id": "GN00400208",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004002",
+      "level": 2,
+      "name": {
+        "local": "Kerouane",
+        "en": "Kerouane",
+        "slug": "kerouane-gn004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004002",
+        "level": 2,
+        "name": {
+          "local": "Kerouane",
+          "en": "Kerouane",
+          "slug": "kerouane-gn004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.161",
+      "lon": "-9.542"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

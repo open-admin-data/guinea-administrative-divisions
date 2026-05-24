@@ -1,0 +1,218 @@
+[
+  {
+    "id": "GN00500101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Coyah Ctre",
+      "en": "Coyah Ctre",
+      "slug": "coyah-ctre-gn00500101"
+    },
+    "code": {
+      "id": "GN00500101",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005001",
+      "level": 2,
+      "name": {
+        "local": "Coyah",
+        "en": "Coyah",
+        "slug": "coyah-gn005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005001",
+        "level": 2,
+        "name": {
+          "local": "Coyah",
+          "en": "Coyah",
+          "slug": "coyah-gn005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.734",
+      "lon": "-13.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kouria",
+      "en": "Kouria",
+      "slug": "kouria-gn00500102"
+    },
+    "code": {
+      "id": "GN00500102",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005001",
+      "level": 2,
+      "name": {
+        "local": "Coyah",
+        "en": "Coyah",
+        "slug": "coyah-gn005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005001",
+        "level": 2,
+        "name": {
+          "local": "Coyah",
+          "en": "Coyah",
+          "slug": "coyah-gn005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.842",
+      "lon": "-13.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Maneah",
+      "en": "Maneah",
+      "slug": "maneah-gn00500103"
+    },
+    "code": {
+      "id": "GN00500103",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005001",
+      "level": 2,
+      "name": {
+        "local": "Coyah",
+        "en": "Coyah",
+        "slug": "coyah-gn005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005001",
+        "level": 2,
+        "name": {
+          "local": "Coyah",
+          "en": "Coyah",
+          "slug": "coyah-gn005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.707",
+      "lon": "-13.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00500104",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Wonkifong",
+      "en": "Wonkifong",
+      "slug": "wonkifong-gn00500104"
+    },
+    "code": {
+      "id": "GN00500104",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN005001",
+      "level": 2,
+      "name": {
+        "local": "Coyah",
+        "en": "Coyah",
+        "slug": "coyah-gn005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN005",
+        "level": 1,
+        "name": {
+          "local": "Kindia",
+          "en": "Kindia",
+          "slug": "kindia-gn005"
+        }
+      },
+      {
+        "id": "GN005001",
+        "level": 2,
+        "name": {
+          "local": "Coyah",
+          "en": "Coyah",
+          "slug": "coyah-gn005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.663",
+      "lon": "-13.316"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

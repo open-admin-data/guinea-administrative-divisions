@@ -1,0 +1,704 @@
+[
+  {
+    "id": "GN00400101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Balandougou",
+      "en": "Balandougou",
+      "slug": "balandougou-gn00400101"
+    },
+    "code": {
+      "id": "GN00400101",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004001",
+      "level": 2,
+      "name": {
+        "local": "Kankan",
+        "en": "Kankan",
+        "slug": "kankan-gn004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004001",
+        "level": 2,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.503",
+      "lon": "-9.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bate Nafadji",
+      "en": "Bate Nafadji",
+      "slug": "bate-nafadji-gn00400102"
+    },
+    "code": {
+      "id": "GN00400102",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004001",
+      "level": 2,
+      "name": {
+        "local": "Kankan",
+        "en": "Kankan",
+        "slug": "kankan-gn004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004001",
+        "level": 2,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.841",
+      "lon": "-9.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Boula",
+      "en": "Boula",
+      "slug": "boula-gn00400103"
+    },
+    "code": {
+      "id": "GN00400103",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004001",
+      "level": 2,
+      "name": {
+        "local": "Kankan",
+        "en": "Kankan",
+        "slug": "kankan-gn004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004001",
+        "level": 2,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.805",
+      "lon": "-8.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400104",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gberedou Baranama",
+      "en": "Gberedou Baranama",
+      "slug": "gberedou-baranama-gn00400104"
+    },
+    "code": {
+      "id": "GN00400104",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004001",
+      "level": 2,
+      "name": {
+        "local": "Kankan",
+        "en": "Kankan",
+        "slug": "kankan-gn004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004001",
+        "level": 2,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.439",
+      "lon": "-9.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400105",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kankan Ctre",
+      "en": "Kankan Ctre",
+      "slug": "kankan-ctre-gn00400105"
+    },
+    "code": {
+      "id": "GN00400105",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004001",
+      "level": 2,
+      "name": {
+        "local": "Kankan",
+        "en": "Kankan",
+        "slug": "kankan-gn004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004001",
+        "level": 2,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.371",
+      "lon": "-9.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400106",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Karifamoriah",
+      "en": "Karifamoriah",
+      "slug": "karifamoriah-gn00400106"
+    },
+    "code": {
+      "id": "GN00400106",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004001",
+      "level": 2,
+      "name": {
+        "local": "Kankan",
+        "en": "Kankan",
+        "slug": "kankan-gn004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004001",
+        "level": 2,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.529",
+      "lon": "-9.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400107",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koumban",
+      "en": "Koumban",
+      "slug": "koumban-gn00400107"
+    },
+    "code": {
+      "id": "GN00400107",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004001",
+      "level": 2,
+      "name": {
+        "local": "Kankan",
+        "en": "Kankan",
+        "slug": "kankan-gn004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004001",
+        "level": 2,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.236",
+      "lon": "-9.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400108",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mamouroudou",
+      "en": "Mamouroudou",
+      "slug": "mamouroudou-gn00400108"
+    },
+    "code": {
+      "id": "GN00400108",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004001",
+      "level": 2,
+      "name": {
+        "local": "Kankan",
+        "en": "Kankan",
+        "slug": "kankan-gn004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004001",
+        "level": 2,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.591",
+      "lon": "-9.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400109",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Missamana",
+      "en": "Missamana",
+      "slug": "missamana-gn00400109"
+    },
+    "code": {
+      "id": "GN00400109",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004001",
+      "level": 2,
+      "name": {
+        "local": "Kankan",
+        "en": "Kankan",
+        "slug": "kankan-gn004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004001",
+        "level": 2,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.225",
+      "lon": "-8.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400110",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Moribayah",
+      "en": "Moribayah",
+      "slug": "moribayah-gn00400110"
+    },
+    "code": {
+      "id": "GN00400110",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004001",
+      "level": 2,
+      "name": {
+        "local": "Kankan",
+        "en": "Kankan",
+        "slug": "kankan-gn004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004001",
+        "level": 2,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.912",
+      "lon": "-9.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400111",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sabadou Baranama",
+      "en": "Sabadou Baranama",
+      "slug": "sabadou-baranama-gn00400111"
+    },
+    "code": {
+      "id": "GN00400111",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004001",
+      "level": 2,
+      "name": {
+        "local": "Kankan",
+        "en": "Kankan",
+        "slug": "kankan-gn004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004001",
+        "level": 2,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.935",
+      "lon": "-8.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400112",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tinti Oulen",
+      "en": "Tinti Oulen",
+      "slug": "tinti-oulen-gn00400112"
+    },
+    "code": {
+      "id": "GN00400112",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004001",
+      "level": 2,
+      "name": {
+        "local": "Kankan",
+        "en": "Kankan",
+        "slug": "kankan-gn004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004001",
+        "level": 2,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.069",
+      "lon": "-9.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400113",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tokounou",
+      "en": "Tokounou",
+      "slug": "tokounou-gn00400113"
+    },
+    "code": {
+      "id": "GN00400113",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004001",
+      "level": 2,
+      "name": {
+        "local": "Kankan",
+        "en": "Kankan",
+        "slug": "kankan-gn004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004001",
+        "level": 2,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.632",
+      "lon": "-9.732"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,168 @@
+# Mamou — Guinea Administrative Divisions
+
+> 3 prefectures, 36 sub-prefectures
+> Code: GN007
+> Coordinates: 10.604, -12.008
+> Last updated: 2026-05-24. License: CC-BY-4.0.
+
+## Prefectures
+
+### Dalaba
+
+Code: GN007001, Coordinates: 10.892, -12.064
+Sub-prefectures: 10
+
+#### Bodie
+
+Code: GN00700101, Coordinates: 11.041, -12.029
+
+#### Dalaba Ctre
+
+Code: GN00700102, Coordinates: 10.711, -12.283
+
+#### Ditinn
+
+Code: GN00700103, Coordinates: 10.885, -12.14
+
+#### Kaala
+
+Code: GN00700104, Coordinates: 10.818, -12.169
+
+#### Kankalabe
+
+Code: GN00700105, Coordinates: 11.129, -12.041
+
+#### Kebali
+
+Code: GN00700106, Coordinates: 11.001, -12.236
+
+#### Koba
+
+Code: GN00700107, Coordinates: 10.612, -12.385
+
+#### Mafara
+
+Code: GN00700108, Coordinates: 10.94, -11.897
+
+#### Mitty
+
+Code: GN00700109, Coordinates: 10.84, -12.298
+
+#### Mombeyah
+
+Code: GN00700110, Coordinates: 11.238, -12.059
+
+### Mamou
+
+Code: GN007002, Coordinates: 10.569, -11.904
+Sub-prefectures: 14
+
+#### Bouliwel
+
+Code: GN00700201, Coordinates: 10.612, -12.203
+
+#### Dounet
+
+Code: GN00700202, Coordinates: 10.514, -11.949
+
+#### Gongoret
+
+Code: GN00700203, Coordinates: 10.771, -11.952
+
+#### Kegneko
+
+Code: GN00700204, Coordinates: 10.409, -11.644
+
+#### Kounkoure
+
+Code: GN00700205, Coordinates: 10.378, -12.308
+
+#### Mamou Ctre
+
+Code: GN00700206, Coordinates: 10.392, -12.122
+
+#### Nyagara
+
+Code: GN00700207, Coordinates: 10.799, -11.806
+
+#### Oure Kaba
+
+Code: GN00700208, Coordinates: 10.217, -11.57
+
+#### Poredaka
+
+Code: GN00700209, Coordinates: 10.708, -12.051
+
+#### Saramoussaya
+
+Code: GN00700210, Coordinates: 10.728, -11.597
+
+#### Soyah
+
+Code: GN00700211, Coordinates: 10.182, -12.011
+
+#### Teguereyah
+
+Code: GN00700212, Coordinates: 11.07, -11.401
+
+#### Timbo
+
+Code: GN00700213, Coordinates: 10.63, -11.805
+
+#### Tolo
+
+Code: GN00700214, Coordinates: 10.527, -12.098
+
+### Pita
+
+Code: GN007003, Coordinates: 10.905, -12.662
+Sub-prefectures: 12
+
+#### Bantignel
+
+Code: GN00700301, Coordinates: 11.096, -12.292
+
+#### Brouwal Tape
+
+Code: GN00700302, Coordinates: 10.992, -12.404
+
+#### Donghol Touma
+
+Code: GN00700303, Coordinates: 10.97, -12.688
+
+#### Gongoret
+
+Code: GN00700304, Coordinates: 10.73, -12.505
+
+#### Ley Miro
+
+Code: GN00700305, Coordinates: 10.918, -12.853
+
+#### Maci
+
+Code: GN00700306, Coordinates: 10.845, -12.569
+
+#### Ninguelande
+
+Code: GN00700307, Coordinates: 11.157, -12.696
+
+#### Pita Ctre
+
+Code: GN00700308, Coordinates: 11.065, -12.42
+
+#### Sangareah
+
+Code: GN00700309, Coordinates: 10.694, -12.768
+
+#### Sintali
+
+Code: GN00700310, Coordinates: 11.104, -12.434
+
+#### Timbi Madina
+
+Code: GN00700311, Coordinates: 11.204, -12.557
+
+#### Timbi Touni
+
+Code: GN00700312, Coordinates: 11.057, -12.562
+

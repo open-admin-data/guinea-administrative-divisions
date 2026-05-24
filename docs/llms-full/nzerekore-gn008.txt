@@ -1,0 +1,303 @@
+# Nzerekore — Guinea Administrative Divisions
+
+> 6 prefectures, 66 sub-prefectures
+> Code: GN008
+> Coordinates: 8.391, -8.89
+> Last updated: 2026-05-24. License: CC-BY-4.0.
+
+## Prefectures
+
+### Beyla
+
+Code: GN008001, Coordinates: 8.906, -8.373
+Sub-prefectures: 14
+
+#### Beyla Ctre
+
+Code: GN00800101, Coordinates: 8.684, -8.668
+
+#### Boola
+
+Code: GN00800102, Coordinates: 8.405, -8.705
+
+#### Diaraguerela
+
+Code: GN00800103, Coordinates: 8.569, -8.396
+
+#### Diassodou
+
+Code: GN00800104, Coordinates: 9.15, -8.352
+
+#### Fouala
+
+Code: GN00800105, Coordinates: 8.974, -8.335
+
+#### Gbakedou
+
+Code: GN00800106, Coordinates: 8.731, -8.347
+
+#### Gbessoba
+
+Code: GN00800107, Coordinates: 8.686, -7.984
+
+#### Karala
+
+Code: GN00800108, Coordinates: 9.409, -8.386
+
+#### Koumandou
+
+Code: GN00800109, Coordinates: 9.209, -7.975
+
+#### Moussadou
+
+Code: GN00800110, Coordinates: 8.857, -8.548
+
+#### Nionsomoridou
+
+Code: GN00800111, Coordinates: 8.705, -8.85
+
+#### Sakourala
+
+Code: GN00800112, Coordinates: 9.289, -8.084
+
+#### Samana
+
+Code: GN00800113, Coordinates: 9.143, -8.591
+
+#### Sinko
+
+Code: GN00800114, Coordinates: 8.907, -8.191
+
+### Gueckedou
+
+Code: GN008002, Coordinates: 8.696, -10.21
+Sub-prefectures: 10
+
+#### Bolodou
+
+Code: GN00800201, Coordinates: 8.821, -10.329
+
+#### Fangamadou
+
+Code: GN00800202, Coordinates: 8.443, -10.588
+
+#### Gueckedou Ctre
+
+Code: GN00800203, Coordinates: 8.582, -10.112
+
+#### Guendembou
+
+Code: GN00800204, Coordinates: 8.794, -10.029
+
+#### Kassadou
+
+Code: GN00800205, Coordinates: 8.929, -10.446
+
+#### Koundou
+
+Code: GN00800206, Coordinates: 8.633, -10.41
+
+#### Nongoa
+
+Code: GN00800207, Coordinates: 8.52, -10.318
+
+#### Ouende Kenema
+
+Code: GN00800208, Coordinates: 8.409, -10.498
+
+#### Tekoulo
+
+Code: GN00800209, Coordinates: 8.544, -9.986
+
+#### Termassadou
+
+Code: GN00800210, Coordinates: 8.647, -10.236
+
+### Lola
+
+Code: GN008003, Coordinates: 8.015, -8.306
+Sub-prefectures: 9
+
+#### Bossou
+
+Code: GN00800301, Coordinates: 7.646, -8.488
+
+#### Foumbadou
+
+Code: GN00800302, Coordinates: 8.291, -8.355
+
+#### Gama Berema
+
+Code: GN00800303, Coordinates: 7.894, -8.264
+
+#### Gueasso
+
+Code: GN00800304, Coordinates: 8.096, -8.179
+
+#### Kokota
+
+Code: GN00800305, Coordinates: 7.914, -8.473
+
+#### Laine
+
+Code: GN00800306, Coordinates: 8.038, -8.44
+
+#### Lola Ctre
+
+Code: GN00800307, Coordinates: 7.787, -8.475
+
+#### Nzoo
+
+Code: GN00800308, Coordinates: 7.658, -8.3
+
+#### Tounkarata
+
+Code: GN00800309, Coordinates: 7.772, -8.169
+
+### Macenta
+
+Code: GN008004, Coordinates: 8.319, -9.214
+Sub-prefectures: 15
+
+#### Balizia
+
+Code: GN00800401, Coordinates: 8.622, -9.587
+
+#### Binikala
+
+Code: GN00800402, Coordinates: 8.784, -9.524
+
+#### Bofossou
+
+Code: GN00800403, Coordinates: 8.673, -9.717
+
+#### Daro
+
+Code: GN00800404, Coordinates: 8.484, -9.567
+
+#### Fassankoni
+
+Code: GN00800405, Coordinates: 8.062, -9.313
+
+#### Kouankan
+
+Code: GN00800406, Coordinates: 8.511, -9.025
+
+#### Koyamah
+
+Code: GN00800407, Coordinates: 7.861, -9.321
+
+#### Macenta Ctre
+
+Code: GN00800408, Coordinates: 8.539, -9.467
+
+#### Nzebela
+
+Code: GN00800409, Coordinates: 8.131, -9.095
+
+#### Ouremai
+
+Code: GN00800410, Coordinates: 8.27, -9.415
+
+#### Panziazou
+
+Code: GN00800411, Coordinates: 8.589, -9.832
+
+#### Sengbedou
+
+Code: GN00800412, Coordinates: 8.514, -9.274
+
+#### Seredou
+
+Code: GN00800413, Coordinates: 8.288, -9.225
+
+#### Vasseredou
+
+Code: GN00800414, Coordinates: 8.698, -9.232
+
+#### Watanka
+
+Code: GN00800415, Coordinates: 8.765, -9.823
+
+### Nzerekore
+
+Code: GN008005, Coordinates: 7.891, -8.88
+Sub-prefectures: 11
+
+#### Bounouma
+
+Code: GN00800501, Coordinates: 7.562, -8.793
+
+#### Gouecke
+
+Code: GN00800502, Coordinates: 7.987, -8.777
+
+#### Kobela
+
+Code: GN00800503, Coordinates: 7.914, -9.07
+
+#### Koropara
+
+Code: GN00800504, Coordinates: 8.245, -8.698
+
+#### Koule
+
+Code: GN00800505, Coordinates: 8.039, -9.003
+
+#### Nzerekore Ctre
+
+Code: GN00800506, Coordinates: 7.739, -8.836
+
+#### Pale
+
+Code: GN00800507, Coordinates: 8.027, -8.881
+
+#### Samoe
+
+Code: GN00800508, Coordinates: 7.851, -8.863
+
+#### Soulouta
+
+Code: GN00800509, Coordinates: 7.964, -8.642
+
+#### Womey
+
+Code: GN00800510, Coordinates: 8.154, -8.651
+
+#### Yalenzou
+
+Code: GN00800511, Coordinates: 7.765, -8.669
+
+### Yomou
+
+Code: GN008006, Coordinates: 7.537, -9.121
+Sub-prefectures: 7
+
+#### Banie
+
+Code: GN00800601, Coordinates: 7.468, -9.378
+
+#### Bheeta
+
+Code: GN00800602, Coordinates: 7.441, -9.235
+
+#### Bignamou
+
+Code: GN00800603, Coordinates: 7.345, -9.123
+
+#### Bowe
+
+Code: GN00800604, Coordinates: 7.777, -9.186
+
+#### Diecke
+
+Code: GN00800605, Coordinates: 7.382, -8.935
+
+#### Pela
+
+Code: GN00800606, Coordinates: 7.605, -9.066
+
+#### Yomou Ctre
+
+Code: GN00800607, Coordinates: 7.581, -9.305
+

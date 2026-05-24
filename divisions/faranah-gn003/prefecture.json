@@ -1,0 +1,190 @@
+[
+  {
+    "id": "GN003001",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Dabola",
+      "en": "Dabola",
+      "slug": "dabola-gn003001"
+    },
+    "code": {
+      "id": "GN003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003",
+      "level": 1,
+      "name": {
+        "local": "Faranah",
+        "en": "Faranah",
+        "slug": "faranah-gn003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.774",
+      "lon": "-11.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN003002",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Dinguiraye",
+      "en": "Dinguiraye",
+      "slug": "dinguiraye-gn003002"
+    },
+    "code": {
+      "id": "GN003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003",
+      "level": 1,
+      "name": {
+        "local": "Faranah",
+        "en": "Faranah",
+        "slug": "faranah-gn003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.568",
+      "lon": "-10.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN003003",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Faranah",
+      "en": "Faranah",
+      "slug": "faranah-gn003003"
+    },
+    "code": {
+      "id": "GN003003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003",
+      "level": 1,
+      "name": {
+        "local": "Faranah",
+        "en": "Faranah",
+        "slug": "faranah-gn003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.823",
+      "lon": "-10.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN003004",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Kissidougou",
+      "en": "Kissidougou",
+      "slug": "kissidougou-gn003004"
+    },
+    "code": {
+      "id": "GN003004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003",
+      "level": 1,
+      "name": {
+        "local": "Faranah",
+        "en": "Faranah",
+        "slug": "faranah-gn003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      }
+    ],
+    "children_count": {
+      "sub_prefecture": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.255",
+      "lon": "-10.036"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

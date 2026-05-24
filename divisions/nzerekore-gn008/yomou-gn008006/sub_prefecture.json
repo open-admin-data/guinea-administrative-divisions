@@ -1,0 +1,380 @@
+[
+  {
+    "id": "GN00800601",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Banie",
+      "en": "Banie",
+      "slug": "banie-gn00800601"
+    },
+    "code": {
+      "id": "GN00800601",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008006",
+      "level": 2,
+      "name": {
+        "local": "Yomou",
+        "en": "Yomou",
+        "slug": "yomou-gn008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008006",
+        "level": 2,
+        "name": {
+          "local": "Yomou",
+          "en": "Yomou",
+          "slug": "yomou-gn008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.468",
+      "lon": "-9.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800602",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bheeta",
+      "en": "Bheeta",
+      "slug": "bheeta-gn00800602"
+    },
+    "code": {
+      "id": "GN00800602",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008006",
+      "level": 2,
+      "name": {
+        "local": "Yomou",
+        "en": "Yomou",
+        "slug": "yomou-gn008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008006",
+        "level": 2,
+        "name": {
+          "local": "Yomou",
+          "en": "Yomou",
+          "slug": "yomou-gn008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.441",
+      "lon": "-9.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800603",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bignamou",
+      "en": "Bignamou",
+      "slug": "bignamou-gn00800603"
+    },
+    "code": {
+      "id": "GN00800603",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008006",
+      "level": 2,
+      "name": {
+        "local": "Yomou",
+        "en": "Yomou",
+        "slug": "yomou-gn008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008006",
+        "level": 2,
+        "name": {
+          "local": "Yomou",
+          "en": "Yomou",
+          "slug": "yomou-gn008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.345",
+      "lon": "-9.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800604",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bowe",
+      "en": "Bowe",
+      "slug": "bowe-gn00800604"
+    },
+    "code": {
+      "id": "GN00800604",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008006",
+      "level": 2,
+      "name": {
+        "local": "Yomou",
+        "en": "Yomou",
+        "slug": "yomou-gn008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008006",
+        "level": 2,
+        "name": {
+          "local": "Yomou",
+          "en": "Yomou",
+          "slug": "yomou-gn008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.777",
+      "lon": "-9.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800605",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Diecke",
+      "en": "Diecke",
+      "slug": "diecke-gn00800605"
+    },
+    "code": {
+      "id": "GN00800605",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008006",
+      "level": 2,
+      "name": {
+        "local": "Yomou",
+        "en": "Yomou",
+        "slug": "yomou-gn008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008006",
+        "level": 2,
+        "name": {
+          "local": "Yomou",
+          "en": "Yomou",
+          "slug": "yomou-gn008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.382",
+      "lon": "-8.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800606",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Pela",
+      "en": "Pela",
+      "slug": "pela-gn00800606"
+    },
+    "code": {
+      "id": "GN00800606",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008006",
+      "level": 2,
+      "name": {
+        "local": "Yomou",
+        "en": "Yomou",
+        "slug": "yomou-gn008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008006",
+        "level": 2,
+        "name": {
+          "local": "Yomou",
+          "en": "Yomou",
+          "slug": "yomou-gn008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.605",
+      "lon": "-9.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800607",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Yomou Ctre",
+      "en": "Yomou Ctre",
+      "slug": "yomou-ctre-gn00800607"
+    },
+    "code": {
+      "id": "GN00800607",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008006",
+      "level": 2,
+      "name": {
+        "local": "Yomou",
+        "en": "Yomou",
+        "slug": "yomou-gn008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008006",
+        "level": 2,
+        "name": {
+          "local": "Yomou",
+          "en": "Yomou",
+          "slug": "yomou-gn008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.581",
+      "lon": "-9.305"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,488 @@
+[
+  {
+    "id": "GN00300101",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Arfamoussayah",
+      "en": "Arfamoussayah",
+      "slug": "arfamoussayah-gn00300101"
+    },
+    "code": {
+      "id": "GN00300101",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003001",
+      "level": 2,
+      "name": {
+        "local": "Dabola",
+        "en": "Dabola",
+        "slug": "dabola-gn003001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003001",
+        "level": 2,
+        "name": {
+          "local": "Dabola",
+          "en": "Dabola",
+          "slug": "dabola-gn003001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.835",
+      "lon": "-11.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300102",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Banko",
+      "en": "Banko",
+      "slug": "banko-gn00300102"
+    },
+    "code": {
+      "id": "GN00300102",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003001",
+      "level": 2,
+      "name": {
+        "local": "Dabola",
+        "en": "Dabola",
+        "slug": "dabola-gn003001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003001",
+        "level": 2,
+        "name": {
+          "local": "Dabola",
+          "en": "Dabola",
+          "slug": "dabola-gn003001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.655",
+      "lon": "-10.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300103",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bissikrima",
+      "en": "Bissikrima",
+      "slug": "bissikrima-gn00300103"
+    },
+    "code": {
+      "id": "GN00300103",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003001",
+      "level": 2,
+      "name": {
+        "local": "Dabola",
+        "en": "Dabola",
+        "slug": "dabola-gn003001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003001",
+        "level": 2,
+        "name": {
+          "local": "Dabola",
+          "en": "Dabola",
+          "slug": "dabola-gn003001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.95",
+      "lon": "-10.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300104",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dabola Ctre",
+      "en": "Dabola Ctre",
+      "slug": "dabola-ctre-gn00300104"
+    },
+    "code": {
+      "id": "GN00300104",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003001",
+      "level": 2,
+      "name": {
+        "local": "Dabola",
+        "en": "Dabola",
+        "slug": "dabola-gn003001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003001",
+        "level": 2,
+        "name": {
+          "local": "Dabola",
+          "en": "Dabola",
+          "slug": "dabola-gn003001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.79",
+      "lon": "-11.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300105",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dogomet",
+      "en": "Dogomet",
+      "slug": "dogomet-gn00300105"
+    },
+    "code": {
+      "id": "GN00300105",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003001",
+      "level": 2,
+      "name": {
+        "local": "Dabola",
+        "en": "Dabola",
+        "slug": "dabola-gn003001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003001",
+        "level": 2,
+        "name": {
+          "local": "Dabola",
+          "en": "Dabola",
+          "slug": "dabola-gn003001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.78",
+      "lon": "-11.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300106",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kankama",
+      "en": "Kankama",
+      "slug": "kankama-gn00300106"
+    },
+    "code": {
+      "id": "GN00300106",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003001",
+      "level": 2,
+      "name": {
+        "local": "Dabola",
+        "en": "Dabola",
+        "slug": "dabola-gn003001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003001",
+        "level": 2,
+        "name": {
+          "local": "Dabola",
+          "en": "Dabola",
+          "slug": "dabola-gn003001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.925",
+      "lon": "-11.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300107",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kindoye",
+      "en": "Kindoye",
+      "slug": "kindoye-gn00300107"
+    },
+    "code": {
+      "id": "GN00300107",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003001",
+      "level": 2,
+      "name": {
+        "local": "Dabola",
+        "en": "Dabola",
+        "slug": "dabola-gn003001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003001",
+        "level": 2,
+        "name": {
+          "local": "Dabola",
+          "en": "Dabola",
+          "slug": "dabola-gn003001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.515",
+      "lon": "-11.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300108",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Konendou",
+      "en": "Konendou",
+      "slug": "konendou-gn00300108"
+    },
+    "code": {
+      "id": "GN00300108",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003001",
+      "level": 2,
+      "name": {
+        "local": "Dabola",
+        "en": "Dabola",
+        "slug": "dabola-gn003001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003001",
+        "level": 2,
+        "name": {
+          "local": "Dabola",
+          "en": "Dabola",
+          "slug": "dabola-gn003001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.632",
+      "lon": "-10.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00300109",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ndema",
+      "en": "Ndema",
+      "slug": "ndema-gn00300109"
+    },
+    "code": {
+      "id": "GN00300109",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN003001",
+      "level": 2,
+      "name": {
+        "local": "Dabola",
+        "en": "Dabola",
+        "slug": "dabola-gn003001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN003",
+        "level": 1,
+        "name": {
+          "local": "Faranah",
+          "en": "Faranah",
+          "slug": "faranah-gn003"
+        }
+      },
+      {
+        "id": "GN003001",
+        "level": 2,
+        "name": {
+          "local": "Dabola",
+          "en": "Dabola",
+          "slug": "dabola-gn003001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.654",
+      "lon": "-11.095"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

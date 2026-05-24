@@ -1,0 +1,30 @@
+{
+  "id": "GN001",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Boke",
+    "en": "Boke",
+    "slug": "boke-gn001"
+  },
+  "code": {
+    "id": "GN001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "prefecture": 5,
+    "sub_prefecture": 37
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.255",
+    "lon": "-14.312"
+  },
+  "metadata": {},
+  "source": {}
+}

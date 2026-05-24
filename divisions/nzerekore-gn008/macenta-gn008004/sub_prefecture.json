@@ -1,0 +1,812 @@
+[
+  {
+    "id": "GN00800401",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Balizia",
+      "en": "Balizia",
+      "slug": "balizia-gn00800401"
+    },
+    "code": {
+      "id": "GN00800401",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008004",
+      "level": 2,
+      "name": {
+        "local": "Macenta",
+        "en": "Macenta",
+        "slug": "macenta-gn008004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008004",
+        "level": 2,
+        "name": {
+          "local": "Macenta",
+          "en": "Macenta",
+          "slug": "macenta-gn008004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.622",
+      "lon": "-9.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800402",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Binikala",
+      "en": "Binikala",
+      "slug": "binikala-gn00800402"
+    },
+    "code": {
+      "id": "GN00800402",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008004",
+      "level": 2,
+      "name": {
+        "local": "Macenta",
+        "en": "Macenta",
+        "slug": "macenta-gn008004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008004",
+        "level": 2,
+        "name": {
+          "local": "Macenta",
+          "en": "Macenta",
+          "slug": "macenta-gn008004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.784",
+      "lon": "-9.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800403",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bofossou",
+      "en": "Bofossou",
+      "slug": "bofossou-gn00800403"
+    },
+    "code": {
+      "id": "GN00800403",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008004",
+      "level": 2,
+      "name": {
+        "local": "Macenta",
+        "en": "Macenta",
+        "slug": "macenta-gn008004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008004",
+        "level": 2,
+        "name": {
+          "local": "Macenta",
+          "en": "Macenta",
+          "slug": "macenta-gn008004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.673",
+      "lon": "-9.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800404",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Daro",
+      "en": "Daro",
+      "slug": "daro-gn00800404"
+    },
+    "code": {
+      "id": "GN00800404",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008004",
+      "level": 2,
+      "name": {
+        "local": "Macenta",
+        "en": "Macenta",
+        "slug": "macenta-gn008004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008004",
+        "level": 2,
+        "name": {
+          "local": "Macenta",
+          "en": "Macenta",
+          "slug": "macenta-gn008004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.484",
+      "lon": "-9.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800405",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Fassankoni",
+      "en": "Fassankoni",
+      "slug": "fassankoni-gn00800405"
+    },
+    "code": {
+      "id": "GN00800405",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008004",
+      "level": 2,
+      "name": {
+        "local": "Macenta",
+        "en": "Macenta",
+        "slug": "macenta-gn008004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008004",
+        "level": 2,
+        "name": {
+          "local": "Macenta",
+          "en": "Macenta",
+          "slug": "macenta-gn008004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.062",
+      "lon": "-9.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800406",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kouankan",
+      "en": "Kouankan",
+      "slug": "kouankan-gn00800406"
+    },
+    "code": {
+      "id": "GN00800406",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008004",
+      "level": 2,
+      "name": {
+        "local": "Macenta",
+        "en": "Macenta",
+        "slug": "macenta-gn008004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008004",
+        "level": 2,
+        "name": {
+          "local": "Macenta",
+          "en": "Macenta",
+          "slug": "macenta-gn008004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.511",
+      "lon": "-9.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800407",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koyamah",
+      "en": "Koyamah",
+      "slug": "koyamah-gn00800407"
+    },
+    "code": {
+      "id": "GN00800407",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008004",
+      "level": 2,
+      "name": {
+        "local": "Macenta",
+        "en": "Macenta",
+        "slug": "macenta-gn008004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008004",
+        "level": 2,
+        "name": {
+          "local": "Macenta",
+          "en": "Macenta",
+          "slug": "macenta-gn008004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.861",
+      "lon": "-9.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800408",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Macenta Ctre",
+      "en": "Macenta Ctre",
+      "slug": "macenta-ctre-gn00800408"
+    },
+    "code": {
+      "id": "GN00800408",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008004",
+      "level": 2,
+      "name": {
+        "local": "Macenta",
+        "en": "Macenta",
+        "slug": "macenta-gn008004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008004",
+        "level": 2,
+        "name": {
+          "local": "Macenta",
+          "en": "Macenta",
+          "slug": "macenta-gn008004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.539",
+      "lon": "-9.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800409",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Nzebela",
+      "en": "Nzebela",
+      "slug": "nzebela-gn00800409"
+    },
+    "code": {
+      "id": "GN00800409",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008004",
+      "level": 2,
+      "name": {
+        "local": "Macenta",
+        "en": "Macenta",
+        "slug": "macenta-gn008004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008004",
+        "level": 2,
+        "name": {
+          "local": "Macenta",
+          "en": "Macenta",
+          "slug": "macenta-gn008004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.131",
+      "lon": "-9.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800410",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ouremai",
+      "en": "Ouremai",
+      "slug": "ouremai-gn00800410"
+    },
+    "code": {
+      "id": "GN00800410",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008004",
+      "level": 2,
+      "name": {
+        "local": "Macenta",
+        "en": "Macenta",
+        "slug": "macenta-gn008004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008004",
+        "level": 2,
+        "name": {
+          "local": "Macenta",
+          "en": "Macenta",
+          "slug": "macenta-gn008004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.27",
+      "lon": "-9.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800411",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Panziazou",
+      "en": "Panziazou",
+      "slug": "panziazou-gn00800411"
+    },
+    "code": {
+      "id": "GN00800411",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008004",
+      "level": 2,
+      "name": {
+        "local": "Macenta",
+        "en": "Macenta",
+        "slug": "macenta-gn008004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008004",
+        "level": 2,
+        "name": {
+          "local": "Macenta",
+          "en": "Macenta",
+          "slug": "macenta-gn008004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.589",
+      "lon": "-9.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800412",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sengbedou",
+      "en": "Sengbedou",
+      "slug": "sengbedou-gn00800412"
+    },
+    "code": {
+      "id": "GN00800412",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008004",
+      "level": 2,
+      "name": {
+        "local": "Macenta",
+        "en": "Macenta",
+        "slug": "macenta-gn008004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008004",
+        "level": 2,
+        "name": {
+          "local": "Macenta",
+          "en": "Macenta",
+          "slug": "macenta-gn008004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.514",
+      "lon": "-9.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800413",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Seredou",
+      "en": "Seredou",
+      "slug": "seredou-gn00800413"
+    },
+    "code": {
+      "id": "GN00800413",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008004",
+      "level": 2,
+      "name": {
+        "local": "Macenta",
+        "en": "Macenta",
+        "slug": "macenta-gn008004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008004",
+        "level": 2,
+        "name": {
+          "local": "Macenta",
+          "en": "Macenta",
+          "slug": "macenta-gn008004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.288",
+      "lon": "-9.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800414",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Vasseredou",
+      "en": "Vasseredou",
+      "slug": "vasseredou-gn00800414"
+    },
+    "code": {
+      "id": "GN00800414",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008004",
+      "level": 2,
+      "name": {
+        "local": "Macenta",
+        "en": "Macenta",
+        "slug": "macenta-gn008004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008004",
+        "level": 2,
+        "name": {
+          "local": "Macenta",
+          "en": "Macenta",
+          "slug": "macenta-gn008004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.698",
+      "lon": "-9.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00800415",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Watanka",
+      "en": "Watanka",
+      "slug": "watanka-gn00800415"
+    },
+    "code": {
+      "id": "GN00800415",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN008004",
+      "level": 2,
+      "name": {
+        "local": "Macenta",
+        "en": "Macenta",
+        "slug": "macenta-gn008004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN008",
+        "level": 1,
+        "name": {
+          "local": "Nzerekore",
+          "en": "Nzerekore",
+          "slug": "nzerekore-gn008"
+        }
+      },
+      {
+        "id": "GN008004",
+        "level": 2,
+        "name": {
+          "local": "Macenta",
+          "en": "Macenta",
+          "slug": "macenta-gn008004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.765",
+      "lon": "-9.823"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

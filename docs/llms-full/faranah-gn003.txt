@@ -1,0 +1,193 @@
+# Faranah — Guinea Administrative Divisions
+
+> 4 prefectures, 41 sub-prefectures
+> Code: GN003
+> Coordinates: 10.517, -10.98
+> Last updated: 2026-05-24. License: CC-BY-4.0.
+
+## Prefectures
+
+### Dabola
+
+Code: GN003001, Coordinates: 10.774, -11.076
+Sub-prefectures: 9
+
+#### Arfamoussayah
+
+Code: GN00300101, Coordinates: 10.835, -11.281
+
+#### Banko
+
+Code: GN00300102, Coordinates: 10.655, -10.628
+
+#### Bissikrima
+
+Code: GN00300103, Coordinates: 10.95, -10.905
+
+#### Dabola Ctre
+
+Code: GN00300104, Coordinates: 10.79, -11.087
+
+#### Dogomet
+
+Code: GN00300105, Coordinates: 10.78, -11.396
+
+#### Kankama
+
+Code: GN00300106, Coordinates: 10.925, -11.058
+
+#### Kindoye
+
+Code: GN00300107, Coordinates: 10.515, -11.34
+
+#### Konendou
+
+Code: GN00300108, Coordinates: 10.632, -10.844
+
+#### Ndema
+
+Code: GN00300109, Coordinates: 10.654, -11.095
+
+### Dinguiraye
+
+Code: GN003002, Coordinates: 11.568, -10.725
+Sub-prefectures: 8
+
+#### Banora
+
+Code: GN00300201, Coordinates: 11.782, -10.393
+
+#### Dialakoro
+
+Code: GN00300202, Coordinates: 11.015, -11.061
+
+#### Diatifere
+
+Code: GN00300203, Coordinates: 11.794, -10.714
+
+#### Dinguiraye Ctre
+
+Code: GN00300204, Coordinates: 11.362, -10.607
+
+#### Gagnakaly
+
+Code: GN00300205, Coordinates: 11.796, -10.98
+
+#### Kalinko
+
+Code: GN00300206, Coordinates: 11.251, -11.185
+
+#### Lansanaya
+
+Code: GN00300207, Coordinates: 11.387, -10.944
+
+#### Selouma
+
+Code: GN00300208, Coordinates: 11.173, -10.965
+
+### Faranah
+
+Code: GN003003, Coordinates: 9.823, -10.719
+Sub-prefectures: 11
+
+#### Banian
+
+Code: GN00300301, Coordinates: 9.467, -10.611
+
+#### Beindou
+
+Code: GN00300302, Coordinates: 10.312, -10.369
+
+#### Faranah Ctre
+
+Code: GN00300303, Coordinates: 10.057, -10.727
+
+#### Gnaleah
+
+Code: GN00300304, Coordinates: 9.952, -10.51
+
+#### Heremakono
+
+Code: GN00300305, Coordinates: 9.925, -10.942
+
+#### Kobikoro
+
+Code: GN00300306, Coordinates: 9.169, -10.58
+
+#### Marella
+
+Code: GN00300307, Coordinates: 10.202, -11.323
+
+#### Passaya
+
+Code: GN00300308, Coordinates: 10.37, -10.92
+
+#### Sandenia
+
+Code: GN00300309, Coordinates: 10.117, -11.034
+
+#### Songoyah
+
+Code: GN00300310, Coordinates: 9.707, -10.86
+
+#### Tiro
+
+Code: GN00300311, Coordinates: 9.761, -10.56
+
+### Kissidougou
+
+Code: GN003004, Coordinates: 9.255, -10.036
+Sub-prefectures: 13
+
+#### Albadariah
+
+Code: GN00300401, Coordinates: 9.554, -10.043
+
+#### Banama
+
+Code: GN00300402, Coordinates: 9.048, -9.76
+
+#### Bardou
+
+Code: GN00300403, Coordinates: 9.035, -9.856
+
+#### Beindou
+
+Code: GN00300404, Coordinates: 9.09, -10.009
+
+#### Fermessadou
+
+Code: GN00300405, Coordinates: 9.141, -10.189
+
+#### Firawa
+
+Code: GN00300406, Coordinates: 9.24, -9.837
+
+#### Gbangbadou
+
+Code: GN00300407, Coordinates: 9.303, -9.993
+
+#### Kissidougou Ctre
+
+Code: GN00300408, Coordinates: 9.245, -10.133
+
+#### Kondiadou
+
+Code: GN00300409, Coordinates: 8.903, -9.894
+
+#### Manfran
+
+Code: GN00300410, Coordinates: 9.406, -9.799
+
+#### Sangardo
+
+Code: GN00300411, Coordinates: 9.411, -10.223
+
+#### Yende Millimou
+
+Code: GN00300412, Coordinates: 8.966, -10.187
+
+#### Yombiro
+
+Code: GN00300413, Coordinates: 9.096, -10.355
+

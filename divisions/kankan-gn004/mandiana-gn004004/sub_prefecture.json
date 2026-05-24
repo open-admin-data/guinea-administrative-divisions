@@ -1,0 +1,650 @@
+[
+  {
+    "id": "GN00400401",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Balandougouba",
+      "en": "Balandougouba",
+      "slug": "balandougouba-gn00400401"
+    },
+    "code": {
+      "id": "GN00400401",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004004",
+      "level": 2,
+      "name": {
+        "local": "Mandiana",
+        "en": "Mandiana",
+        "slug": "mandiana-gn004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004004",
+        "level": 2,
+        "name": {
+          "local": "Mandiana",
+          "en": "Mandiana",
+          "slug": "mandiana-gn004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.343",
+      "lon": "-8.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400402",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dialokoro",
+      "en": "Dialokoro",
+      "slug": "dialokoro-gn00400402"
+    },
+    "code": {
+      "id": "GN00400402",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004004",
+      "level": 2,
+      "name": {
+        "local": "Mandiana",
+        "en": "Mandiana",
+        "slug": "mandiana-gn004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004004",
+        "level": 2,
+        "name": {
+          "local": "Mandiana",
+          "en": "Mandiana",
+          "slug": "mandiana-gn004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.384",
+      "lon": "-8.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400403",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Faralako",
+      "en": "Faralako",
+      "slug": "faralako-gn00400403"
+    },
+    "code": {
+      "id": "GN00400403",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004004",
+      "level": 2,
+      "name": {
+        "local": "Mandiana",
+        "en": "Mandiana",
+        "slug": "mandiana-gn004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004004",
+        "level": 2,
+        "name": {
+          "local": "Mandiana",
+          "en": "Mandiana",
+          "slug": "mandiana-gn004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.663",
+      "lon": "-8.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400404",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kantoumanina",
+      "en": "Kantoumanina",
+      "slug": "kantoumanina-gn00400404"
+    },
+    "code": {
+      "id": "GN00400404",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004004",
+      "level": 2,
+      "name": {
+        "local": "Mandiana",
+        "en": "Mandiana",
+        "slug": "mandiana-gn004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004004",
+        "level": 2,
+        "name": {
+          "local": "Mandiana",
+          "en": "Mandiana",
+          "slug": "mandiana-gn004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.413",
+      "lon": "-8.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400405",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kinieran",
+      "en": "Kinieran",
+      "slug": "kinieran-gn00400405"
+    },
+    "code": {
+      "id": "GN00400405",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004004",
+      "level": 2,
+      "name": {
+        "local": "Mandiana",
+        "en": "Mandiana",
+        "slug": "mandiana-gn004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004004",
+        "level": 2,
+        "name": {
+          "local": "Mandiana",
+          "en": "Mandiana",
+          "slug": "mandiana-gn004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.128",
+      "lon": "-8.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400406",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koundian",
+      "en": "Koundian",
+      "slug": "koundian-gn00400406"
+    },
+    "code": {
+      "id": "GN00400406",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004004",
+      "level": 2,
+      "name": {
+        "local": "Mandiana",
+        "en": "Mandiana",
+        "slug": "mandiana-gn004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004004",
+        "level": 2,
+        "name": {
+          "local": "Mandiana",
+          "en": "Mandiana",
+          "slug": "mandiana-gn004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.838",
+      "lon": "-8.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400407",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koundianakoro",
+      "en": "Koundianakoro",
+      "slug": "koundianakoro-gn00400407"
+    },
+    "code": {
+      "id": "GN00400407",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004004",
+      "level": 2,
+      "name": {
+        "local": "Mandiana",
+        "en": "Mandiana",
+        "slug": "mandiana-gn004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004004",
+        "level": 2,
+        "name": {
+          "local": "Mandiana",
+          "en": "Mandiana",
+          "slug": "mandiana-gn004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.179",
+      "lon": "-8.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400408",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mandiana Ctre",
+      "en": "Mandiana Ctre",
+      "slug": "mandiana-ctre-gn00400408"
+    },
+    "code": {
+      "id": "GN00400408",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004004",
+      "level": 2,
+      "name": {
+        "local": "Mandiana",
+        "en": "Mandiana",
+        "slug": "mandiana-gn004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004004",
+        "level": 2,
+        "name": {
+          "local": "Mandiana",
+          "en": "Mandiana",
+          "slug": "mandiana-gn004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.607",
+      "lon": "-8.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400409",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Morodou",
+      "en": "Morodou",
+      "slug": "morodou-gn00400409"
+    },
+    "code": {
+      "id": "GN00400409",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004004",
+      "level": 2,
+      "name": {
+        "local": "Mandiana",
+        "en": "Mandiana",
+        "slug": "mandiana-gn004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004004",
+        "level": 2,
+        "name": {
+          "local": "Mandiana",
+          "en": "Mandiana",
+          "slug": "mandiana-gn004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.913",
+      "lon": "-8.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400410",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Niantanina",
+      "en": "Niantanina",
+      "slug": "niantanina-gn00400410"
+    },
+    "code": {
+      "id": "GN00400410",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004004",
+      "level": 2,
+      "name": {
+        "local": "Mandiana",
+        "en": "Mandiana",
+        "slug": "mandiana-gn004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004004",
+        "level": 2,
+        "name": {
+          "local": "Mandiana",
+          "en": "Mandiana",
+          "slug": "mandiana-gn004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.929",
+      "lon": "-8.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400411",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Saladou",
+      "en": "Saladou",
+      "slug": "saladou-gn00400411"
+    },
+    "code": {
+      "id": "GN00400411",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004004",
+      "level": 2,
+      "name": {
+        "local": "Mandiana",
+        "en": "Mandiana",
+        "slug": "mandiana-gn004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004004",
+        "level": 2,
+        "name": {
+          "local": "Mandiana",
+          "en": "Mandiana",
+          "slug": "mandiana-gn004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.304",
+      "lon": "-8.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00400412",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sansando",
+      "en": "Sansando",
+      "slug": "sansando-gn00400412"
+    },
+    "code": {
+      "id": "GN00400412",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN004004",
+      "level": 2,
+      "name": {
+        "local": "Mandiana",
+        "en": "Mandiana",
+        "slug": "mandiana-gn004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN004",
+        "level": 1,
+        "name": {
+          "local": "Kankan",
+          "en": "Kankan",
+          "slug": "kankan-gn004"
+        }
+      },
+      {
+        "id": "GN004004",
+        "level": 2,
+        "name": {
+          "local": "Mandiana",
+          "en": "Mandiana",
+          "slug": "mandiana-gn004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.025",
+      "lon": "-9.061"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

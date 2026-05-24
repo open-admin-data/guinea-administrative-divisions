@@ -1,0 +1,47 @@
+{
+  "id": "GN005003",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Forecariah",
+    "en": "Forecariah",
+    "slug": "forecariah-gn005003"
+  },
+  "code": {
+    "id": "GN005003",
+    "iso": null
+  },
+  "parent": {
+    "id": "GN005",
+    "level": 1,
+    "name": {
+      "local": "Kindia",
+      "en": "Kindia",
+      "slug": "kindia-gn005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GN005",
+      "level": 1,
+      "name": {
+        "local": "Kindia",
+        "en": "Kindia",
+        "slug": "kindia-gn005"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.383",
+    "lon": "-13.092"
+  },
+  "metadata": {},
+  "source": {}
+}

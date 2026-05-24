@@ -1,0 +1,30 @@
+{
+  "id": "GN007",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Mamou",
+    "en": "Mamou",
+    "slug": "mamou-gn007"
+  },
+  "code": {
+    "id": "GN007",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "prefecture": 3,
+    "sub_prefecture": 36
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.604",
+    "lon": "-12.008"
+  },
+  "metadata": {},
+  "source": {}
+}

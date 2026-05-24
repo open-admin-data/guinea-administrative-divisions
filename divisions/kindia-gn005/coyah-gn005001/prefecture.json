@@ -1,0 +1,47 @@
+{
+  "id": "GN005001",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Coyah",
+    "en": "Coyah",
+    "slug": "coyah-gn005001"
+  },
+  "code": {
+    "id": "GN005001",
+    "iso": null
+  },
+  "parent": {
+    "id": "GN005",
+    "level": 1,
+    "name": {
+      "local": "Kindia",
+      "en": "Kindia",
+      "slug": "kindia-gn005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GN005",
+      "level": 1,
+      "name": {
+        "local": "Kindia",
+        "en": "Kindia",
+        "slug": "kindia-gn005"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.754",
+    "lon": "-13.309"
+  },
+  "metadata": {},
+  "source": {}
+}

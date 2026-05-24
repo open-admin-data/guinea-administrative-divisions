@@ -1,0 +1,434 @@
+[
+  {
+    "id": "GN00100301",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Foulamory",
+      "en": "Foulamory",
+      "slug": "foulamory-gn00100301"
+    },
+    "code": {
+      "id": "GN00100301",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001003",
+      "level": 2,
+      "name": {
+        "local": "Gaoual",
+        "en": "Gaoual",
+        "slug": "gaoual-gn001003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001003",
+        "level": 2,
+        "name": {
+          "local": "Gaoual",
+          "en": "Gaoual",
+          "slug": "gaoual-gn001003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.147",
+      "lon": "-13.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00100302",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gaoual Ctre",
+      "en": "Gaoual Ctre",
+      "slug": "gaoual-ctre-gn00100302"
+    },
+    "code": {
+      "id": "GN00100302",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001003",
+      "level": 2,
+      "name": {
+        "local": "Gaoual",
+        "en": "Gaoual",
+        "slug": "gaoual-gn001003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001003",
+        "level": 2,
+        "name": {
+          "local": "Gaoual",
+          "en": "Gaoual",
+          "slug": "gaoual-gn001003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.753",
+      "lon": "-13.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00100303",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kakony",
+      "en": "Kakony",
+      "slug": "kakony-gn00100303"
+    },
+    "code": {
+      "id": "GN00100303",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001003",
+      "level": 2,
+      "name": {
+        "local": "Gaoual",
+        "en": "Gaoual",
+        "slug": "gaoual-gn001003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001003",
+        "level": 2,
+        "name": {
+          "local": "Gaoual",
+          "en": "Gaoual",
+          "slug": "gaoual-gn001003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.379",
+      "lon": "-13.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00100304",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koumbia",
+      "en": "Koumbia",
+      "slug": "koumbia-gn00100304"
+    },
+    "code": {
+      "id": "GN00100304",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001003",
+      "level": 2,
+      "name": {
+        "local": "Gaoual",
+        "en": "Gaoual",
+        "slug": "gaoual-gn001003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001003",
+        "level": 2,
+        "name": {
+          "local": "Gaoual",
+          "en": "Gaoual",
+          "slug": "gaoual-gn001003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.707",
+      "lon": "-13.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00100305",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kounsitel",
+      "en": "Kounsitel",
+      "slug": "kounsitel-gn00100305"
+    },
+    "code": {
+      "id": "GN00100305",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001003",
+      "level": 2,
+      "name": {
+        "local": "Gaoual",
+        "en": "Gaoual",
+        "slug": "gaoual-gn001003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001003",
+        "level": 2,
+        "name": {
+          "local": "Gaoual",
+          "en": "Gaoual",
+          "slug": "gaoual-gn001003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.884",
+      "lon": "-12.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00100306",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Malanta",
+      "en": "Malanta",
+      "slug": "malanta-gn00100306"
+    },
+    "code": {
+      "id": "GN00100306",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001003",
+      "level": 2,
+      "name": {
+        "local": "Gaoual",
+        "en": "Gaoual",
+        "slug": "gaoual-gn001003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001003",
+        "level": 2,
+        "name": {
+          "local": "Gaoual",
+          "en": "Gaoual",
+          "slug": "gaoual-gn001003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.577",
+      "lon": "-12.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00100307",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Touba",
+      "en": "Touba",
+      "slug": "touba-gn00100307"
+    },
+    "code": {
+      "id": "GN00100307",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001003",
+      "level": 2,
+      "name": {
+        "local": "Gaoual",
+        "en": "Gaoual",
+        "slug": "gaoual-gn001003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001003",
+        "level": 2,
+        "name": {
+          "local": "Gaoual",
+          "en": "Gaoual",
+          "slug": "gaoual-gn001003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.583",
+      "lon": "-12.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00100308",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Wendou Mbour",
+      "en": "Wendou Mbour",
+      "slug": "wendou-mbour-gn00100308"
+    },
+    "code": {
+      "id": "GN00100308",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN001003",
+      "level": 2,
+      "name": {
+        "local": "Gaoual",
+        "en": "Gaoual",
+        "slug": "gaoual-gn001003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN001",
+        "level": 1,
+        "name": {
+          "local": "Boke",
+          "en": "Boke",
+          "slug": "boke-gn001"
+        }
+      },
+      {
+        "id": "GN001003",
+        "level": 2,
+        "name": {
+          "local": "Gaoual",
+          "en": "Gaoual",
+          "slug": "gaoual-gn001003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.522",
+      "lon": "-13.801"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

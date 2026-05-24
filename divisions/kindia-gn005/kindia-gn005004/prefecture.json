@@ -1,0 +1,47 @@
+{
+  "id": "GN005004",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Kindia",
+    "en": "Kindia",
+    "slug": "kindia-gn005004"
+  },
+  "code": {
+    "id": "GN005004",
+    "iso": null
+  },
+  "parent": {
+    "id": "GN005",
+    "level": 1,
+    "name": {
+      "local": "Kindia",
+      "en": "Kindia",
+      "slug": "kindia-gn005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GN005",
+      "level": 1,
+      "name": {
+        "local": "Kindia",
+        "en": "Kindia",
+        "slug": "kindia-gn005"
+      }
+    }
+  ],
+  "children_count": {
+    "sub_prefecture": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.109",
+    "lon": "-12.669"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,704 @@
+[
+  {
+    "id": "GN00600201",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dalein",
+      "en": "Dalein",
+      "slug": "dalein-gn00600201"
+    },
+    "code": {
+      "id": "GN00600201",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006002",
+      "level": 2,
+      "name": {
+        "local": "Labe",
+        "en": "Labe",
+        "slug": "labe-gn006002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006002",
+        "level": 2,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.555",
+      "lon": "-12.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600202",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Daralabe",
+      "en": "Daralabe",
+      "slug": "daralabe-gn00600202"
+    },
+    "code": {
+      "id": "GN00600202",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006002",
+      "level": 2,
+      "name": {
+        "local": "Labe",
+        "en": "Labe",
+        "slug": "labe-gn006002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006002",
+        "level": 2,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.232",
+      "lon": "-12.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600203",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Diari",
+      "en": "Diari",
+      "slug": "diari-gn00600203"
+    },
+    "code": {
+      "id": "GN00600203",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006002",
+      "level": 2,
+      "name": {
+        "local": "Labe",
+        "en": "Labe",
+        "slug": "labe-gn006002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006002",
+        "level": 2,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.369",
+      "lon": "-12.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600204",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dionfo",
+      "en": "Dionfo",
+      "slug": "dionfo-gn00600204"
+    },
+    "code": {
+      "id": "GN00600204",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006002",
+      "level": 2,
+      "name": {
+        "local": "Labe",
+        "en": "Labe",
+        "slug": "labe-gn006002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006002",
+        "level": 2,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.335",
+      "lon": "-12.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600205",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Garambe",
+      "en": "Garambe",
+      "slug": "garambe-gn00600205"
+    },
+    "code": {
+      "id": "GN00600205",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006002",
+      "level": 2,
+      "name": {
+        "local": "Labe",
+        "en": "Labe",
+        "slug": "labe-gn006002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006002",
+        "level": 2,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.286",
+      "lon": "-12.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600206",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Hafia",
+      "en": "Hafia",
+      "slug": "hafia-gn00600206"
+    },
+    "code": {
+      "id": "GN00600206",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006002",
+      "level": 2,
+      "name": {
+        "local": "Labe",
+        "en": "Labe",
+        "slug": "labe-gn006002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006002",
+        "level": 2,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.217",
+      "lon": "-12.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600207",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kaalan",
+      "en": "Kaalan",
+      "slug": "kaalan-gn00600207"
+    },
+    "code": {
+      "id": "GN00600207",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006002",
+      "level": 2,
+      "name": {
+        "local": "Labe",
+        "en": "Labe",
+        "slug": "labe-gn006002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006002",
+        "level": 2,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.323",
+      "lon": "-12.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600208",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kouramangui",
+      "en": "Kouramangui",
+      "slug": "kouramangui-gn00600208"
+    },
+    "code": {
+      "id": "GN00600208",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006002",
+      "level": 2,
+      "name": {
+        "local": "Labe",
+        "en": "Labe",
+        "slug": "labe-gn006002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006002",
+        "level": 2,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.573",
+      "lon": "-12.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600209",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Labe Ctre",
+      "en": "Labe Ctre",
+      "slug": "labe-ctre-gn00600209"
+    },
+    "code": {
+      "id": "GN00600209",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006002",
+      "level": 2,
+      "name": {
+        "local": "Labe",
+        "en": "Labe",
+        "slug": "labe-gn006002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006002",
+        "level": 2,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.319",
+      "lon": "-12.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600210",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Noussy",
+      "en": "Noussy",
+      "slug": "noussy-gn00600210"
+    },
+    "code": {
+      "id": "GN00600210",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006002",
+      "level": 2,
+      "name": {
+        "local": "Labe",
+        "en": "Labe",
+        "slug": "labe-gn006002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006002",
+        "level": 2,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.228",
+      "lon": "-12.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600211",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Popodara",
+      "en": "Popodara",
+      "slug": "popodara-gn00600211"
+    },
+    "code": {
+      "id": "GN00600211",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006002",
+      "level": 2,
+      "name": {
+        "local": "Labe",
+        "en": "Labe",
+        "slug": "labe-gn006002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006002",
+        "level": 2,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.375",
+      "lon": "-12.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600212",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sannou",
+      "en": "Sannou",
+      "slug": "sannou-gn00600212"
+    },
+    "code": {
+      "id": "GN00600212",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006002",
+      "level": 2,
+      "name": {
+        "local": "Labe",
+        "en": "Labe",
+        "slug": "labe-gn006002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006002",
+        "level": 2,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.433",
+      "lon": "-12.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GN00600213",
+    "level": 3,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Tountourou",
+      "en": "Tountourou",
+      "slug": "tountourou-gn00600213"
+    },
+    "code": {
+      "id": "GN00600213",
+      "iso": null
+    },
+    "parent": {
+      "id": "GN006002",
+      "level": 2,
+      "name": {
+        "local": "Labe",
+        "en": "Labe",
+        "slug": "labe-gn006002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GN006",
+        "level": 1,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006"
+        }
+      },
+      {
+        "id": "GN006002",
+        "level": 2,
+        "name": {
+          "local": "Labe",
+          "en": "Labe",
+          "slug": "labe-gn006002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.427",
+      "lon": "-12.289"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]
