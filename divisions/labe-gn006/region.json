@@ -26,5 +26,9 @@
     "lon": "-11.942"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gn/regions/labe-gn006/",
+    "api": "https://openadmindata.org/api/gn/"
+  }
 }

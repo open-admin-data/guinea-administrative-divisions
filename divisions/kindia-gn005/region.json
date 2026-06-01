@@ -26,5 +26,9 @@
     "lon": "-13.017"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gn/regions/kindia-gn005/",
+    "api": "https://openadmindata.org/api/gn/"
+  }
 }

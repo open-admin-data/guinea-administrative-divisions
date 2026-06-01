@@ -26,5 +26,9 @@
     "lon": "-8.89"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gn/regions/nzerekore-gn008/",
+    "api": "https://openadmindata.org/api/gn/"
+  }
 }

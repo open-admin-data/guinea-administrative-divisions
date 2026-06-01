@@ -26,5 +26,9 @@
     "lon": "-13.551"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gn/regions/conakry-gn002/",
+    "api": "https://openadmindata.org/api/gn/"
+  }
 }

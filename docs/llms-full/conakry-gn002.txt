@@ -3,7 +3,7 @@
 > 1 prefectures, 5 sub-prefectures
 > Code: GN002
 > Coordinates: 9.626, -13.551
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Prefectures
 

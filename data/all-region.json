@@ -27,7 +27,11 @@
       "lon": "-14.312"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gn/regions/boke-gn001/",
+      "api": "https://openadmindata.org/api/gn/"
+    }
   },
   {
     "id": "GN002",
@@ -57,7 +61,11 @@
       "lon": "-13.551"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gn/regions/conakry-gn002/",
+      "api": "https://openadmindata.org/api/gn/"
+    }
   },
   {
     "id": "GN003",
@@ -87,7 +95,11 @@
       "lon": "-10.98"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gn/regions/faranah-gn003/",
+      "api": "https://openadmindata.org/api/gn/"
+    }
   },
   {
     "id": "GN004",
@@ -117,7 +129,11 @@
       "lon": "-9.378"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gn/regions/kankan-gn004/",
+      "api": "https://openadmindata.org/api/gn/"
+    }
   },
   {
     "id": "GN005",
@@ -147,7 +163,11 @@
       "lon": "-13.017"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gn/regions/kindia-gn005/",
+      "api": "https://openadmindata.org/api/gn/"
+    }
   },
   {
     "id": "GN006",
@@ -177,7 +197,11 @@
       "lon": "-11.942"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gn/regions/labe-gn006/",
+      "api": "https://openadmindata.org/api/gn/"
+    }
   },
   {
     "id": "GN007",
@@ -207,7 +231,11 @@
       "lon": "-12.008"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gn/regions/mamou-gn007/",
+      "api": "https://openadmindata.org/api/gn/"
+    }
   },
   {
     "id": "GN008",
@@ -237,6 +265,10 @@
       "lon": "-8.89"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gn/regions/nzerekore-gn008/",
+      "api": "https://openadmindata.org/api/gn/"
+    }
   }
 ]

@@ -3,7 +3,7 @@
 > 6 prefectures, 66 sub-prefectures
 > Code: GN008
 > Coordinates: 8.391, -8.89
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Prefectures
 

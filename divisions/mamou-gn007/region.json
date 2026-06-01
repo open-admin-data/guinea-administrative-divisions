@@ -26,5 +26,9 @@
     "lon": "-12.008"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gn/regions/mamou-gn007/",
+    "api": "https://openadmindata.org/api/gn/"
+  }
 }

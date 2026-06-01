@@ -26,5 +26,9 @@
     "lon": "-14.312"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gn/regions/boke-gn001/",
+    "api": "https://openadmindata.org/api/gn/"
+  }
 }

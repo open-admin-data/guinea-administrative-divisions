@@ -26,5 +26,9 @@
     "lon": "-10.98"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gn/regions/faranah-gn003/",
+    "api": "https://openadmindata.org/api/gn/"
+  }
 }
